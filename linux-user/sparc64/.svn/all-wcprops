@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/linux-user/sparc64
+END
+termbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/linux-user/sparc64/termbits.h
+END
+syscall_nr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/linux-user/sparc64/syscall_nr.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/linux-user/sparc64/syscall.h
+END
+target_signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/linux-user/sparc64/target_signal.h
+END

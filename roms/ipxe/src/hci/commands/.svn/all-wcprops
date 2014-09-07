@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands
+END
+gdbstub_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/gdbstub_cmd.c
+END
+autoboot_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/autoboot_cmd.c
+END
+route_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/route_cmd.c
+END
+time_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/time_cmd.c
+END
+vlan_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/vlan_cmd.c
+END
+nvo_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/nvo_cmd.c
+END
+iwmgmt_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/iwmgmt_cmd.c
+END
+config_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/config_cmd.c
+END
+sanboot_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/sanboot_cmd.c
+END
+login_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/login_cmd.c
+END
+lotest_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/lotest_cmd.c
+END
+fcmgmt_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/fcmgmt_cmd.c
+END
+dhcp_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/dhcp_cmd.c
+END
+digest_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/digest_cmd.c
+END
+image_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/image_cmd.c
+END
+ifmgmt_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/ifmgmt_cmd.c
+END

@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/23/trunk/tests/lm32
+END
+test_andi.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_andi.S
+END
+test_call.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_call.S
+END
+test_bgeu.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_bgeu.S
+END
+test_calli.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_calli.S
+END
+test_be.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_be.S
+END
+test_bg.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_bg.S
+END
+crt.S
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/tests/lm32/crt.S
+END
+test_sw.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_sw.S
+END
+test_bi.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_bi.S
+END
+macros.inc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/macros.inc
+END
+test_lb.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_lb.S
+END
+test_scall.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_scall.S
+END
+test_nor.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_nor.S
+END
+test_and.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_and.S
+END
+test_lh.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_lh.S
+END
+test_modu.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_modu.S
+END
+test_muli.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_muli.S
+END
+test_xor.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_xor.S
+END
+test_andhi.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_andhi.S
+END
+test_sli.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_sli.S
+END
+test_lhu.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_lhu.S
+END
+test_cmpge.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpge.S
+END
+test_bge.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_bge.S
+END
+test_cmpgi.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgi.S
+END
+test_eret.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_eret.S
+END
+test_sb.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_sb.S
+END
+test_cmpgei.S
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgei.S
+END
+test_divu.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_divu.S
+END
+test_sh.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_sh.S
+END
+test_cmpnei.S
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpnei.S
+END
+test_cmpgu.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgu.S
+END
+test_bgu.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_bgu.S
+END
+test_sl.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_sl.S
+END
+test_or.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_or.S
+END
+test_cmpgeu.S
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgeu.S
+END
+test_b.S
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/tests/lm32/test_b.S
+END
+test_xori.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_xori.S
+END
+test_srui.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_srui.S
+END
+linker.ld
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/linker.ld
+END
+test_sr.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_sr.S
+END
+test_cmpe.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpe.S
+END
+test_break.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_break.S
+END
+test_cmpgui.S
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgui.S
+END
+test_cmpg.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpg.S
+END
+test_add.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_add.S
+END
+test_sub.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_sub.S
+END
+test_ret.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_ret.S
+END
+test_bret.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_bret.S
+END
+test_mul.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_mul.S
+END
+test_xnori.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_xnori.S
+END
+test_orhi.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_orhi.S
+END
+test_cmpne.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpne.S
+END
+test_bne.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_bne.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/tests/lm32/Makefile
+END
+test_lbu.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_lbu.S
+END
+test_lw.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_lw.S
+END
+test_sextb.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_sextb.S
+END
+test_xnor.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_xnor.S
+END
+test_ori.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_ori.S
+END
+test_cmpgeui.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgeui.S
+END
+test_sexth.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_sexth.S
+END
+test_sri.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_sri.S
+END
+test_cmpei.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpei.S
+END
+test_addi.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_addi.S
+END
+test_nori.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_nori.S
+END
+test_sru.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_sru.S
+END

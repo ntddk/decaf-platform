@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/efi/ipxe
+END
+dhcp_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/efi/ipxe/dhcp_arch.h
+END

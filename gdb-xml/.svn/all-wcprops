@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/23/trunk/gdb-xml
+END
+arm-vfp3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/gdb-xml/arm-vfp3.xml
+END
+cf-fp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/gdb-xml/cf-fp.xml
+END
+arm-neon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/gdb-xml/arm-neon.xml
+END
+power64-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/gdb-xml/power64-core.xml
+END
+cf-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/gdb-xml/cf-core.xml
+END
+power-altivec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/gdb-xml/power-altivec.xml
+END
+power-spe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/gdb-xml/power-spe.xml
+END
+power-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/gdb-xml/power-core.xml
+END
+power-fpu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/gdb-xml/power-fpu.xml
+END
+arm-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/gdb-xml/arm-core.xml
+END
+arm-vfp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/gdb-xml/arm-vfp.xml
+END

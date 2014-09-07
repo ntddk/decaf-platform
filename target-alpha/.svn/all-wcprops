@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/target-alpha
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/target-alpha/cpu.h
+END
+op_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/target-alpha/op_helper.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/target-alpha/translate.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/target-alpha/helper.c
+END
+STATUS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/target-alpha/STATUS
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/target-alpha/helper.h
+END
+machine.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/target-alpha/machine.c
+END

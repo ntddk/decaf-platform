@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/utils/dist/debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/openbios/utils/dist/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/utils/dist/debian/rules
+END
+packages
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/utils/dist/debian/packages
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/utils/dist/debian/control
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof
+END
+pci-class_03.fs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-class_03.fs
+END
+citrine-flash.fs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine-flash.fs
+END
+rtc.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/rtc.fs
+END
+pci-aliases.fs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-aliases.fs
+END
+pci-device_1022_7451.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1022_7451.fs
+END
+flash.fs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/flash.fs
+END
+tpm.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/tpm.fs
+END
+ioapic.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ioapic.fs
+END
+pci-device_1022_7469.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1022_7469.fs
+END
+io.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/io.fs
+END
+memory.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/memory.fs
+END
+pci-device_1014_028c.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1014_028c.fs
+END
+pci-device_1002_515e.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1002_515e.fs
+END
+ipmi-kcs.fs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ipmi-kcs.fs
+END
+i2c.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/i2c.fs
+END
+serial.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/serial.fs
+END
+vga-display.fs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/vga-display.fs
+END
+pci-device_1014_02bd.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1014_02bd.fs
+END
+ipmi-vpd.fs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ipmi-vpd.fs
+END
+citrine-disk.fs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine-disk.fs
+END
+cpu.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/cpu.fs
+END
+pci-interrupts.fs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-interrupts.fs
+END
+header.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/header.fs
+END
+mpic.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/mpic.fs
+END
+pci-bridge_1022_7460.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-bridge_1022_7460.fs
+END
+dart.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/dart.fs
+END
+sio.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/sio.fs
+END
+freq.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/freq.fs
+END
+citrine.fs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine.fs
+END
+tree.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/tree.fs
+END
+pci-capabilities.fs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-capabilities.fs
+END
+pci-device_1022_7468.fs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1022_7468.fs
+END
+OF.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/OF.fs
+END
+u4-mem.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/u4-mem.fs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/Makefile
+END
+rtas.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/rtas.fs
+END
+copyright-oss.fs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/copyright-oss.fs
+END
+ht.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ht.fs
+END
+attu.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/attu.fs
+END
+helper.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/helper.fs
+END

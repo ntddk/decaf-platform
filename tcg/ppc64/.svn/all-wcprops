@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/23/trunk/tcg/ppc64
+END
+tcg-target.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tcg/ppc64/tcg-target.c
+END
+tcg-target.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tcg/ppc64/tcg-target.h
+END

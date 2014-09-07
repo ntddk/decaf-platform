@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core
+END
+hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/hw.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/random.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/timer.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/main.c
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/ctype.c
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/base64.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/exec.c
+END
+ansiesc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/ansiesc.c
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/errno.c
+END
+asprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/asprintf.c
+END
+btext.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/btext.c
+END
+blockdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/blockdev.c
+END
+posix_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/posix_io.c
+END
+gdbstub.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/gdbstub.c
+END
+cpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/cpio.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/misc.c
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/pcmcia.c
+END
+gdbserial.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/gdbserial.c
+END
+edd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/edd.c
+END
+fnrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/fnrec.c
+END
+null_sanboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/null_sanboot.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/interface.c
+END
+serial_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/serial_console.c
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/open.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/console.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/getopt.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/init.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/string.c
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/uuid.c
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/malloc.c
+END
+stringextra.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/stringextra.c
+END
+resolv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/resolv.c
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/basename.c
+END
+acpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/acpi.c
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/process.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/serial.c
+END
+refcnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/refcnt.c
+END
+base16.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/base16.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/image.c
+END
+pc_kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/pc_kbd.c
+END
+linebuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/linebuf.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/debug.c
+END
+strtoull.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/strtoull.c
+END
+getkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/getkey.c
+END
+cwuri.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/cwuri.c
+END
+debug_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/debug_md5.c
+END
+parseopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/parseopt.c
+END
+downloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/downloader.c
+END
+uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/uri.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/device.c
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/settings.c
+END
+i82365.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/i82365.c
+END
+bitops.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/bitops.c
+END
+nvo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/nvo.c
+END
+monojob.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/monojob.c
+END
+iobuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/iobuf.c
+END
+xfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/xfer.c
+END
+gdbudp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/gdbudp.c
+END
+null_nap.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/null_nap.c
+END
+job.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/job.c
+END
+vsprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/vsprintf.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/core/bitmap.c
+END

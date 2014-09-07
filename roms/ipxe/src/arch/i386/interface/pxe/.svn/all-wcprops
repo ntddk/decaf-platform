@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe
+END
+pxe_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_udp.c
+END
+pxe_preboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_preboot.c
+END
+pxe_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_call.c
+END
+pxe_tftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_tftp.c
+END
+pxe_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_file.c
+END
+pxe_undi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_undi.c
+END
+pxe_entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_entry.S
+END
+pxe_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_loader.c
+END

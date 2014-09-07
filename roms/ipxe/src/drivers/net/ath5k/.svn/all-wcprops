@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k
+END
+ath5k_desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_desc.c
+END
+rfgain.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/rfgain.h
+END
+ath5k.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k.c
+END
+ath5k_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_reset.c
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/base.h
+END
+ath5k_rfkill.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_rfkill.c
+END
+ath5k.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k.h
+END
+ath5k_caps.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_caps.c
+END
+reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/reg.h
+END
+ath5k_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_eeprom.c
+END
+ath5k_pcu.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_pcu.c
+END
+desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/desc.h
+END
+ath5k_qcu.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_qcu.c
+END
+ath5k_initvals.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_initvals.c
+END
+ath5k_gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_gpio.c
+END
+ath5k_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_phy.c
+END
+eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/eeprom.h
+END
+ath5k_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_dma.c
+END
+ath5k_attach.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_attach.c
+END
+rfbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/rfbuffer.h
+END

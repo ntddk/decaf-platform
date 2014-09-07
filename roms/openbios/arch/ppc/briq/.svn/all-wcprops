@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq
+END
+briq.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/briq.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/tree.c
+END
+vfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/vfd.c
+END
+kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/kernel.c
+END
+briq.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/briq.h
+END
+briq.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/briq.fs
+END
+methods.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/methods.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/init.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/main.c
+END
+tree.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/tree.fs
+END

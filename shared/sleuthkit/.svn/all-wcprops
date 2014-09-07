@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/shared/sleuthkit
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/sleuthkit/Makefile
+END
+check-install
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/shared/sleuthkit/check-install
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/sleuthkit/TODO.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/shared/sleuthkit/INSTALL.txt
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/shared/sleuthkit/CHANGES.txt
+END
+patchlevel
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/shared/sleuthkit/patchlevel
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/shared/sleuthkit/README.txt
+END

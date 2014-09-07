@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660
+END
+libiso9660.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/libiso9660.h
+END
+iso9660_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_fs.h
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/build.xml
+END
+iso9660_opendir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_opendir.c
+END
+iso9660_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_open.c
+END
+iso9660_mount.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_mount.c
+END
+iso9660_lseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_lseek.c
+END
+iso9660_closedir.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_closedir.c
+END
+iso9660_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_close.c
+END
+iso9660.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660.h
+END
+iso9660_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_fs.c
+END
+iso9660_readdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_readdir.c
+END
+iso9660_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/fs/iso9660/iso9660_read.c
+END

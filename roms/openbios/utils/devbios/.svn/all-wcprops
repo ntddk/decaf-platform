@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios
+END
+bios_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/bios_core.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/ChangeLog
+END
+README.bios
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/README.bios
+END
+pcisets.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/pcisets.c
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/CREDITS
+END
+pcisets.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/pcisets.h
+END
+Makefile.24
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/Makefile.24
+END
+programming.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/programming.c
+END
+filesystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/filesystem.c
+END
+flashchips.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/flashchips.c
+END
+ToDo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/ToDo
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/COPYING
+END
+programming.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/programming.h
+END
+flashchips.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/flashchips.h
+END
+procfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/procfs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/Makefile
+END
+comp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/comp.c
+END
+bios.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/utils/devbios/bios.h
+END

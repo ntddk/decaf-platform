@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/getopt
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/getopt/getopt.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/getopt/Makefile.inc
+END

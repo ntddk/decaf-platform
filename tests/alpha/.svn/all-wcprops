@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/tests/alpha
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/alpha/Makefile
+END
+test-cond.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/alpha/test-cond.c
+END
+hello-alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tests/alpha/hello-alpha.c
+END
+test-ovf.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/alpha/test-ovf.c
+END
+crt.s
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/tests/alpha/crt.s
+END

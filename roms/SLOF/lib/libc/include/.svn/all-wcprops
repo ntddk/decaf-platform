@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stddef.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/limits.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stdlib.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stdio.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/getopt.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stdarg.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/ctype.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/errno.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stdint.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/unistd.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/string.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/libc
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/libc/io.c
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/libc/ioctl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/libc/Makefile
+END
+sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/libc/sbrk.c
+END

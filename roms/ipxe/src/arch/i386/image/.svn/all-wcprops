@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image
+END
+nbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/nbi.c
+END
+elfboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/elfboot.c
+END
+pxe_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/pxe_image.c
+END
+multiboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/multiboot.c
+END
+bzimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/bzimage.c
+END
+comboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/comboot.c
+END
+bootsector.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/bootsector.c
+END
+com32.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/image/com32.c
+END

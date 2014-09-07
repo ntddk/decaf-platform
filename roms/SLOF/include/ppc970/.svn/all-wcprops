@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/SLOF/include/ppc970
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/include/ppc970/cache.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/SLOF/include/ppc970/cpu.h
+END

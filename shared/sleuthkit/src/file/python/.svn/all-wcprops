@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/example.py
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/Makefile.in
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/setup.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/Makefile.am
+END
+py_magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/py_magic.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/README
+END
+py_magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/python/py_magic.h
+END

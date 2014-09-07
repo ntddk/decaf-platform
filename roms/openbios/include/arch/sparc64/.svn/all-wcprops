@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64
+END
+a.out.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64/a.out.h
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64/elf.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64/io.h
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64/pci.h
+END
+asi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64/asi.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc64/types.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus
+END
+virtio-ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/virtio-ring.c
+END
+isapnp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/isapnp.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/pci.c
+END
+isa_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/isa_ids.c
+END
+isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/isa.c
+END
+pciextra.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/pciextra.c
+END
+mca.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/mca.c
+END
+pcibackup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/pcibackup.c
+END
+eisa.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/eisa.c
+END
+virtio-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/virtio-pci.c
+END
+pcivpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/bus/pcivpd.c
+END

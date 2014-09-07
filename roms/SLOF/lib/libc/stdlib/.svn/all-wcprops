@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib
+END
+memalign.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/memalign.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/error.c
+END
+atoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/atoi.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/strtoul.c
+END
+malloc_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/malloc_defs.h
+END
+atol.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/atol.c
+END
+realloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/realloc.c
+END
+free.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/free.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/Makefile.inc
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/rand.c
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/malloc.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/strtol.c
+END

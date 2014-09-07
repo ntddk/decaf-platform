@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/target-xtensa
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/target-xtensa/helper.c
+END
+overlay_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/target-xtensa/overlay_tool.h
+END
+core-fsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/target-xtensa/core-fsf.c
+END
+machine.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/target-xtensa/machine.c
+END
+core-dc232b.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/target-xtensa/core-dc232b.c
+END
+helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/target-xtensa/helpers.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/target-xtensa/cpu.h
+END
+op_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/target-xtensa/op_helper.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/target-xtensa/translate.c
+END

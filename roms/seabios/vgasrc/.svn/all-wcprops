@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc
+END
+vgalayout.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgalayout.lds.S
+END
+vgatables.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgatables.h
+END
+vga.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vga.c
+END
+clext.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/clext.c
+END
+vgaentry.S
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgaentry.S
+END
+vgaio.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgaio.c
+END
+vgafb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgafb.c
+END
+vgafonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgafonts.c
+END
+vgatables.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgatables.c
+END

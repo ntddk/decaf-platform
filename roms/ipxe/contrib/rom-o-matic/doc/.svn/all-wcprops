@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc
+END
+NMB_RESOLVER.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/NMB_RESOLVER.html
+END
+IMAGE_PXE.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_PXE.html
+END
+COMSPEED.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMSPEED.html
+END
+COMCONSOLE.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMCONSOLE.html
+END
+DHCP_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DHCP_CMD.html
+END
+IMAGE_SCRIPT.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_SCRIPT.html
+END
+IFMGMT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IFMGMT_CMD.html
+END
+COMDATA.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMDATA.html
+END
+IMAGE_BZIMAGE.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_BZIMAGE.html
+END
+IMAGE_MULTIBOOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_MULTIBOOT.html
+END
+CRYPTO_80211_WPA.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WPA.html
+END
+CONFIG_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CONFIG_CMD.html
+END
+COMPRESERVE.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMPRESERVE.html
+END
+CONSOLE_PC_BIOS.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CONSOLE_PC_BIOS.html
+END
+CONSOLE_SERIAL.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CONSOLE_SERIAL.html
+END
+DOWNLOAD_PROTO_FTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_FTP.html
+END
+CRYPTO_80211_WPA2.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WPA2.html
+END
+IMAGE_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_CMD.html
+END
+DNS_RESOLVER.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DNS_RESOLVER.html
+END
+COMPARITY.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMPARITY.html
+END
+IMAGE_ELF.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_ELF.html
+END
+IMAGE_NBI.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_NBI.html
+END
+BANNER_TIMEOUT.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/BANNER_TIMEOUT.html
+END
+AUTOBOOT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/AUTOBOOT_CMD.html
+END
+ROUTE_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/ROUTE_CMD.html
+END
+COMSTOP.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMSTOP.html
+END
+NVO_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/NVO_CMD.html
+END
+CRYPTO_80211_WEP.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WEP.html
+END
+DOWNLOAD_PROTO_TFTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_TFTP.html
+END
+IWMGMT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IWMGMT_CMD.html
+END
+SANBOOT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/SANBOOT_CMD.html
+END
+DOWNLOAD_PROTO_HTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_HTTP.html
+END

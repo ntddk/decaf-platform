@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/247/trunk/shared/utils
+END
+Output.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/shared/utils/Output.h
+END
+SimpleCallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/247/trunk/shared/utils/SimpleCallback.c
+END
+SimpleCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/shared/utils/SimpleCallback.h
+END
+HashtableWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/utils/HashtableWrapper.cpp
+END
+Output.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/shared/utils/Output.c
+END
+HashtableWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/shared/utils/HashtableWrapper.h
+END

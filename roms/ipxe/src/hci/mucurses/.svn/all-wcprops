@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses
+END
+colour.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/colour.c
+END
+print_nadv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/print_nadv.c
+END
+mucurses.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/mucurses.c
+END
+alert.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/alert.c
+END
+mucurses.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/mucurses.h
+END
+winattrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/winattrs.c
+END
+wininit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/wininit.c
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/cursor.h
+END
+clear.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/clear.c
+END
+ansi_screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/ansi_screen.c
+END
+slk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/slk.c
+END
+windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/windows.c
+END
+print.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/print.c
+END
+kb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/kb.c
+END
+edging.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/mucurses/edging.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/syslinux
+END
+com32_wrapper.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/syslinux/com32_wrapper.S
+END
+comboot_resolv.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/syslinux/comboot_resolv.c
+END
+comboot_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/syslinux/comboot_call.c
+END
+com32_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/syslinux/com32_call.c
+END

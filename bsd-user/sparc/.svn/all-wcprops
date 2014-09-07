@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/bsd-user/sparc
+END
+target_signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/bsd-user/sparc/target_signal.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/bsd-user/sparc/syscall.h
+END

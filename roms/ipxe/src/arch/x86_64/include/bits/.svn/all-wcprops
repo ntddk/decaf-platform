@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits
+END
+sanboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/sanboot.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/stdint.h
+END
+uaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/uaccess.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/io.h
+END
+errfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/errfile.h
+END
+linux_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/linux_api.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/compiler.h
+END
+smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/smbios.h
+END
+umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/umalloc.h
+END
+nap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/nap.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/endian.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/byteswap.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/include/bits/timer.h
+END

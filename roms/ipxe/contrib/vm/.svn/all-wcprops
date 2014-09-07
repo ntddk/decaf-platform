@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/.gitignore
+END
+cow
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/cow
+END
+bochs-writable-ROM-patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/bochs-writable-ROM-patch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/Makefile
+END
+serial-console.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/serial-console.1
+END
+serial-console
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/serial-console
+END
+bochsrc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/vm/bochsrc.txt
+END

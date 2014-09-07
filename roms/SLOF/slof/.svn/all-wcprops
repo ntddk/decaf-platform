@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/roms/SLOF/slof
+END
+ppc64.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ppc64.in
+END
+lowmem.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/lowmem.S
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/entry.S
+END
+ppc64.code
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ppc64.code
+END
+default-font.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/default-font.c
+END
+engine.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/engine.in
+END
+prim.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/prim.in
+END
+ppc64.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ppc64.c
+END
+prim.code
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/prim.code
+END
+ppc64.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ppc64.h
+END
+OF.lds
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/OF.lds
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/Makefile.inc
+END
+ref.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ref.pl
+END
+paflof.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/paflof.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/types.h
+END
+prep.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/prep.h
+END
+ofw.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ofw.S
+END
+paflof.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/paflof.h
+END

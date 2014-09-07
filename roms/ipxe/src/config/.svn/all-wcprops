@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config
+END
+config_romprefix.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/config_romprefix.c
+END
+umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/umalloc.h
+END
+config_ethernet.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/config_ethernet.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/config.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/ioapi.h
+END
+config_net80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/config_net80211.c
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/console.h
+END
+sanboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/sanboot.h
+END
+defaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/defaults.h
+END
+config_fc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/config_fc.c
+END
+sideband.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/sideband.h
+END
+isa.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/isa.h
+END
+general.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/general.h
+END
+nap.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/nap.h
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/serial.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/.gitignore
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/timer.h
+END
+config_infiniband.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/config/config_infiniband.c
+END

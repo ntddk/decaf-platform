@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/default-configs
+END
+ppc64abi32-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/default-configs/ppc64abi32-linux-user.mak
+END
+i386-darwin-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/i386-darwin-user.mak
+END
+xtensa-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/xtensa-softmmu.mak
+END
+sparc64-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/default-configs/sparc64-linux-user.mak
+END
+ppc-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/ppc-linux-user.mak
+END
+sh4eb-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/default-configs/sh4eb-softmmu.mak
+END
+microblaze-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/default-configs/microblaze-linux-user.mak
+END
+mips-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/default-configs/mips-softmmu.mak
+END
+mipsel-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/default-configs/mipsel-linux-user.mak
+END
+sparc64-bsd-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/sparc64-bsd-user.mak
+END
+lm32-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/default-configs/lm32-softmmu.mak
+END
+arm-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/default-configs/arm-softmmu.mak
+END
+x86_64-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/default-configs/x86_64-linux-user.mak
+END
+sh4-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/sh4-linux-user.mak
+END
+cris-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/cris-linux-user.mak
+END
+sparc64-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/sparc64-softmmu.mak
+END
+ppc-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/default-configs/ppc-softmmu.mak
+END
+pci.mak
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/default-configs/pci.mak
+END
+m68k-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/default-configs/m68k-softmmu.mak
+END
+alpha-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/default-configs/alpha-softmmu.mak
+END
+sh4eb-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/sh4eb-linux-user.mak
+END
+x86_64-bsd-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/x86_64-bsd-user.mak
+END
+i386-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/default-configs/i386-softmmu.mak
+END
+sparc-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/sparc-linux-user.mak
+END
+microblazeel-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/default-configs/microblazeel-linux-user.mak
+END
+x86_64-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/x86_64-softmmu.mak
+END
+sh4-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/default-configs/sh4-softmmu.mak
+END
+cris-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/default-configs/cris-softmmu.mak
+END
+arm-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/arm-linux-user.mak
+END
+sparc-bsd-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/sparc-bsd-user.mak
+END
+sparc32plus-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/default-configs/sparc32plus-linux-user.mak
+END
+mips64el-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/mips64el-softmmu.mak
+END
+ppcemb-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/ppcemb-softmmu.mak
+END
+alpha-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/alpha-linux-user.mak
+END
+m68k-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/m68k-linux-user.mak
+END
+armeb-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/armeb-linux-user.mak
+END
+s390x-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/s390x-linux-user.mak
+END
+microblazeel-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/default-configs/microblazeel-softmmu.mak
+END
+sparc-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/default-configs/sparc-softmmu.mak
+END
+xtensaeb-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/xtensaeb-softmmu.mak
+END
+i386-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/i386-linux-user.mak
+END
+ppc64-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/default-configs/ppc64-linux-user.mak
+END
+mips64-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/mips64-softmmu.mak
+END
+i386-bsd-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/default-configs/i386-bsd-user.mak
+END
+s390x-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/default-configs/s390x-softmmu.mak
+END
+microblaze-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/default-configs/microblaze-softmmu.mak
+END
+ppc-darwin-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/ppc-darwin-user.mak
+END
+mips-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/default-configs/mips-linux-user.mak
+END
+mipsel-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/default-configs/mipsel-softmmu.mak
+END
+unicore32-linux-user.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/default-configs/unicore32-linux-user.mak
+END
+ppc64-softmmu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/default-configs/ppc64-softmmu.mak
+END

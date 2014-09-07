@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband
+END
+qib7322.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib7322.h
+END
+MT25218_PRM.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/MT25218_PRM.h
+END
+MT25408_PRM.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/MT25408_PRM.h
+END
+qib_7220_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib_7220_regs.h
+END
+qib_7322_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib_7322_regs.h
+END
+qib_genbits.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib_genbits.pl
+END
+linda_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/linda_fw.c
+END
+arbel.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/arbel.c
+END
+mlx_bitops.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/mlx_bitops.h
+END
+linda.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/linda.c
+END
+hermon.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/hermon.c
+END
+qib7322.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib7322.c
+END
+arbel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/arbel.h
+END
+linda.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/linda.h
+END
+hermon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/hermon.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram
+END
+nvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram/nvram.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram/Makefile
+END
+libnvram.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram/libnvram.in
+END
+envvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram/envvar.c
+END
+libnvram.code
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram/libnvram.code
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libnvram/nvram.c
+END

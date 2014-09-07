@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/zlib123/lib
+END
+zlib.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/zlib123/lib/zlib.def
+END
+zdll.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/zlib123/lib/zdll.exp
+END
+zdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/zlib123/lib/zdll.lib
+END

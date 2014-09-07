@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc
+END
+mmutypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/mmutypes.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/Kconfig
+END
+osi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/osi.h
+END
+ofmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/ofmem.c
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/defconfig
+END
+ppc.fs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/ppc.fs
+END
+timebase.S
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/timebase.S
+END
+misc.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/misc.S
+END
+Makefile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/Makefile.asm
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/start.S
+END
+osi_calls.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/osi_calls.h
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/build.xml
+END
+kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/kernel.c
+END
+kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/kernel.h
+END

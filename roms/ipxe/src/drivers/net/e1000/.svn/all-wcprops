@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000
+END
+e1000_82543.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_82543.h
+END
+e1000_manage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_manage.h
+END
+e1000_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_mac.c
+END
+e1000_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_phy.c
+END
+e1000_nvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_nvm.c
+END
+e1000_nvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_nvm.h
+END
+e1000_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_mac.h
+END
+e1000_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_regs.h
+END
+e1000_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_phy.h
+END
+e1000_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_api.c
+END
+e1000_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_api.h
+END
+e1000_osdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_osdep.h
+END
+e1000.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000.c
+END
+e1000_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_defines.h
+END
+e1000_82540.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_82540.c
+END
+e1000_82541.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_82541.c
+END
+e1000_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_hw.h
+END
+e1000_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_main.c
+END
+e1000_82542.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_82542.c
+END
+e1000.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000.h
+END
+e1000_82543.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_82543.c
+END
+e1000_manage.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_manage.c
+END
+e1000_82541.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000/e1000_82541.h
+END

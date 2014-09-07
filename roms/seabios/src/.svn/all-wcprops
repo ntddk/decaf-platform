@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/roms/seabios/src
+END
+usb-ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-ohci.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/config.h
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/pci.c
+END
+acpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/acpi.c
+END
+usb-ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-ohci.h
+END
+bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/bmp.c
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/pci.h
+END
+acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/acpi.h
+END
+virtio-blk.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/virtio-blk.c
+END
+bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/bmp.h
+END
+jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/jpeg.c
+END
+virtio-blk.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/virtio-blk.h
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/block.c
+END
+jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/jpeg.h
+END
+disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/disk.c
+END
+xen.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/xen.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/Kconfig
+END
+xen.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/xen.h
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/smp.c
+END
+disk.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/disk.h
+END
+pci_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/pci_regs.h
+END
+farptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/farptr.h
+END
+boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/boot.c
+END
+ahci.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/ahci.c
+END
+acpi-dsdt.dsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/src/acpi-dsdt.dsl
+END
+boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/boot.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/types.h
+END
+ps2port.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/ps2port.c
+END
+ahci.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/ahci.h
+END
+romlayout.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/seabios/src/romlayout.S
+END
+coreboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/coreboot.c
+END
+bootsplash.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/bootsplash.c
+END
+ps2port.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/ps2port.h
+END
+blockcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/blockcmd.c
+END
+blockcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/blockcmd.h
+END
+mptable.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/mptable.c
+END
+mtrr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/mtrr.c
+END
+virtio-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/virtio-pci.c
+END
+asm-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/src/asm-offsets.c
+END
+mptable.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/mptable.h
+END
+virtio-pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/virtio-pci.h
+END
+usb-hid.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-hid.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/misc.c
+END
+usb-ehci.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-ehci.c
+END
+pciinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/pciinit.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/output.c
+END
+usb-hid.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-hid.h
+END
+usb-ehci.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-ehci.h
+END
+usb-hub.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-hub.c
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/font.c
+END
+optionroms.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/optionroms.c
+END
+floppy.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/floppy.c
+END
+usb-msc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-msc.c
+END
+usb-hub.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-hub.h
+END
+pnpbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/pnpbios.c
+END
+biosvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/biosvar.h
+END
+pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/pic.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/util.c
+END
+ssdt-proc.dsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/src/ssdt-proc.dsl
+END
+usb-msc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-msc.h
+END
+pci_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/pci_ids.h
+END
+usb-uhci.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-uhci.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/serial.c
+END
+pic.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/pic.h
+END
+entryfuncs.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/entryfuncs.S
+END
+vgahooks.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/vgahooks.c
+END
+ioport.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/ioport.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/util.h
+END
+usb-uhci.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb-uhci.h
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/system.c
+END
+pcibios.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/pcibios.c
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/mouse.c
+END
+pmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/pmm.c
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb.c
+END
+ramdisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/seabios/src/ramdisk.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/clock.c
+END
+smm.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/smm.c
+END
+smbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/smbios.c
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/usb.h
+END
+kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/kbd.c
+END
+resume.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/resume.c
+END
+smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/smbios.h
+END
+cdrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/cdrom.c
+END
+ata.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/ata.c
+END
+bregs.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/seabios/src/bregs.h
+END
+lzmadecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/lzmadecode.c
+END
+virtio-ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/src/virtio-ring.c
+END
+acpi-dsdt.hex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/src/acpi-dsdt.hex
+END
+ata.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/ata.h
+END
+lzmadecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/lzmadecode.h
+END
+memmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/memmap.c
+END
+apm.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/seabios/src/apm.c
+END
+virtio-ring.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/src/virtio-ring.h
+END
+memmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/memmap.h
+END
+post.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/post.c
+END
+shadow.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/shadow.c
+END
+biostables.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/seabios/src/biostables.c
+END
+paravirt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/paravirt.c
+END
+stacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/src/stacks.c
+END
+paravirt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/paravirt.h
+END
+gen-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/gen-defs.h
+END
+pirtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/seabios/src/pirtable.c
+END
+cmos.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/seabios/src/cmos.h
+END

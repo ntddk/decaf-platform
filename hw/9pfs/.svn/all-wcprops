@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/23/trunk/hw/9pfs
+END
+virtio-9p-synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-synth.c
+END
+virtio-9p.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p.h
+END
+virtio-9p-xattr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-xattr.h
+END
+virtio-9p-synth.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-synth.h
+END
+virtio-9p-xattr-user.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-xattr-user.c
+END
+coxattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/hw/9pfs/coxattr.c
+END
+cofs.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/hw/9pfs/cofs.c
+END
+virtio-9p-local.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-local.c
+END
+virtio-9p-handle.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-handle.c
+END
+virtio-9p-coth.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-coth.c
+END
+virtio-9p-posix-acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-posix-acl.c
+END
+virtio-9p-device.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-device.c
+END
+codir.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/hw/9pfs/codir.c
+END
+cofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/hw/9pfs/cofile.c
+END
+virtio-9p.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p.c
+END
+virtio-9p-xattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-xattr.c
+END
+virtio-9p-coth.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/hw/9pfs/virtio-9p-coth.h
+END

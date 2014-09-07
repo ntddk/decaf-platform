@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu
+END
+vbe.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/vbe.c
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/io.h
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/mem.c
+END
+vbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/vbe.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/mem.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/debug.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/debug.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/Makefile
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/interrupt.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/device.c
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/interrupt.h
+END
+biosemu.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/biosemu.c
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/device.h
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/io.c
+END
+biosemu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/biosemu.h
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi
+END
+efi_hii.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_hii.h
+END
+import.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/import.pl
+END
+efi_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_pci.h
+END
+efi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi.h
+END
+efi_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_timer.h
+END
+PiDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/PiDxe.h
+END
+efi_uaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_uaccess.h
+END
+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Base.h
+END
+efi_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_strings.h
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/LICENCE
+END
+ProcessorBind.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/ProcessorBind.h
+END
+efi_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_driver.h
+END
+efi_smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_smbios.h
+END
+efi_umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_umalloc.h
+END
+efi_pci_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_pci_api.h
+END
+Uefi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Uefi.h
+END
+efi_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_io.h
+END

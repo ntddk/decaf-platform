@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/23/trunk/fpu
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/fpu/softfloat.c
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/fpu/softfloat.h
+END
+softfloat-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/fpu/softfloat-macros.h
+END
+softfloat-specialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/fpu/softfloat-specialize.h
+END

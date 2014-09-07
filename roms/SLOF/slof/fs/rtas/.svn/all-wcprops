@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/rtas
+END
+rtas-init.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/rtas/rtas-init.fs
+END
+rtas-cpu.fs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/rtas/rtas-cpu.fs
+END
+rtas-vpd.fs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/rtas/rtas-vpd.fs
+END
+rtas-reboot.fs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/rtas/rtas-reboot.fs
+END
+rtas-flash.fs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/rtas/rtas-flash.fs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas
+END
+reloc.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas/reloc.S
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas/Makefile.inc
+END
+rtas_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas/rtas_call.c
+END
+rtas.lds
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas/rtas.lds
+END
+rtas_entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas/rtas_entry.S
+END
+rtas_common.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/SLOF/rtas/rtas_common.S
+END

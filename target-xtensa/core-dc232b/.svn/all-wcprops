@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/target-xtensa/core-dc232b
+END
+core-isa.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/target-xtensa/core-dc232b/core-isa.h
+END
+gdb-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/target-xtensa/core-dc232b/gdb-config.c
+END

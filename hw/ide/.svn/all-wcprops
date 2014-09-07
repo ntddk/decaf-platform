@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/156/trunk/hw/ide
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/67/trunk/hw/ide/core.c
+END
+macio.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/hw/ide/macio.c
+END
+atapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/hw/ide/atapi.c
+END
+qdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/hw/ide/qdev.c
+END
+mmio.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/hw/ide/mmio.c
+END
+ich.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/hw/ide/ich.c
+END
+microdrive.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/hw/ide/microdrive.c
+END
+cmd646.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/hw/ide/cmd646.c
+END
+ahci.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/hw/ide/ahci.c
+END
+ahci.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/hw/ide/ahci.h
+END
+piix.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/hw/ide/piix.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/156/trunk/hw/ide/pci.c
+END
+isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/hw/ide/isa.c
+END
+via.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/hw/ide/via.c
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/hw/ide/pci.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/hw/ide/internal.h
+END

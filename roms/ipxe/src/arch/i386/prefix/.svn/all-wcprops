@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix
+END
+pxeprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/pxeprefix.S
+END
+romprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/romprefix.S
+END
+linuxprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/linuxprefix.S
+END
+mbr.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/mbr.S
+END
+lkrnprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/lkrnprefix.S
+END
+libprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/libprefix.S
+END
+kpxeprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/kpxeprefix.S
+END
+undiloader.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/undiloader.S
+END
+nbiprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/nbiprefix.S
+END
+mromprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/mromprefix.S
+END
+nullprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/nullprefix.S
+END
+bootpart.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/bootpart.S
+END
+unnrv2b.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/unnrv2b.S
+END
+dskprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/dskprefix.S
+END
+exeprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/exeprefix.S
+END
+kkpxeprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/kkpxeprefix.S
+END
+unnrv2b16.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/unnrv2b16.S
+END
+usbdisk.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/usbdisk.S
+END
+hdprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/prefix/hdprefix.S
+END

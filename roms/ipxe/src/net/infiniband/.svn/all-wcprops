@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband
+END
+ib_cm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_cm.c
+END
+ib_sma.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_sma.c
+END
+ib_smc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_smc.c
+END
+ib_cmrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_cmrc.c
+END
+ib_srp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_srp.c
+END
+ib_mi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_mi.c
+END
+ib_pathrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_pathrec.c
+END
+ib_mcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_mcast.c
+END
+ib_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/infiniband/ib_packet.c
+END

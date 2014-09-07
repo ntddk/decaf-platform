@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples
+END
+ppc_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples/ppc_config.xml
+END
+sparc64_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples/sparc64_config.xml
+END
+x86_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples/x86_config.xml
+END
+amd64_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples/amd64_config.xml
+END
+ppc64_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples/ppc64_config.xml
+END
+sparc32_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/openbios/config/examples/sparc32_config.xml
+END

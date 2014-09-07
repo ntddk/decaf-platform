@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/roms/vgabios
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/vgabios/ChangeLog
+END
+Notes
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/roms/vgabios/Notes
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/roms/vgabios/README
+END
+vbe.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/roms/vgabios/vbe.c
+END
+vgatables.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/vgabios/vgatables.h
+END
+vbetables-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/vgabios/vbetables-gen.c
+END
+dataseghack
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/vgabios/dataseghack
+END
+clext.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/roms/vgabios/clext.c
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/roms/vgabios/BUGS
+END
+vbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/roms/vgabios/vbe.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/roms/vgabios/TODO
+END
+vbe_display_api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/vgabios/vbe_display_api.txt
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/roms/vgabios/COPYING
+END
+vgabios.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/vgabios/vgabios.c
+END
+vgafonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/vgabios/vgafonts.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/vgabios/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/roms/vgabios/Makefile
+END
+vgabios.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/roms/vgabios/vgabios.h
+END
+biossums.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/vgabios/biossums.c
+END

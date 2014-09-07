@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/23/trunk/qapi
+END
+qapi-visit-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/qapi/qapi-visit-core.h
+END
+qmp-registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/qapi/qmp-registry.c
+END
+qapi-types-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/qapi/qapi-types-core.h
+END
+qmp-input-visitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/qapi/qmp-input-visitor.c
+END
+qapi-dealloc-visitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/qapi/qapi-dealloc-visitor.c
+END
+qmp-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/qapi/qmp-core.h
+END
+qmp-output-visitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/qapi/qmp-output-visitor.c
+END
+qmp-dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/qapi/qmp-dispatch.c
+END
+qmp-input-visitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/qapi/qmp-input-visitor.h
+END
+qapi-visit-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/qapi/qapi-visit-core.c
+END
+qapi-dealloc-visitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/qapi/qapi-dealloc-visitor.h
+END
+qmp-output-visitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/qapi/qmp-output-visitor.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/shared/llconf/debian
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/llconf/debian/docs
+END
+libllconf0.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/llconf/debian/libllconf0.install
+END
+llconf-dev.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf-dev.dirs
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/shared/llconf/debian/rules
+END
+llconf-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf-dev.install
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/llconf/debian/dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/shared/llconf/debian/copyright
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/debian/Makefile.am
+END
+shlibs.local
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/debian/shlibs.local
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/debian/README.Debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/shared/llconf/debian/control
+END
+llconf.install
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf.install
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/debian/Makefile.in
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/shared/llconf/debian/compat
+END
+libllconf-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/llconf/debian/libllconf-dev.install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/shared/llconf/debian/changelog
+END

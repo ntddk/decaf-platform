@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/setjmp.S
+END
+gdbmach.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/gdbmach.c
+END
+stack.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/stack.S
+END
+dumpregs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/dumpregs.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/cpu.c
+END
+patch_cf.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/patch_cf.S
+END
+wince_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/wince_loader.c
+END
+stack16.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/stack16.S
+END
+relocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/relocate.c
+END
+aout_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/aout_loader.c
+END
+virtaddr.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/virtaddr.S
+END
+freebsd_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/freebsd_loader.c
+END
+basemem_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/basemem_packet.c
+END
+nulltrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/nulltrap.c
+END
+video_subr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/video_subr.c
+END
+timer2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/timer2.c
+END
+pic8259.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/pic8259.c
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/cmdline.c
+END
+x86_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/x86_io.c
+END
+gdbidt.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/gdbidt.S
+END
+rdtsc_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/core/rdtsc_timer.c
+END

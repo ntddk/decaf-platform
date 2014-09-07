@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers
+END
+properties.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/properties.c
+END
+tz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/tz.c
+END
+route.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/route.c
+END
+ppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ppp.c
+END
+allmodules.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/allmodules.c
+END
+properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/properties.h
+END
+cron.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/cron.c
+END
+tz.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/tz.h
+END
+route.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/route.h
+END
+ppp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ppp.h
+END
+allmodules.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/allmodules.h
+END
+cron.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/cron.h
+END
+shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/shell.c
+END
+shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/shell.h
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/dhcp.c
+END
+cyconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/cyconf.c
+END
+python.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/python.c
+END
+snmpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/snmpd.c
+END
+dhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/dhcp.h
+END
+python.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/python.h
+END
+cyconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/cyconf.h
+END
+snmpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/snmpd.h
+END
+iproute.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/iproute.c
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/table.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/Makefile.am
+END
+funcexpr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/funcexpr.c
+END
+pslave.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/pslave.c
+END
+ifupdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ifupdown.c
+END
+xinetd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/xinetd.c
+END
+pair.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/pair.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/options.c
+END
+iproute.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/iproute.h
+END
+table.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/table.h
+END
+pslave.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/pslave.h
+END
+funcexpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/funcexpr.h
+END
+pair.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/pair.h
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/options.h
+END
+ifupdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ifupdown.h
+END
+xinetd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/xinetd.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/Makefile.in
+END
+ipsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ipsec.c
+END
+iptables.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/iptables.c
+END
+syslogng.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/syslogng.c
+END
+conserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/conserver.c
+END
+ipsec.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ipsec.h
+END
+iptables.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/iptables.h
+END
+mkallmodules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/mkallmodules
+END
+mgetty.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/mgetty.c
+END
+dhcp_leases.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/dhcp_leases.c
+END
+syslogng.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/syslogng.h
+END
+conserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/conserver.h
+END
+mgetty.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/mgetty.h
+END
+ini.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ini.c
+END
+dhcp_leases.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/dhcp_leases.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/file.c
+END
+ini.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/ini.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/llconf/src/parsers/file.h
+END

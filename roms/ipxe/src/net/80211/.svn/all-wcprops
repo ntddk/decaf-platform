@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211
+END
+net80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/net80211.c
+END
+wpa_psk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/wpa_psk.c
+END
+sec80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/sec80211.c
+END
+wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/wpa.c
+END
+wpa_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/wpa_ccmp.c
+END
+wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/wep.c
+END
+wpa_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/wpa_tkip.c
+END
+rc80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/net/80211/rc80211.c
+END

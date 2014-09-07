@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios
+END
+fcode_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/fcode_load.h
+END
+load.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/load.h
+END
+forth_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/forth_load.h
+END
+sys_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/sys_info.h
+END
+ipchecksum.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/ipchecksum.h
+END
+initprogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/initprogram.h
+END
+bindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/bindings.h
+END
+fontdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/fontdata.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/console.h
+END
+ofmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/ofmem.h
+END
+xcoff_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/xcoff_load.h
+END
+of.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/of.h
+END
+elf_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/elf_load.h
+END
+aout_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/aout_load.h
+END
+bootinfo_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/bootinfo_load.h
+END
+openbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/include/libopenbios/openbios.h
+END

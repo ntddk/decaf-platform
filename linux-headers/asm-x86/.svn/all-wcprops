@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/linux-headers/asm-x86
+END
+kvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/linux-headers/asm-x86/kvm.h
+END
+hyperv.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/linux-headers/asm-x86/hyperv.h
+END
+kvm_para.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/linux-headers/asm-x86/kvm_para.h
+END

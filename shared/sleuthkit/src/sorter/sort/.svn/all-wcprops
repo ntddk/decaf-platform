@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort
+END
+images.sort
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/images.sort
+END
+openbsd.sort
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/openbsd.sort
+END
+windows.sort
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/windows.sort
+END
+freebsd.sort
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/freebsd.sort
+END
+solaris.sort
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/solaris.sort
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/TODO
+END
+linux.sort
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/linux.sort
+END
+default.sort
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/default.sort
+END

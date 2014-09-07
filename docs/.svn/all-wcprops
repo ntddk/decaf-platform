@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/23/trunk/docs
+END
+ccid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/docs/ccid.txt
+END
+libcacard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/docs/libcacard.txt
+END
+qdev-device-use.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/docs/qdev-device-use.txt
+END
+tracing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/docs/tracing.txt
+END
+memory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/docs/memory.txt
+END
+ich9-ehci-uhci.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/docs/ich9-ehci-uhci.cfg
+END
+qapi-code-gen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/docs/qapi-code-gen.txt
+END
+migration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/docs/migration.txt
+END
+usb2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/docs/usb2.txt
+END
+bootindex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/docs/bootindex.txt
+END
+blkverify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/docs/blkverify.txt
+END

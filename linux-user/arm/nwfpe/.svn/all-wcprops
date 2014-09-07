@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe
+END
+fpsr.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpsr.h
+END
+fpopcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpopcode.c
+END
+double_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/double_cpdo.c
+END
+fpa11_cprt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpa11_cprt.c
+END
+fpa11_cpdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpa11_cpdt.c
+END
+fpopcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpopcode.h
+END
+extended_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/extended_cpdo.c
+END
+single_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/single_cpdo.c
+END
+fpa11.inl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpa11.inl
+END
+fpa11.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpa11.c
+END
+fpa11.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpa11.h
+END
+fpa11_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/linux-user/arm/nwfpe/fpa11_cpdo.c
+END
