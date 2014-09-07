@@ -1,3 +1,6 @@
+#define min_apitracer
+#ifndef min_apitracer
+
 #include "def-helper.h"
 DEF_HELPER_FLAGS_1(cc_compute_all, TCG_CALL_PURE, i32, int)
 DEF_HELPER_FLAGS_1(cc_compute_c, TCG_CALL_PURE, i32, int)
@@ -243,3 +246,5 @@ DEF_HELPER_2(rcrq, tl, tl, tl)
 #endif
 
 #include "def-helper.h"
+
+#endif
