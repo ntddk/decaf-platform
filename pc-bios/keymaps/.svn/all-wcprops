@@ -3,72 +3,6 @@ svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/23/trunk/pc-bios/keymaps
 END
-fr-ca
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr-ca
-END
-en-gb
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/en-gb
-END
-sv
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/sv
-END
-de
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/de
-END
-ja
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/ja
-END
-fi
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/fi
-END
-fr-ch
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr-ch
-END
-fo
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/fo
-END
-fr
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr
-END
-hr
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/hr
-END
-nl
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/nl
-END
 pl
 K 25
 svn:wc:ra_dav:version-url
@@ -99,23 +33,29 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/lt
 END
-de-ch
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/de-ch
-END
 lv
 K 25
 svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/lv
 END
+modifiers
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/modifiers
+END
 pt
 K 25
 svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/pt
+END
+pt-br
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/pt-br
 END
 tr
 K 25
@@ -135,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/ru
 END
-en-us
+fr-ca
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/en-us
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr-ca
 END
 common
 K 25
@@ -147,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 45
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/common
 END
-fr-be
+en-gb
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr-be
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/en-gb
 END
-nl-be
+fr-ch
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/nl-be
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr-ch
 END
 ar
 K 25
@@ -201,21 +141,81 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/sl
 END
-modifiers
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/modifiers
-END
-pt-br
+de-ch
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svn/!svn/ver/23/trunk/pc-bios/keymaps/pt-br
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/de-ch
 END
 da
 K 25
 svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/pc-bios/keymaps/da
+END
+en-us
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/en-us
+END
+sv
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/sv
+END
+de
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/de
+END
+ja
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/ja
+END
+fr-be
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr-be
+END
+nl-be
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/nl-be
+END
+fi
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/fi
+END
+fo
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/fo
+END
+fr
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/fr
+END
+hr
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/hr
+END
+nl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/pc-bios/keymaps/nl
 END

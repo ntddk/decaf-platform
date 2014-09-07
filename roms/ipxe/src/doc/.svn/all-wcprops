@@ -3,15 +3,15 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/roms/ipxe/src/doc
 END
-pxe_extensions
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/ipxe/src/doc/pxe_extensions
-END
 build_sys.dox
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/ipxe/src/doc/build_sys.dox
+END
+pxe_extensions
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/doc/pxe_extensions
 END

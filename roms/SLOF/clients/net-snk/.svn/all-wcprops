@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk
 END
+sec-client.lds
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/sec-client.lds
+END
 make.depend
 K 25
 svn:wc:ra_dav:version-url
@@ -26,10 +32,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/make.rules
-END
-sec-client.lds
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/sec-client.lds
 END

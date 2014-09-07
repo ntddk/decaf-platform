@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands
 END
-gdbstub_cmd.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/gdbstub_cmd.c
-END
 autoboot_cmd.c
 K 25
 svn:wc:ra_dav:version-url
@@ -98,4 +92,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/ifmgmt_cmd.c
+END
+gdbstub_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/commands/gdbstub_cmd.c
 END

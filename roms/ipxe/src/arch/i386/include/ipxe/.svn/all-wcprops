@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe
 END
-bios_timer.h
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/bios_timer.h
-END
-x86_io.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/x86_io.h
-END
-memtop_umalloc.h
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/memtop_umalloc.h
-END
-rdtsc_timer.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/rdtsc_timer.h
-END
 bios_sanboot.h
 K 25
 svn:wc:ra_dav:version-url
@@ -50,4 +26,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/bios_nap.h
+END
+bios_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/bios_timer.h
+END
+x86_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/x86_io.h
+END
+memtop_umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/memtop_umalloc.h
+END
+rdtsc_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/ipxe/rdtsc_timer.h
 END

@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/roms/ipxe/src/usr
 END
+autoboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/usr/autoboot.c
+END
+fcmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/usr/fcmgmt.c
+END
+route.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/ipxe/src/usr/route.c
+END
 pxemenu.c
 K 25
 svn:wc:ra_dav:version-url
@@ -44,22 +62,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/ipxe/src/usr/lotest.c
-END
-autoboot.c
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/ipxe/src/usr/autoboot.c
-END
-fcmgmt.c
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/roms/ipxe/src/usr/fcmgmt.c
-END
-route.c
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/roms/ipxe/src/usr/route.c
 END

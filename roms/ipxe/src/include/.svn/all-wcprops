@@ -3,48 +3,6 @@ svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include
 END
-ctype.h
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ctype.h
-END
-old_tcp.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/old_tcp.h
-END
-stdarg.h
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/stdarg.h
-END
-errno.h
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/errno.h
-END
-btext.h
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/btext.h
-END
-linux_api.h
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/linux_api.h
-END
-little_bswap.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/little_bswap.h
-END
 alloca.h
 K 25
 svn:wc:ra_dav:version-url
@@ -230,4 +188,46 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/.gitignore
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ctype.h
+END
+old_tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/old_tcp.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/stdarg.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/errno.h
+END
+btext.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/btext.h
+END
+linux_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/linux_api.h
+END
+little_bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/little_bswap.h
 END

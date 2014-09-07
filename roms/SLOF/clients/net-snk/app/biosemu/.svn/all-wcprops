@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu
 END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/device.h
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/io.c
+END
+biosemu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/biosemu.h
+END
 vbe.c
 K 25
 svn:wc:ra_dav:version-url
@@ -74,22 +92,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/biosemu.c
-END
-device.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/device.h
-END
-io.c
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/io.c
-END
-biosemu.h
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/biosemu/biosemu.h
 END

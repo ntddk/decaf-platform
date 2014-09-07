@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel
 END
-Changelog.stepan
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/Changelog.stepan
-END
-glossary.txt
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/glossary.txt
-END
-initializers.txt
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/initializers.txt
-END
 AUTHORS
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +26,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/dictformat.txt
+END
+Changelog.stepan
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/Changelog.stepan
+END
+glossary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/glossary.txt
+END
+initializers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/openbios/Documentation/kernel/initializers.txt
 END

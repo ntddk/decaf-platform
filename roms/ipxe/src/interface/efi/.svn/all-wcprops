@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi
 END
+efi_snp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_snp.c
+END
+efi_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_timer.c
+END
+efi_strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_strerror.c
+END
+efi_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_console.c
+END
 efi_bofm.c
 K 25
 svn:wc:ra_dav:version-url
@@ -56,28 +80,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_smbios.c
-END
-efi_snp.c
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_snp.c
-END
-efi_timer.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_timer.c
-END
-efi_strerror.c
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_strerror.c
-END
-efi_console.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/efi/efi_console.c
 END

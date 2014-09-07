@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 28
 /svn/!svn/ver/23/trunk/trace
 END
-control.h
-K 25
-svn:wc:ra_dav:version-url
-V 38
-/svn/!svn/ver/23/trunk/trace/control.h
-END
-stderr.h
-K 25
-svn:wc:ra_dav:version-url
-V 37
-/svn/!svn/ver/23/trunk/trace/stderr.h
-END
 simple.c
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +32,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/23/trunk/trace/default.c
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/trace/control.h
+END
+stderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/trace/stderr.h
 END

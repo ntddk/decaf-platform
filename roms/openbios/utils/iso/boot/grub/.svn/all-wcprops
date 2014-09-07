@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/openbios/utils/iso/boot/grub
 END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/utils/iso/boot/grub/README
+END
 menu.lst
 K 25
 svn:wc:ra_dav:version-url
@@ -14,10 +20,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/roms/openbios/utils/iso/boot/grub/stage2_eltorito
-END
-README
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/utils/iso/boot/grub/README
 END

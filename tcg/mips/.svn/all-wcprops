@@ -3,15 +3,15 @@ svn:wc:ra_dav:version-url
 V 31
 /svn/!svn/ver/23/trunk/tcg/mips
 END
-tcg-target.c
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/tcg/mips/tcg-target.c
-END
 tcg-target.h
 K 25
 svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/23/trunk/tcg/mips/tcg-target.h
+END
+tcg-target.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tcg/mips/tcg-target.c
 END

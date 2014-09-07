@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 28
 /svn/!svn/ver/23/trunk/audio
 END
+audio_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/audio/audio_template.h
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/audio/audio.c
+END
+winwaveaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/audio/winwaveaudio.c
+END
+alsaaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/audio/alsaaudio.c
+END
 sdlaudio.c
 K 25
 svn:wc:ra_dav:version-url
@@ -134,28 +158,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/23/trunk/audio/noaudio.c
-END
-audio_template.h
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/audio/audio_template.h
-END
-audio.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/audio/audio.c
-END
-winwaveaudio.c
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/audio/winwaveaudio.c
-END
-alsaaudio.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/audio/alsaaudio.c
 END

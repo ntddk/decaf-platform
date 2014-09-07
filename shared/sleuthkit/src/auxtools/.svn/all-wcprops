@@ -3,6 +3,54 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools
 END
+data_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/data_buf.c
+END
+tsk_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/tsk_version.c
+END
+tsk_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/tsk_os.h
+END
+libauxtools.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/libauxtools.h
+END
+data_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/data_buf.h
+END
+tsk_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/tsk_error.c
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/.indent.pro
+END
+mymalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/mymalloc.c
+END
 tsk_error.h
 K 25
 svn:wc:ra_dav:version-url
@@ -80,52 +128,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/Makefile
-END
-data_buf.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/data_buf.c
-END
-tsk_version.c
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/tsk_version.c
-END
-tsk_os.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/tsk_os.h
-END
-libauxtools.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/libauxtools.h
-END
-data_buf.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/data_buf.h
-END
-tsk_error.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/tsk_error.c
-END
-.indent.pro
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/.indent.pro
-END
-mymalloc.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/auxtools/mymalloc.c
 END

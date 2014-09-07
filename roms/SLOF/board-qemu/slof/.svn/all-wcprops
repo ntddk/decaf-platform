@@ -3,42 +3,6 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof
 END
-rtas.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/rtas.fs
-END
-copyright-oss.fs
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/copyright-oss.fs
-END
-fdt.fs
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/fdt.fs
-END
-vio-vscsi-device.fs
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/vio-vscsi-device.fs
-END
-tree.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/tree.fs
-END
-helper.fs
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/helper.fs
-END
 vio-hvterm.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -86,4 +50,40 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/header.fs
+END
+rtas.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/rtas.fs
+END
+copyright-oss.fs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/copyright-oss.fs
+END
+fdt.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/fdt.fs
+END
+vio-vscsi-device.fs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/vio-vscsi-device.fs
+END
+tree.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/tree.fs
+END
+helper.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/slof/helper.fs
 END

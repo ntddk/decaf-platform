@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 28
 /svn/!svn/ver/23/trunk/slirp
 END
-slirp.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/slirp/slirp.c
-END
-arp_table.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/slirp/arp_table.c
-END
-tcp.h
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/slirp/tcp.h
-END
-slirp.h
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/slirp/slirp.h
-END
 tcp_input.c
 K 25
 svn:wc:ra_dav:version-url
@@ -230,4 +206,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/slirp/ip_output.c
+END
+slirp.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/slirp/slirp.c
+END
+arp_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/slirp/arp_table.c
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/slirp/tcp.h
+END
+slirp.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/slirp/slirp.h
 END

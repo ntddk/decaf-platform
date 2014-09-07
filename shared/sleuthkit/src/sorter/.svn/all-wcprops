@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter
 END
-.perltidyrc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/.perltidyrc
-END
 clean
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/Makefile
+END
+.perltidyrc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/.perltidyrc
 END

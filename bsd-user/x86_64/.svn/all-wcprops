@@ -3,15 +3,15 @@ svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/23/trunk/bsd-user/x86_64
 END
-target_signal.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/bsd-user/x86_64/target_signal.h
-END
 syscall.h
 K 25
 svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/bsd-user/x86_64/syscall.h
+END
+target_signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/bsd-user/x86_64/target_signal.h
 END

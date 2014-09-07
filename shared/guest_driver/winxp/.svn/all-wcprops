@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/shared/guest_driver/winxp
 END
+testdrv.sln
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/testdrv.sln
+END
+testdrvVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/testdrvVars.xml
+END
 README
 K 25
 svn:wc:ra_dav:version-url
@@ -26,16 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/shared/guest_driver/winxp/dirs
-END
-testdrv.sln
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/testdrv.sln
-END
-testdrvVars.xml
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/testdrvVars.xml
 END

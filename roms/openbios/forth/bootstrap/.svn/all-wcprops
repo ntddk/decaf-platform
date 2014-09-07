@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/openbios/forth/bootstrap
 END
-interpreter.fs
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/openbios/forth/bootstrap/interpreter.fs
-END
-builtin.fs
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/forth/bootstrap/builtin.fs
-END
 build.xml
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +32,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/23/trunk/roms/openbios/forth/bootstrap/start.fs
+END
+interpreter.fs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/openbios/forth/bootstrap/interpreter.fs
+END
+builtin.fs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/forth/bootstrap/builtin.fs
 END

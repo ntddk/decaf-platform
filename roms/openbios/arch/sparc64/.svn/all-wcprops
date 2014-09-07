@@ -3,6 +3,36 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64
 END
+init.fs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/init.fs
+END
+sys_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/sys_info.c
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/context.h
+END
+spitfire.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/spitfire.h
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/const.h
+END
 linux_load.c
 K 25
 svn:wc:ra_dav:version-url
@@ -146,34 +176,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/plainboot.c
-END
-init.fs
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/init.fs
-END
-sys_info.c
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/sys_info.c
-END
-context.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/context.h
-END
-spitfire.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/spitfire.h
-END
-const.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/arch/sparc64/const.h
 END

@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 34
 /svn/!svn/ver/23/trunk/tests/alpha
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/tests/alpha/Makefile
-END
 test-cond.c
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/tests/alpha/crt.s
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/alpha/Makefile
 END

@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 28
 /svn/!svn/ver/23/trunk/tests
 END
-test-i386-code16.S
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/tests/test-i386-code16.S
-END
-test-i386.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/tests/test-i386.c
-END
 test-mmap.c
 K 25
 svn:wc:ra_dav:version-url
@@ -122,4 +110,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/tests/test-i386-ssse3.c
+END
+test-i386-code16.S
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tests/test-i386-code16.S
+END
+test-i386.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/tests/test-i386.c
 END

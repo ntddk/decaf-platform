@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 36
 /svn/!svn/ver/23/trunk/roms/openbios
 END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/openbios/build.xml
+END
 Makefile.target
 K 25
 svn:wc:ra_dav:version-url
@@ -38,10 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 45
 /svn/!svn/ver/23/trunk/roms/openbios/Makefile
-END
-build.xml
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/!svn/ver/23/trunk/roms/openbios/build.xml
 END

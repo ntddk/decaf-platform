@@ -3,6 +3,84 @@ svn:wc:ra_dav:version-url
 V 33
 /svn/!svn/ver/23/trunk/tests/lm32
 END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/tests/lm32/Makefile
+END
+test_lbu.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_lbu.S
+END
+test_lw.S
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/tests/lm32/test_lw.S
+END
+test_sextb.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_sextb.S
+END
+test_xnor.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_xnor.S
+END
+test_ori.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_ori.S
+END
+test_cmpgeui.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgeui.S
+END
+test_sexth.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_sexth.S
+END
+test_sri.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_sri.S
+END
+test_cmpei.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tests/lm32/test_cmpei.S
+END
+test_addi.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_addi.S
+END
+test_nori.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/tests/lm32/test_nori.S
+END
+test_sru.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/tests/lm32/test_sru.S
+END
 test_andi.S
 K 25
 svn:wc:ra_dav:version-url
@@ -320,82 +398,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/23/trunk/tests/lm32/test_bne.S
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/svn/!svn/ver/23/trunk/tests/lm32/Makefile
-END
-test_lbu.S
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/tests/lm32/test_lbu.S
-END
-test_lw.S
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/tests/lm32/test_lw.S
-END
-test_sextb.S
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/!svn/ver/23/trunk/tests/lm32/test_sextb.S
-END
-test_xnor.S
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/tests/lm32/test_xnor.S
-END
-test_ori.S
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/tests/lm32/test_ori.S
-END
-test_cmpgeui.S
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/tests/lm32/test_cmpgeui.S
-END
-test_sexth.S
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/!svn/ver/23/trunk/tests/lm32/test_sexth.S
-END
-test_sri.S
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/tests/lm32/test_sri.S
-END
-test_cmpei.S
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/!svn/ver/23/trunk/tests/lm32/test_cmpei.S
-END
-test_addi.S
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/tests/lm32/test_addi.S
-END
-test_nori.S
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/tests/lm32/test_nori.S
-END
-test_sru.S
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/tests/lm32/test_sru.S
 END

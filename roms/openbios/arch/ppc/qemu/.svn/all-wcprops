@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/qemu
 END
-main.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/qemu/main.c
-END
 kernel.h
 K 25
 svn:wc:ra_dav:version-url
@@ -92,4 +86,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/qemu/kernel.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/qemu/main.c
 END

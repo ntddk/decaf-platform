@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 39
 /svn/!svn/ver/23/trunk/shared/sleuthkit
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/shared/sleuthkit/Makefile
-END
 check-install
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +38,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/shared/sleuthkit/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/sleuthkit/Makefile
 END

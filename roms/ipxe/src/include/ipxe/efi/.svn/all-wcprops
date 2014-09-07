@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi
 END
-efi_hii.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_hii.h
-END
-import.pl
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/import.pl
-END
-efi_pci.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_pci.h
-END
 efi.h
 K 25
 svn:wc:ra_dav:version-url
@@ -104,4 +86,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_io.h
+END
+efi_hii.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_hii.h
+END
+import.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/import.pl
+END
+efi_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/efi_pci.h
 END

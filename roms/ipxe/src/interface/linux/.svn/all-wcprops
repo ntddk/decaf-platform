@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux
 END
-linux_nap.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_nap.c
-END
-linux_timer.c
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_timer.c
-END
-linux_console.c
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_console.c
-END
 linux_uaccess.c
 K 25
 svn:wc:ra_dav:version-url
@@ -38,4 +20,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_umalloc.c
+END
+linux_nap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_nap.c
+END
+linux_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_timer.c
+END
+linux_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/interface/linux/linux_console.c
 END

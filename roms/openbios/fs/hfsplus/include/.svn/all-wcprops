@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/include
 END
+btree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/include/btree.h
+END
+apple.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/include/apple.h
+END
 unicode.h
 K 25
 svn:wc:ra_dav:version-url
@@ -56,16 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/include/hfsp.h
-END
-btree.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/include/btree.h
-END
-apple.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/include/apple.h
 END

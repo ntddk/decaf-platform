@@ -3,6 +3,60 @@ svn:wc:ra_dav:version-url
 V 25
 /svn/!svn/ver/23/trunk/ui
 END
+vnc-auth-vencrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/ui/vnc-auth-vencrypt.h
+END
+d3des.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/23/trunk/ui/d3des.c
+END
+curses_keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/ui/curses_keys.h
+END
+curses.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/ui/curses.c
+END
+vnc-enc-tight.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/ui/vnc-enc-tight.c
+END
+vnc-enc-hextile-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/ui/vnc-enc-hextile-template.h
+END
+d3des.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/23/trunk/ui/d3des.h
+END
+vnc-enc-tight.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/ui/vnc-enc-tight.h
+END
+vnc-enc-zrle-template.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/ui/vnc-enc-zrle-template.c
+END
 sdl_zoom.c
 K 25
 svn:wc:ra_dav:version-url
@@ -206,58 +260,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 39
 /svn/!svn/ver/23/trunk/ui/spice-input.c
-END
-vnc-auth-vencrypt.h
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/ui/vnc-auth-vencrypt.h
-END
-d3des.c
-K 25
-svn:wc:ra_dav:version-url
-V 33
-/svn/!svn/ver/23/trunk/ui/d3des.c
-END
-curses_keys.h
-K 25
-svn:wc:ra_dav:version-url
-V 39
-/svn/!svn/ver/23/trunk/ui/curses_keys.h
-END
-curses.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/ui/curses.c
-END
-vnc-enc-tight.c
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/ui/vnc-enc-tight.c
-END
-vnc-enc-hextile-template.h
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/ui/vnc-enc-hextile-template.h
-END
-d3des.h
-K 25
-svn:wc:ra_dav:version-url
-V 33
-/svn/!svn/ver/23/trunk/ui/d3des.h
-END
-vnc-enc-tight.h
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/ui/vnc-enc-tight.h
-END
-vnc-enc-zrle-template.c
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/ui/vnc-enc-zrle-template.c
 END

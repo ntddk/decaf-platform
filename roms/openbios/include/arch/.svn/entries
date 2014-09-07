@@ -26,6 +26,15 @@ xchu87@gmail.com
 
 14c6c976-5609-92b9-2f94-3eb32e7087df
 
+ia64
+dir
+
+unix
+dir
+
+x86
+dir
+
 common
 dir
 
@@ -39,14 +48,5 @@ ppc
 dir
 
 sparc64
-dir
-
-ia64
-dir
-
-unix
-dir
-
-x86
 dir
 

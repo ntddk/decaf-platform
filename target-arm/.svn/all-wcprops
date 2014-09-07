@@ -3,6 +3,36 @@ svn:wc:ra_dav:version-url
 V 34
 /svn/!svn/ver/251/trunk/target-arm
 END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/target-arm/helper.c
+END
+iwmmxt_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/target-arm/iwmmxt_helper.c
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/247/trunk/target-arm/helper.h
+END
+machine.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/target-arm/machine.c
+END
+op_addsub.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/target-arm/op_addsub.h
+END
 DECAF_target.c
 K 25
 svn:wc:ra_dav:version-url
@@ -38,34 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 47
 /svn/!svn/ver/23/trunk/target-arm/neon_helper.c
-END
-helper.c
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/svn/!svn/ver/23/trunk/target-arm/helper.c
-END
-iwmmxt_helper.c
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/target-arm/iwmmxt_helper.c
-END
-helper.h
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/247/trunk/target-arm/helper.h
-END
-machine.c
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/target-arm/machine.c
-END
-op_addsub.h
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/target-arm/op_addsub.h
 END

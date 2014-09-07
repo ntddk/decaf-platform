@@ -3,42 +3,6 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits
 END
-nap.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/nap.h
-END
-endian.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/endian.h
-END
-byteswap.h
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/byteswap.h
-END
-timer.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/timer.h
-END
-sanboot.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/sanboot.h
-END
-stdint.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/stdint.h
-END
 uaccess.h
 K 25
 svn:wc:ra_dav:version-url
@@ -86,4 +50,40 @@ K 25
 svn:wc:ra_dav:version-url
 V 69
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/umalloc.h
+END
+nap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/nap.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/endian.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/byteswap.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/timer.h
+END
+sanboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/sanboot.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/include/bits/stdint.h
 END

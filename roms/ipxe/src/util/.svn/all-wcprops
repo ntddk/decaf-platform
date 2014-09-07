@@ -3,90 +3,6 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/roms/ipxe/src/util
 END
-parserom.pl
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/parserom.pl
-END
-efirom.c
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/efirom.c
-END
-get-pci-ids
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/get-pci-ids
-END
-.gitignore
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/.gitignore
-END
-modrom.pl
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/modrom.pl
-END
-disrom.pl
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/disrom.pl
-END
-fnrec.pl
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/fnrec.pl
-END
-hijack.c
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/hijack.c
-END
-nrv2b.c
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/nrv2b.c
-END
-padimg.pl
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/padimg.pl
-END
-licence.pl
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/licence.pl
-END
-diffsize.pl
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/diffsize.pl
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/Makefile
-END
-fixrom.pl
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/ipxe/src/util/fixrom.pl
-END
 symcheck.pl
 K 25
 svn:wc:ra_dav:version-url
@@ -170,4 +86,88 @@ K 25
 svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/ipxe/src/util/genliso
+END
+parserom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/parserom.pl
+END
+efirom.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/efirom.c
+END
+get-pci-ids
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/get-pci-ids
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/.gitignore
+END
+modrom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/modrom.pl
+END
+disrom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/disrom.pl
+END
+fnrec.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/fnrec.pl
+END
+hijack.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/hijack.c
+END
+nrv2b.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/nrv2b.c
+END
+padimg.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/padimg.pl
+END
+licence.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/licence.pl
+END
+diffsize.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/diffsize.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/Makefile
+END
+fixrom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/ipxe/src/util/fixrom.pl
 END

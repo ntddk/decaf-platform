@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 43
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfs
 END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/block.c
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/build.xml
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/record.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/file.c
+END
 hfs.c
 K 25
 svn:wc:ra_dav:version-url
@@ -50,28 +74,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/data.c
-END
-block.c
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/block.c
-END
-build.xml
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/build.xml
-END
-record.c
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/record.c
-END
-file.c
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/file.c
 END

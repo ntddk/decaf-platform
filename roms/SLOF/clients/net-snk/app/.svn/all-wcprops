@@ -3,15 +3,15 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/Makefile
-END
 main.c
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/main.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/Makefile
 END

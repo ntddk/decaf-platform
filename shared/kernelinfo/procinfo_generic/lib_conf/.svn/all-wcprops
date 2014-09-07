@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/250/trunk/shared/kernelinfo/procinfo_generic/lib_conf
 END
+3.5.0-23-generic.ini
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/250/trunk/shared/kernelinfo/procinfo_generic/lib_conf/3.5.0-23-generic.ini
+END
 2.6.28-11-generic.ini
 K 25
 svn:wc:ra_dav:version-url
@@ -20,10 +26,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 89
 /svn/!svn/ver/250/trunk/shared/kernelinfo/procinfo_generic/lib_conf/3.2.0-4-versatile.ini
-END
-3.5.0-23-generic.ini
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/svn/!svn/ver/250/trunk/shared/kernelinfo/procinfo_generic/lib_conf/3.5.0-23-generic.ini
 END

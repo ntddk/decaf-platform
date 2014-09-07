@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus
 END
+hfsp_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/hfsp_fs.c
+END
 build.xml
 K 25
 svn:wc:ra_dav:version-url
@@ -44,10 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/libhfsp.c
-END
-hfsp_fs.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfsplus/hfsp_fs.c
 END

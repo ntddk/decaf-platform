@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc32
 END
-asi.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc32/asi.h
-END
 dma.h
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +38,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc32/io.h
+END
+asi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/sparc32/asi.h
 END

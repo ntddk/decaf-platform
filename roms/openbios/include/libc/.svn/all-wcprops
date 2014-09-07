@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/openbios/include/libc
 END
-vsprintf.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/openbios/include/libc/vsprintf.h
-END
-byteorder.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/openbios/include/libc/byteorder.h
-END
 stdlib.h
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +20,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/openbios/include/libc/string.h
+END
+vsprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/include/libc/vsprintf.h
+END
+byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/openbios/include/libc/byteorder.h
 END

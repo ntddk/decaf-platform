@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 37
 /svn/!svn/ver/23/trunk/roms/SLOF/llfw
 END
-boot_abort.h
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/SLOF/llfw/boot_abort.h
-END
-romfs_wrap.c
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/SLOF/llfw/romfs_wrap.c
-END
 nvramlog.S
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +20,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/SLOF/llfw/boot_abort.S
+END
+boot_abort.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/llfw/boot_abort.h
+END
+romfs_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/llfw/romfs_wrap.c
 END

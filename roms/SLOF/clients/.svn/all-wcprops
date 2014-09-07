@@ -3,15 +3,15 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/roms/SLOF/clients
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/Makefile
-END
 clients.mk
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/clients.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/Makefile
 END

@@ -3,29 +3,59 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof
 END
+rtas.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/rtas.fs
+END
+ht.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ht.fs
+END
+attu.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/attu.fs
+END
+i2c.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/i2c.fs
+END
+helper.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/helper.fs
+END
 pci-class_03.fs
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-class_03.fs
 END
-citrine-flash.fs
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine-flash.fs
-END
-rtc.fs
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/rtc.fs
-END
-pci-aliases.fs
+vga-display.fs
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-aliases.fs
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/vga-display.fs
+END
+cpu.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/cpu.fs
+END
+sio.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/sio.fs
 END
 pci-device_1022_7451.fs
 K 25
@@ -33,17 +63,11 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1022_7451.fs
 END
-flash.fs
+citrine.fs
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/flash.fs
-END
-tpm.fs
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/tpm.fs
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine.fs
 END
 ioapic.fs
 K 25
@@ -56,6 +80,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1022_7469.fs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/Makefile
 END
 io.fs
 K 25
@@ -81,29 +111,23 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-device_1002_515e.fs
 END
+copyright-oss.fs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/copyright-oss.fs
+END
 ipmi-kcs.fs
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ipmi-kcs.fs
 END
-i2c.fs
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/i2c.fs
-END
 serial.fs
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/serial.fs
-END
-vga-display.fs
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/vga-display.fs
 END
 pci-device_1014_02bd.fs
 K 25
@@ -123,11 +147,11 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine-disk.fs
 END
-cpu.fs
+citrine-flash.fs
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/cpu.fs
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine-flash.fs
 END
 pci-interrupts.fs
 K 25
@@ -147,6 +171,12 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/mpic.fs
 END
+rtc.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/rtc.fs
+END
 pci-bridge_1022_7460.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -159,11 +189,11 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/dart.fs
 END
-sio.fs
+pci-aliases.fs
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/sio.fs
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/pci-aliases.fs
 END
 freq.fs
 K 25
@@ -171,17 +201,23 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/freq.fs
 END
-citrine.fs
+flash.fs
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/citrine.fs
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/flash.fs
 END
 tree.fs
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/tree.fs
+END
+tpm.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/tpm.fs
 END
 pci-capabilities.fs
 K 25
@@ -206,40 +242,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/u4-mem.fs
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/Makefile
-END
-rtas.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/rtas.fs
-END
-copyright-oss.fs
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/copyright-oss.fs
-END
-ht.fs
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/ht.fs
-END
-attu.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/attu.fs
-END
-helper.fs
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/board-js2x/slof/helper.fs
 END

@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq
 END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/main.c
+END
+tree.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/tree.fs
+END
 briq.c
 K 25
 svn:wc:ra_dav:version-url
@@ -50,16 +62,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/init.c
-END
-main.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/main.c
-END
-tree.fs
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/briq/tree.fs
 END

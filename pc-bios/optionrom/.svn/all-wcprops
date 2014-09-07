@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/pc-bios/optionrom
 END
+linuxboot.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/pc-bios/optionrom/linuxboot.S
+END
 optionrom.h
 K 25
 svn:wc:ra_dav:version-url
@@ -20,10 +26,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/pc-bios/optionrom/multiboot.S
-END
-linuxboot.S
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/pc-bios/optionrom/linuxboot.S
 END

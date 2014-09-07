@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib
 END
+checkversion.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/checkversion.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/Makefile
+END
 HISTORY.txt
 K 25
 svn:wc:ra_dav:version-url
@@ -104,22 +122,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/TTD.txt
-END
-checkversion.py
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/checkversion.py
-END
-README.txt
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/README.txt
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/Makefile
 END

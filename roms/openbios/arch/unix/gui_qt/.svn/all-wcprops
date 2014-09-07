@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/openbios/arch/unix/gui_qt
 END
-gui-qt.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/gui_qt/gui-qt.h
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/gui_qt/Makefile
-END
 logo.xpm
 K 25
 svn:wc:ra_dav:version-url
@@ -38,4 +26,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/openbios/arch/unix/gui_qt/qt-main.cpp
+END
+gui-qt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/gui_qt/gui-qt.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/gui_qt/Makefile
 END

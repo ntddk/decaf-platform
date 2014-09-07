@@ -3,6 +3,36 @@ svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/23/trunk/roms/openbios/fs/ext2
 END
+ext2_readdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_readdir.c
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/build.xml
+END
+ext2_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_read.c
+END
+libext2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/libext2.h
+END
+ext2_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_fs.h
+END
 ext2.h
 K 25
 svn:wc:ra_dav:version-url
@@ -62,34 +92,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_fs.c
-END
-ext2_readdir.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_readdir.c
-END
-build.xml
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/build.xml
-END
-ext2_read.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_read.c
-END
-libext2.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/libext2.h
-END
-ext2_fs.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/openbios/fs/ext2/ext2_fs.h
 END

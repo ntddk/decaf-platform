@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/roms/seabios/tools
 END
-checksum.py
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/seabios/tools/checksum.py
-END
-gen-offsets.sh
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/seabios/tools/gen-offsets.sh
-END
-checkstack.py
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/seabios/tools/checkstack.py
-END
-encodeint.py
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/seabios/tools/encodeint.py
-END
 readserial.py
 K 25
 svn:wc:ra_dav:version-url
@@ -62,4 +38,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/seabios/tools/buildrom.py
+END
+checksum.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/seabios/tools/checksum.py
+END
+gen-offsets.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/seabios/tools/gen-offsets.sh
+END
+checkstack.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/seabios/tools/checkstack.py
+END
+encodeint.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/seabios/tools/encodeint.py
 END

@@ -3,6 +3,42 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb
 END
+igb_82575.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_82575.c
+END
+igb_manage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_manage.h
+END
+igb_82575.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_82575.h
+END
+igb_nvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_nvm.c
+END
+igb_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_mac.c
+END
+igb_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_phy.c
+END
 igb_nvm.h
 K 25
 svn:wc:ra_dav:version-url
@@ -80,40 +116,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_manage.c
-END
-igb_82575.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_82575.c
-END
-igb_manage.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_manage.h
-END
-igb_82575.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_82575.h
-END
-igb_nvm.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_nvm.c
-END
-igb_mac.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_mac.c
-END
-igb_phy.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/igb/igb_phy.c
 END

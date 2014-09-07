@@ -3,36 +3,6 @@ svn:wc:ra_dav:version-url
 V 43
 /svn/!svn/ver/23/trunk/shared/llconf/debian
 END
-docs
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/shared/llconf/debian/docs
-END
-libllconf0.install
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/llconf/debian/libllconf0.install
-END
-llconf-dev.dirs
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf-dev.dirs
-END
-rules
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/shared/llconf/debian/rules
-END
-llconf-dev.install
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf-dev.install
-END
 dirs
 K 25
 svn:wc:ra_dav:version-url
@@ -98,4 +68,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/shared/llconf/debian/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/llconf/debian/docs
+END
+libllconf0.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/llconf/debian/libllconf0.install
+END
+llconf-dev.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf-dev.dirs
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/shared/llconf/debian/rules
+END
+llconf-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/llconf/debian/llconf-dev.install
 END

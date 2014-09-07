@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools
 END
-img_types.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_types.h
-END
-DESIGN.txt
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/DESIGN.txt
-END
-img_lib.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_lib.h
-END
-img_stat.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_stat.c
-END
 .indent.pro
 K 25
 svn:wc:ra_dav:version-url
@@ -116,4 +92,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_cat.c
+END
+img_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_types.h
+END
+DESIGN.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/DESIGN.txt
+END
+img_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_lib.h
+END
+img_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/imgtools/img_stat.c
 END

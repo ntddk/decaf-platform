@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 37
 /svn/!svn/ver/23/trunk/roms/SLOF/slof
 END
-ppc64.in
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/ppc64.in
-END
-lowmem.S
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/lowmem.S
-END
 entry.S
 K 25
 svn:wc:ra_dav:version-url
@@ -110,4 +98,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/paflof.h
+END
+ppc64.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/ppc64.in
+END
+lowmem.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/lowmem.S
 END

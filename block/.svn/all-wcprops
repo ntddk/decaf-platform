@@ -3,173 +3,17 @@ svn:wc:ra_dav:version-url
 V 28
 /svn/!svn/ver/23/trunk/block
 END
-dmg.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/dmg.c
-END
-qed.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/qed.c
-END
-iscsi.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/block/iscsi.c
-END
-qcow2-refcount.c
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/block/qcow2-refcount.c
-END
-qed.h
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/qed.h
-END
-blkdebug.c
-K 25
-svn:wc:ra_dav:version-url
-V 39
-/svn/!svn/ver/23/trunk/block/blkdebug.c
-END
-qed-gencb.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/block/qed-gencb.c
-END
-cow.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/cow.c
-END
-qed-cluster.c
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/svn/!svn/ver/23/trunk/block/qed-cluster.c
-END
-raw-win32.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/block/raw-win32.c
-END
-raw-posix.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/block/raw-posix.c
-END
-raw.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/raw.c
-END
-qcow2.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/block/qcow2.c
-END
-sheepdog.c
-K 25
-svn:wc:ra_dav:version-url
-V 39
-/svn/!svn/ver/23/trunk/block/sheepdog.c
-END
-bochs.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/block/bochs.c
-END
-qcow2.h
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/block/qcow2.h
-END
-vmdk.c
-K 25
-svn:wc:ra_dav:version-url
-V 35
-/svn/!svn/ver/23/trunk/block/vmdk.c
-END
-nbd.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/nbd.c
-END
-rbd.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/rbd.c
-END
-qcow.c
-K 25
-svn:wc:ra_dav:version-url
-V 35
-/svn/!svn/ver/23/trunk/block/qcow.c
-END
-qcow2-cluster.c
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/block/qcow2-cluster.c
-END
-cloop.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/23/trunk/block/cloop.c
-END
-parallels.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/block/parallels.c
-END
-vdi.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/block/vdi.c
-END
 qed-check.c
 K 25
 svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/block/qed-check.c
 END
-qed-l2-cache.c
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/block/qed-l2-cache.c
-END
 vvfat.c
 K 25
 svn:wc:ra_dav:version-url
 V 36
 /svn/!svn/ver/23/trunk/block/vvfat.c
-END
-qcow2-snapshot.c
-K 25
-svn:wc:ra_dav:version-url
-V 45
-/svn/!svn/ver/23/trunk/block/qcow2-snapshot.c
 END
 vpc.c
 K 25
@@ -195,15 +39,171 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/block/qed-table.c
 END
+sheepdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/block/sheepdog.c
+END
+vmdk.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/block/vmdk.c
+END
 raw-posix-aio.h
 K 25
 svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/23/trunk/block/raw-posix-aio.h
 END
+dmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/dmg.c
+END
+qed.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/qed.c
+END
+qcow.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/block/qcow.c
+END
+iscsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/block/iscsi.c
+END
+qed.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/qed.h
+END
+qed-gencb.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/block/qed-gencb.c
+END
+qed-l2-cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/block/qed-l2-cache.c
+END
+cow.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/cow.c
+END
+qed-cluster.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/block/qed-cluster.c
+END
+qcow2-snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/block/qcow2-snapshot.c
+END
+raw-win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/block/raw-win32.c
+END
+raw-posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/block/raw-posix.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/raw.c
+END
+qcow2.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/block/qcow2.c
+END
+bochs.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/block/bochs.c
+END
+qcow2.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/block/qcow2.h
+END
+nbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/nbd.c
+END
 curl.c
 K 25
 svn:wc:ra_dav:version-url
 V 35
 /svn/!svn/ver/23/trunk/block/curl.c
+END
+rbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/rbd.c
+END
+qcow2-cluster.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/block/qcow2-cluster.c
+END
+cloop.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/block/cloop.c
+END
+qcow2-refcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/block/qcow2-refcount.c
+END
+blkdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/block/blkdebug.c
+END
+parallels.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/block/parallels.c
+END
+vdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/block/vdi.c
 END

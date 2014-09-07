@@ -3,29 +3,47 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include
 END
+xed-extension-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-extension-enum.h
+END
+xed-reg-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-reg-enum.h
+END
+xed-state.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-state.h
+END
+xed-reg-class.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-reg-class.h
+END
 xed-decode.h
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-decode.h
 END
-xed-operand-ctype-map.h
+xed-version.h
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-ctype-map.h
+V 69
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-version.h
 END
-xed-chip-enum.h
+xed-common-hdrs.h
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-chip-enum.h
-END
-xed-iform-map.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-iform-map.h
+V 73
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-common-hdrs.h
 END
 xed-operand-element-xtype-enum.h
 K 25
@@ -33,29 +51,23 @@ svn:wc:ra_dav:version-url
 V 88
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-element-xtype-enum.h
 END
-xed-machine-mode-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-machine-mode-enum.h
-END
 xed-nonterminal-enum.h
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-nonterminal-enum.h
 END
-xed-operand-storage.h
+xed-syntax-enum.h
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-storage.h
+V 73
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-syntax-enum.h
 END
-xed-immed.h
+xed-flags.h
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-immed.h
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-flags.h
 END
 xed-exception-enum.h
 K 25
@@ -63,23 +75,23 @@ svn:wc:ra_dav:version-url
 V 76
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-exception-enum.h
 END
+xed-interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-interface.h
+END
+xed-operand-element-type-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-element-type-enum.h
+END
 xed-decoded-inst.h
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-decoded-inst.h
-END
-xed-portability.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-portability.h
-END
-xed-disas.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-disas.h
 END
 xed-address-width-enum.h
 K 25
@@ -87,17 +99,11 @@ svn:wc:ra_dav:version-url
 V 80
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-address-width-enum.h
 END
-xed-operand-action-enum.h
+xed-types.h
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-action-enum.h
-END
-xed-common-defs.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-common-defs.h
+V 67
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-types.h
 END
 xed-operand-width-enum.h
 K 25
@@ -111,23 +117,11 @@ svn:wc:ra_dav:version-url
 V 82
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-convert-enum.h
 END
-xed-operand-type-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-type-enum.h
-END
 xed-agen.h
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-agen.h
-END
-xed-flag-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-flag-enum.h
 END
 xed-get-time.h
 K 25
@@ -141,23 +135,35 @@ svn:wc:ra_dav:version-url
 V 80
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-ctype-enum.h
 END
+xed-reg-role-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-reg-role-enum.h
+END
 xed-iform-enum.h
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-iform-enum.h
 END
-xed-state.h
+xed-category-enum.h
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-state.h
+V 75
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-category-enum.h
 END
-xed-reg-class.h
+xed-operand-visibility-enum.h
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-reg-class.h
+V 85
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-visibility-enum.h
+END
+xed-iclass-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-iclass-enum.h
 END
 xed-encoder-hl.h
 K 25
@@ -201,11 +207,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-decode-cache.h
 END
-xed-version.h
+xed-operand-ctype-map.h
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-version.h
+V 79
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-ctype-map.h
+END
+xed-chip-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-chip-enum.h
 END
 xed-flag-action-enum.h
 K 25
@@ -213,17 +225,23 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-flag-action-enum.h
 END
-xed-common-hdrs.h
+xed-iform-map.h
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-common-hdrs.h
+V 71
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-iform-map.h
 END
-xed-syntax-enum.h
+xed-machine-mode-enum.h
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-syntax-enum.h
+V 79
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-machine-mode-enum.h
+END
+xed-operand-storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-storage.h
 END
 xed-operand-enum.h
 K 25
@@ -231,17 +249,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-enum.h
 END
+xed-immed.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-immed.h
+END
 xed-error-enum.h
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-error-enum.h
-END
-xed-flags.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-flags.h
 END
 xed-encode.h
 K 25
@@ -255,23 +273,23 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-inst-printer.h
 END
-xed-interface.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-interface.h
-END
-xed-operand-element-type-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-element-type-enum.h
-END
 xed-iformfl-enum.h
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-iformfl-enum.h
+END
+xed-portability.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-portability.h
+END
+xed-disas.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-disas.h
 END
 xed-operand-action.h
 K 25
@@ -285,11 +303,11 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-init.h
 END
-xed-types.h
+xed-operand-action-enum.h
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-types.h
+V 81
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-action-enum.h
 END
 xed-attribute-enum.h
 K 25
@@ -309,11 +327,29 @@ svn:wc:ra_dav:version-url
 V 80
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-convert-table-init.h
 END
+xed-common-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-common-defs.h
+END
 xed-isa-set-enum.h
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-isa-set-enum.h
+END
+xed-operand-type-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-type-enum.h
+END
+xed-flag-enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-flag-enum.h
 END
 xed-encoder-iforms.h
 K 25
@@ -338,40 +374,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-util.h
-END
-xed-extension-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-extension-enum.h
-END
-xed-reg-role-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-reg-role-enum.h
-END
-xed-category-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-category-enum.h
-END
-xed-operand-visibility-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-operand-visibility-enum.h
-END
-xed-reg-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-reg-enum.h
-END
-xed-iclass-enum.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/shared/xed2/xed2-intel64/include/xed-iclass-enum.h
 END

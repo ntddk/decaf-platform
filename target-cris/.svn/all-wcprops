@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 34
 /svn/!svn/ver/23/trunk/target-cris
 END
+mmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/target-cris/mmu.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/target-cris/helper.c
+END
+crisv32-decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/target-cris/crisv32-decode.h
+END
 mmu.h
 K 25
 svn:wc:ra_dav:version-url
@@ -56,22 +74,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/target-cris/translate.c
-END
-mmu.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/target-cris/mmu.c
-END
-helper.c
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/target-cris/helper.c
-END
-crisv32-decode.h
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/target-cris/crisv32-decode.h
 END

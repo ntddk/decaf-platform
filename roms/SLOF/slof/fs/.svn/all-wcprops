@@ -3,102 +3,6 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs
 END
-loaders.fs
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/loaders.fs
-END
-translate.fs
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/translate.fs
-END
-pci-scan.fs
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-scan.fs
-END
-accept.fs
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/accept.fs
-END
-instance.fs
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/instance.fs
-END
-generic-disk.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/generic-disk.fs
-END
-scsi-loader.fs
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/scsi-loader.fs
-END
-pci-bridge.fs
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-bridge.fs
-END
-pci-properties.fs
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-properties.fs
-END
-dictionary.fs
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/dictionary.fs
-END
-elf.fs
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/elf.fs
-END
-pci-config-bridge.fs
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-config-bridge.fs
-END
-pci-device.fs
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-device.fs
-END
-bootmsg.fs
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/bootmsg.fs
-END
-scsi-support.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/scsi-support.fs
-END
-packages.fs
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages.fs
-END
 claim.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -326,4 +230,100 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/envvar_defaults.fs
+END
+loaders.fs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/loaders.fs
+END
+translate.fs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/translate.fs
+END
+pci-scan.fs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-scan.fs
+END
+accept.fs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/accept.fs
+END
+instance.fs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/instance.fs
+END
+generic-disk.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/generic-disk.fs
+END
+scsi-loader.fs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/scsi-loader.fs
+END
+pci-bridge.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-bridge.fs
+END
+pci-properties.fs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-properties.fs
+END
+dictionary.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/dictionary.fs
+END
+elf.fs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/elf.fs
+END
+pci-config-bridge.fs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-config-bridge.fs
+END
+pci-device.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/pci-device.fs
+END
+bootmsg.fs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/bootmsg.fs
+END
+scsi-support.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/scsi-support.fs
+END
+packages.fs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages.fs
 END

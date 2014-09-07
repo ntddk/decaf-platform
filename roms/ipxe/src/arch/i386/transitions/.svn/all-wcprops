@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/transitions
 END
-libkir.S
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/transitions/libkir.S
-END
 libpm.S
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/transitions/liba20.S
+END
+libkir.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/transitions/libkir.S
 END

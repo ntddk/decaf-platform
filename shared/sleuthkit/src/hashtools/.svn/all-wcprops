@@ -3,6 +3,36 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools
 END
+md5c.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/md5c.c
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/hash.h
+END
+hfind.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/hfind.c
+END
+hk_index.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/hk_index.c
+END
+tm_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/tm_lookup.c
+END
 sha1.c
 K 25
 svn:wc:ra_dav:version-url
@@ -56,34 +86,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/global.h
-END
-md5c.c
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/md5c.c
-END
-hash.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/hash.h
-END
-hfind.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/hfind.c
-END
-hk_index.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/hk_index.c
-END
-tm_lookup.c
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/hashtools/tm_lookup.c
 END

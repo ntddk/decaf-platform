@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64
 END
-Makefile.linux
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/Makefile.linux
-END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
@@ -20,4 +14,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/Makefile.efi
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86_64/Makefile.linux
 END

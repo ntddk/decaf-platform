@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libhvcall
 END
-hvcall.code
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libhvcall/hvcall.code
-END
 libhvcall.h
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libhvcall/hvcall.in
+END
+hvcall.code
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libhvcall/hvcall.code
 END

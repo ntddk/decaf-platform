@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib
 END
-tftp.c
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/tftp.c
-END
-dhcp.c
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/dhcp.c
-END
-ethernet.c
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/ethernet.c
-END
 tftp.h
 K 25
 svn:wc:ra_dav:version-url
@@ -98,4 +80,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/udp.h
+END
+tftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/tftp.c
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/dhcp.c
+END
+ethernet.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/app/netlib/ethernet.c
 END

@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 42
 /svn/!svn/ver/23/trunk/roms/ipxe/src/image
 END
-segment.c
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/roms/ipxe/src/image/segment.c
-END
 script.c
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/ipxe/src/image/embedded.c
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/roms/ipxe/src/image/segment.c
 END

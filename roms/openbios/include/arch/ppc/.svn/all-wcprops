@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/openbios/include/arch/ppc
 END
+asmdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/include/arch/ppc/asmdefs.h
+END
 types.h
 K 25
 svn:wc:ra_dav:version-url
@@ -32,10 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/openbios/include/arch/ppc/processor.h
-END
-asmdefs.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/include/arch/ppc/asmdefs.h
 END

@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include
 END
-of.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/of.h
-END
-fcntl.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/fcntl.h
-END
-fileio.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/fileio.h
-END
 crt0.h
 K 25
 svn:wc:ra_dav:version-url
@@ -68,4 +50,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/kernel.h
+END
+of.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/of.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/fcntl.h
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/include/fileio.h
 END

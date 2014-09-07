@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog
 END
-dialog.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/dialog.h
-END
-.gitignore
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/.gitignore
-END
-check-lxdialog.sh
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/check-lxdialog.sh
-END
 inputbox.c
 K 25
 svn:wc:ra_dav:version-url
@@ -62,4 +44,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/util.c
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/dialog.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/.gitignore
+END
+check-lxdialog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/roms/seabios/tools/kconfig/lxdialog/check-lxdialog.sh
 END

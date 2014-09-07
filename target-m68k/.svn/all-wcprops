@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 34
 /svn/!svn/ver/23/trunk/target-m68k
 END
-helper.c
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/target-m68k/helper.c
-END
 machine.c
 K 25
 svn:wc:ra_dav:version-url
@@ -50,4 +44,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/target-m68k/translate.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/target-m68k/helper.c
 END

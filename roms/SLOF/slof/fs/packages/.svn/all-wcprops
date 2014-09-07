@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages
 END
-ext2-files.fs
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/ext2-files.fs
-END
-sms.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/sms.fs
-END
-disk-label.fs
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/disk-label.fs
-END
 deblocker.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -62,4 +44,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/filler.fs
+END
+ext2-files.fs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/ext2-files.fs
+END
+sms.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/sms.fs
+END
+disk-label.fs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/packages/disk-label.fs
 END

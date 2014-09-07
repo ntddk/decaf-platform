@@ -3,17 +3,11 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/roms/qemu-palcode
 END
-printf.c
+pci_regs.h
 K 25
 svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/printf.c
-END
-init.c
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/init.c
+V 51
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/pci_regs.h
 END
 vgaio.c
 K 25
@@ -27,17 +21,23 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/sys-sx164.h
 END
+HEADER
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/HEADER
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/uart.c
+END
 pci.c
 K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/pci.c
-END
-util.c
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/util.c
 END
 pci_ids.h
 K 25
@@ -50,6 +50,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/sys-clipper.h
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/uart.h
 END
 pci.h
 K 25
@@ -69,35 +75,41 @@ svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/pal.h
 END
-ioport.h
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/ioport.h
-END
-palcode.ld
+.gitignore
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/palcode.ld
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/.gitignore
 END
-strlen.S
+vgafonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/vgafonts.c
+END
+core-cia.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/core-cia.h
+END
+memset.c
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/strlen.S
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/memset.c
 END
-memcpy.c
+core-typhoon.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/core-typhoon.h
+END
+protos.h
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/memcpy.c
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/Makefile
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/protos.h
 END
 osf.h
 K 25
@@ -105,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/osf.h
 END
-pci_regs.h
+printf.c
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/pci_regs.h
+V 49
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/printf.c
 END
 console.c
 K 25
@@ -117,17 +129,17 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/console.c
 END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/init.c
+END
 crb.c
 K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/crb.c
-END
-HEADER
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/HEADER
 END
 console.h
 K 25
@@ -147,11 +159,11 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/ps2port.c
 END
-uart.c
+util.c
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/uart.c
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/util.c
 END
 vgatables.h
 K 25
@@ -165,17 +177,23 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/ps2port.h
 END
-uart.h
+ioport.h
 K 25
 svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/uart.h
+V 49
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/ioport.h
 END
-.gitignore
+palcode.ld
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/.gitignore
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/palcode.ld
+END
+strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/strlen.S
 END
 hwrpb.h
 K 25
@@ -189,41 +207,23 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/COPYING
 END
-vgafonts.c
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/vgafonts.c
-END
-core-cia.h
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/core-cia.h
-END
 sys-clipper.S
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/qemu-palcode/sys-clipper.S
 END
-memset.c
+memcpy.c
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/memset.c
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/memcpy.c
 END
-core-typhoon.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/core-typhoon.h
-END
-protos.h
+Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svn/!svn/ver/23/trunk/roms/qemu-palcode/protos.h
+/svn/!svn/ver/23/trunk/roms/qemu-palcode/Makefile
 END
 pal.S
 K 25

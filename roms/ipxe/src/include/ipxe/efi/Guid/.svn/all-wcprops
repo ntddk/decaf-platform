@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Guid
 END
+HiiFormMapMethodGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Guid/HiiFormMapMethodGuid.h
+END
+MdeModuleHii.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Guid/MdeModuleHii.h
+END
 SmBios.h
 K 25
 svn:wc:ra_dav:version-url
@@ -26,16 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Guid/WinCertificate.h
-END
-HiiFormMapMethodGuid.h
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Guid/HiiFormMapMethodGuid.h
-END
-MdeModuleHii.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Guid/MdeModuleHii.h
 END

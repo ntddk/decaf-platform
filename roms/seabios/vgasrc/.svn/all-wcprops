@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 42
 /svn/!svn/ver/23/trunk/roms/seabios/vgasrc
 END
-vgalayout.lds.S
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgalayout.lds.S
-END
-vgatables.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgatables.h
-END
-vga.c
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vga.c
-END
 clext.c
 K 25
 svn:wc:ra_dav:version-url
@@ -56,4 +38,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgatables.c
+END
+vgalayout.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgalayout.lds.S
+END
+vgatables.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vgatables.h
+END
+vga.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/roms/seabios/vgasrc/vga.c
 END

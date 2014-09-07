@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort
 END
+default.sort
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/default.sort
+END
 images.sort
 K 25
 svn:wc:ra_dav:version-url
@@ -44,10 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/linux.sort
-END
-default.sort
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/sorter/sort/default.sort
 END

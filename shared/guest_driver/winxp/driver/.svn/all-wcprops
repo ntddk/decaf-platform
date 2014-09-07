@@ -3,66 +3,6 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver
 END
-testdrv.pdb
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.pdb
-END
-ProcMMap.c
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/ProcMMap.c
-END
-pch.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/pch.h
-END
-ProcMMap.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/ProcMMap.h
-END
-queue.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/queue.c
-END
-INSTALL
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/INSTALL
-END
-debug.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/debug.c
-END
-testdrv.reg
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.reg
-END
-w2k_def.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/w2k_def.h
-END
-testdrv.sys
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.sys
-END
 testdrv.c
 K 25
 svn:wc:ra_dav:version-url
@@ -122,4 +62,64 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.rc
+END
+testdrv.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.pdb
+END
+ProcMMap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/ProcMMap.c
+END
+pch.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/pch.h
+END
+ProcMMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/ProcMMap.h
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/queue.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/INSTALL
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/debug.c
+END
+testdrv.reg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.reg
+END
+w2k_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/w2k_def.h
+END
+testdrv.sys
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/driver/testdrv.sys
 END

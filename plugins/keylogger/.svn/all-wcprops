@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/240/trunk/plugins/keylogger
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/231/trunk/plugins/keylogger/Makefile
-END
 configure
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/231/trunk/plugins/keylogger/plugin_cmds.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/231/trunk/plugins/keylogger/Makefile
 END

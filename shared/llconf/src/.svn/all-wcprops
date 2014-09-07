@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/shared/llconf/src
 END
-Makefile.am
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/23/trunk/shared/llconf/src/Makefile.am
-END
-parseerror.h
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/shared/llconf/src/parseerror.h
-END
-strutils.c
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/shared/llconf/src/strutils.c
-END
 strutils.h
 K 25
 svn:wc:ra_dav:version-url
@@ -92,4 +74,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/shared/llconf/src/parseerror.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/shared/llconf/src/Makefile.am
+END
+parseerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/shared/llconf/src/parseerror.h
+END
+strutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/shared/llconf/src/strutils.c
 END

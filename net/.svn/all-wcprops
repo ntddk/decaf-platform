@@ -3,48 +3,6 @@ svn:wc:ra_dav:version-url
 V 26
 /svn/!svn/ver/23/trunk/net
 END
-tap-linux.c
-K 25
-svn:wc:ra_dav:version-url
-V 38
-/svn/!svn/ver/23/trunk/net/tap-linux.c
-END
-util.h
-K 25
-svn:wc:ra_dav:version-url
-V 33
-/svn/!svn/ver/23/trunk/net/util.h
-END
-vde.h
-K 25
-svn:wc:ra_dav:version-url
-V 32
-/svn/!svn/ver/23/trunk/net/vde.h
-END
-tap-haiku.c
-K 25
-svn:wc:ra_dav:version-url
-V 38
-/svn/!svn/ver/23/trunk/net/tap-haiku.c
-END
-queue.c
-K 25
-svn:wc:ra_dav:version-url
-V 34
-/svn/!svn/ver/23/trunk/net/queue.c
-END
-tap.c
-K 25
-svn:wc:ra_dav:version-url
-V 32
-/svn/!svn/ver/23/trunk/net/tap.c
-END
-tap-win32.c
-K 25
-svn:wc:ra_dav:version-url
-V 38
-/svn/!svn/ver/23/trunk/net/tap-win32.c
-END
 tap-linux.h
 K 25
 svn:wc:ra_dav:version-url
@@ -140,4 +98,46 @@ K 25
 svn:wc:ra_dav:version-url
 V 32
 /svn/!svn/ver/23/trunk/net/vde.c
+END
+tap-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/net/tap-linux.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/23/trunk/net/util.h
+END
+vde.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/23/trunk/net/vde.h
+END
+tap-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/net/tap-haiku.c
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/23/trunk/net/queue.c
+END
+tap.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/23/trunk/net/tap.c
+END
+tap-win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/net/tap-win32.c
 END

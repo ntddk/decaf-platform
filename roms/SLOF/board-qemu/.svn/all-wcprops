@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 43
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu
 END
-config
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/config
-END
 Makefile.dirs
 K 25
 svn:wc:ra_dav:version-url
@@ -20,4 +14,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/Makefile
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/config
 END

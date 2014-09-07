@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/include
 END
-data.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/include/data.h
-END
 block.h
 K 25
 svn:wc:ra_dav:version-url
@@ -74,4 +68,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/include/volume.h
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/fs/hfs/include/data.h
 END

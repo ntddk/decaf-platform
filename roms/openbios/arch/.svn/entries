@@ -26,15 +26,6 @@ xchu87@gmail.com
 
 14c6c976-5609-92b9-2f94-3eb32e7087df
 
-x86
-dir
-
-amd64
-dir
-
-ppc64
-dir
-
 sparc32
 dir
 
@@ -44,7 +35,7 @@ file
 
 
 
-2014-09-07T06:33:32.894637Z
+2014-09-07T05:45:34.057958Z
 dc83b572c9efe7021ca772d280d421b7
 2013-02-01T03:54:56.115293Z
 23
@@ -82,5 +73,14 @@ ia64
 dir
 
 unix
+dir
+
+x86
+dir
+
+amd64
+dir
+
+ppc64
 dir
 

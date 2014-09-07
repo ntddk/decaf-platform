@@ -3,6 +3,36 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband
 END
+hermon.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/hermon.c
+END
+qib7322.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib7322.c
+END
+arbel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/arbel.h
+END
+linda.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/linda.h
+END
+hermon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/hermon.h
+END
 qib7322.h
 K 25
 svn:wc:ra_dav:version-url
@@ -62,34 +92,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/linda.c
-END
-hermon.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/hermon.c
-END
-qib7322.c
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/qib7322.c
-END
-arbel.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/arbel.h
-END
-linda.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/linda.h
-END
-hermon.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/infiniband/hermon.h
 END

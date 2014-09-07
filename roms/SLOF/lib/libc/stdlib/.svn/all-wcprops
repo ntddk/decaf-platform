@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib
 END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/malloc.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/strtol.c
+END
 memalign.c
 K 25
 svn:wc:ra_dav:version-url
@@ -62,16 +74,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/rand.c
-END
-malloc.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/malloc.c
-END
-strtol.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdlib/strtol.c
 END

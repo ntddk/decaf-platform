@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 45
 /svn/!svn/ver/231/trunk/plugins/callbacktests
 END
-plugin_cmds.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/231/trunk/plugins/callbacktests/plugin_cmds.h
-END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +38,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/231/trunk/plugins/callbacktests/COPYING
+END
+plugin_cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/231/trunk/plugins/callbacktests/plugin_cmds.h
 END

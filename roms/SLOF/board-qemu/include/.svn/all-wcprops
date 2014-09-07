@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/include
 END
-nvramlog.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/include/nvramlog.h
-END
 hw.h
 K 25
 svn:wc:ra_dav:version-url
@@ -26,4 +20,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/include/product.h
+END
+nvramlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/include/nvramlog.h
 END

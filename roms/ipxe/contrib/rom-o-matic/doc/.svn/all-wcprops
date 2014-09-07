@@ -3,6 +3,78 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc
 END
+IMAGE_ELF.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_ELF.html
+END
+IMAGE_NBI.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_NBI.html
+END
+BANNER_TIMEOUT.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/BANNER_TIMEOUT.html
+END
+AUTOBOOT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/AUTOBOOT_CMD.html
+END
+ROUTE_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/ROUTE_CMD.html
+END
+COMSTOP.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMSTOP.html
+END
+NVO_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/NVO_CMD.html
+END
+CRYPTO_80211_WEP.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WEP.html
+END
+DOWNLOAD_PROTO_TFTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_TFTP.html
+END
+IWMGMT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IWMGMT_CMD.html
+END
+SANBOOT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/SANBOOT_CMD.html
+END
+DOWNLOAD_PROTO_HTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_HTTP.html
+END
 NMB_RESOLVER.html
 K 25
 svn:wc:ra_dav:version-url
@@ -122,76 +194,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMPARITY.html
-END
-IMAGE_ELF.html
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_ELF.html
-END
-IMAGE_NBI.html
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IMAGE_NBI.html
-END
-BANNER_TIMEOUT.html
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/BANNER_TIMEOUT.html
-END
-AUTOBOOT_CMD.html
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/AUTOBOOT_CMD.html
-END
-ROUTE_CMD.html
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/ROUTE_CMD.html
-END
-COMSTOP.html
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/COMSTOP.html
-END
-NVO_CMD.html
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/NVO_CMD.html
-END
-CRYPTO_80211_WEP.html
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WEP.html
-END
-DOWNLOAD_PROTO_TFTP.html
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_TFTP.html
-END
-IWMGMT_CMD.html
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/IWMGMT_CMD.html
-END
-SANBOOT_CMD.html
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/SANBOOT_CMD.html
-END
-DOWNLOAD_PROTO_HTTP.html
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_HTTP.html
 END

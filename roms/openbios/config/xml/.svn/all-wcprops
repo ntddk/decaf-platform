@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/!svn/ver/23/trunk/roms/openbios/config/xml
 END
-config-forth.xsl
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/openbios/config/xml/config-forth.xsl
-END
-config-c.xsl
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/openbios/config/xml/config-c.xsl
-END
-dictionary.xsl
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/openbios/config/xml/dictionary.xsl
-END
-object.xsl
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/openbios/config/xml/object.xsl
-END
 xinclude.xsl
 K 25
 svn:wc:ra_dav:version-url
@@ -50,4 +26,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/openbios/config/xml/rules.xml
+END
+config-forth.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/openbios/config/xml/config-forth.xsl
+END
+config-c.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/config/xml/config-c.xsl
+END
+dictionary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/openbios/config/xml/dictionary.xsl
+END
+object.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/config/xml/object.xsl
 END

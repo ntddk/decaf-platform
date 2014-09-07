@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/ctype
 END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/ctype/Makefile.inc
+END
+isxdigit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/ctype/isxdigit.c
+END
 isspace.c
 K 25
 svn:wc:ra_dav:version-url
@@ -32,16 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/ctype/toupper.c
-END
-Makefile.inc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/ctype/Makefile.inc
-END
-isxdigit.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/ctype/isxdigit.c
 END

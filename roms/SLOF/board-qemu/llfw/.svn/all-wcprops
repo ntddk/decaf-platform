@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/llfw
 END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/llfw/Makefile
+END
+board_io.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/llfw/board_io.S
+END
 startup.S
 K 25
 svn:wc:ra_dav:version-url
@@ -38,16 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/llfw/stage2.h
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/llfw/Makefile
-END
-board_io.S
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/SLOF/board-qemu/llfw/board_io.S
 END

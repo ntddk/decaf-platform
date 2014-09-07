@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 30
 /svn/!svn/ver/156/trunk/hw/ide
 END
-core.c
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/67/trunk/hw/ide/core.c
-END
-macio.c
-K 25
-svn:wc:ra_dav:version-url
-V 37
-/svn/!svn/ver/23/trunk/hw/ide/macio.c
-END
-atapi.c
-K 25
-svn:wc:ra_dav:version-url
-V 37
-/svn/!svn/ver/23/trunk/hw/ide/atapi.c
-END
 qdev.c
 K 25
 svn:wc:ra_dav:version-url
@@ -98,4 +80,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 40
 /svn/!svn/ver/23/trunk/hw/ide/internal.h
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/67/trunk/hw/ide/core.c
+END
+macio.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/hw/ide/macio.c
+END
+atapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/hw/ide/atapi.c
 END

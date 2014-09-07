@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/253/trunk/plugins/hookapitests
 END
-COPYING
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/!svn/ver/231/trunk/plugins/hookapitests/COPYING
-END
-plugin_cmds.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/231/trunk/plugins/hookapitests/plugin_cmds.h
-END
-custom_handlers.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/231/trunk/plugins/hookapitests/custom_handlers.c
-END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
@@ -50,4 +32,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/231/trunk/plugins/hookapitests/configure
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/231/trunk/plugins/hookapitests/COPYING
+END
+plugin_cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/231/trunk/plugins/hookapitests/plugin_cmds.h
+END
+custom_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/231/trunk/plugins/hookapitests/custom_handlers.c
 END

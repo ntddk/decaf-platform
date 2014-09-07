@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 35
 /svn/!svn/ver/23/trunk/tests/xtensa
 END
-test_mul32.S
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/tests/xtensa/test_mul32.S
-END
 test_quo.S
 K 25
 svn:wc:ra_dav:version-url
@@ -176,4 +170,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/tests/xtensa/test_mmu.S
+END
+test_mul32.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tests/xtensa/test_mul32.S
 END

@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 35
 /svn/!svn/ver/251/trunk/target-i386
 END
+ops_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/target-i386/ops_sse.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/target-i386/TODO
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/247/trunk/target-i386/helper.h
+END
+ops_sse_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/target-i386/ops_sse_header.h
+END
 cpu.h
 K 25
 svn:wc:ra_dav:version-url
@@ -74,28 +98,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 43
 /svn/!svn/ver/23/trunk/target-i386/helper.c
-END
-ops_sse.h
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/target-i386/ops_sse.h
-END
-TODO
-K 25
-svn:wc:ra_dav:version-url
-V 39
-/svn/!svn/ver/23/trunk/target-i386/TODO
-END
-helper.h
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/247/trunk/target-i386/helper.h
-END
-ops_sse_header.h
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/!svn/ver/23/trunk/target-i386/ops_sse_header.h
 END

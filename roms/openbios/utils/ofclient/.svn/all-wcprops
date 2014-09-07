@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/!svn/ver/23/trunk/roms/openbios/utils/ofclient
 END
+of1275_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/utils/ofclient/of1275_io.c
+END
 README
 K 25
 svn:wc:ra_dav:version-url
@@ -38,10 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/openbios/utils/ofclient/of1275.h
-END
-of1275_io.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/utils/ofclient/of1275_io.c
 END

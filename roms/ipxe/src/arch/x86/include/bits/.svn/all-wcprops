@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86/include/bits
 END
+linux_api_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86/include/bits/linux_api_platform.h
+END
 pci_io.h
 K 25
 svn:wc:ra_dav:version-url
@@ -14,10 +20,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86/include/bits/string.h
-END
-linux_api_platform.h
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/x86/include/bits/linux_api_platform.h
 END

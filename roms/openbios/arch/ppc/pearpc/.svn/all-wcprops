@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc
 END
+pearpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/pearpc.c
+END
+pearpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/pearpc.h
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/tree.c
+END
+vfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/vfd.c
+END
 pearpc.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -44,28 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/tree.fs
-END
-pearpc.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/pearpc.c
-END
-pearpc.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/pearpc.h
-END
-tree.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/tree.c
-END
-vfd.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/openbios/arch/ppc/pearpc/vfd.c
 END

@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 30
 /svn/!svn/ver/251/trunk/shared
 END
-disasm-pp.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/shared/disasm-pp.cpp
-END
-vmi_c_wrapper.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/247/trunk/shared/vmi_c_wrapper.cpp
-END
-linux_procinfo.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/!svn/ver/247/trunk/shared/linux_procinfo.cpp
-END
 windows_vmi.cpp
 K 25
 svn:wc:ra_dav:version-url
@@ -248,4 +230,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/247/trunk/shared/vmi.cpp
+END
+disasm-pp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/shared/disasm-pp.cpp
+END
+vmi_c_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/247/trunk/shared/vmi_c_wrapper.cpp
+END
+linux_procinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/247/trunk/shared/linux_procinfo.cpp
 END

@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/SLOF/other-licence/x86emu
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/SLOF/other-licence/x86emu/Makefile
-END
 x86emu_changes.diff
 K 25
 svn:wc:ra_dav:version-url
@@ -20,4 +14,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/roms/SLOF/other-licence/x86emu/x86emu_download.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/SLOF/other-licence/x86emu/Makefile
 END

@@ -3,6 +3,132 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net
 END
+via-rhine.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/via-rhine.c
+END
+davicom.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/davicom.c
+END
+b44.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/b44.c
+END
+smc9000.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/smc9000.c
+END
+eepro100.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/eepro100.c
+END
+3c503.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c503.c
+END
+b44.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/b44.h
+END
+prism2_plx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/prism2_plx.c
+END
+virtio-net.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/virtio-net.c
+END
+eepro100.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/eepro100.h
+END
+natsemi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/natsemi.c
+END
+smc9000.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/smc9000.h
+END
+myri10ge_mcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/myri10ge_mcp.h
+END
+epic100.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/epic100.c
+END
+3c509.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c509.c
+END
+legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/legacy.c
+END
+virtio-net.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/virtio-net.h
+END
+natsemi.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/natsemi.h
+END
+epic100.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/epic100.h
+END
+3c90x.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c90x.c
+END
+3c509.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c509.h
+END
 bnx2.c
 K 25
 svn:wc:ra_dav:version-url
@@ -15,17 +141,23 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/wd.c
 END
-3c5x9.c
+jme.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/jme.c
+END
+3c90x.h
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c5x9.c
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c90x.h
 END
-etherfabric_nic.h
+pcnet32.c
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/etherfabric_nic.h
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pcnet32.c
 END
 bnx2.h
 K 25
@@ -33,23 +165,29 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/bnx2.h
 END
+jme.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/jme.h
+END
 amd8111e.c
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/amd8111e.c
 END
+pcnet32.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pcnet32.h
+END
 mtd80x.c
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/mtd80x.c
-END
-ns83820.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ns83820.c
 END
 amd8111e.h
 K 25
@@ -75,17 +213,11 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pnic.c
 END
-tulip.txt
+tg3.c
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tulip.txt
-END
-hfa384x.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/hfa384x.h
+V 54
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tg3.c
 END
 sky2.h
 K 25
@@ -99,287 +231,11 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sis190.h
 END
-3c515.txt
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c515.txt
-END
-3c515.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c515.c
-END
-forcedeth.c
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/forcedeth.c
-END
-ns8390.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ns8390.c
-END
-3c595.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c595.c
-END
-forcedeth.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/forcedeth.h
-END
-ns8390.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ns8390.h
-END
-eepro.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/eepro.c
-END
-bnx2_fw.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/bnx2_fw.h
-END
-via-velocity.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/via-velocity.c
-END
-depca.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/depca.c
-END
-3c595.h
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c595.h
-END
-via-velocity.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/via-velocity.h
-END
-via-rhine.c
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/via-rhine.c
-END
-davicom.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/davicom.c
-END
-3c509-eisa.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c509-eisa.c
-END
-sis900.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sis900.c
-END
-skge.c
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/skge.c
-END
-b44.c
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/b44.c
-END
-smc9000.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/smc9000.c
-END
-sis900.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sis900.h
-END
-3c503.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c503.c
-END
-skge.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/skge.h
-END
-b44.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/b44.h
-END
-sundance.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sundance.c
-END
-natsemi.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/natsemi.c
-END
-smc9000.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/smc9000.h
-END
-epic100.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/epic100.c
-END
-3c509.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c509.c
-END
-natsemi.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/natsemi.h
-END
-epic100.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/epic100.h
-END
-3c90x.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c90x.c
-END
-prism2_pci.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/prism2_pci.c
-END
-3c509.h
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c509.h
-END
-jme.c
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/jme.c
-END
-3c90x.h
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c90x.h
-END
-pcnet32.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pcnet32.c
-END
-jme.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/jme.h
-END
-pcnet32.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pcnet32.h
-END
-pnic_api.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pnic_api.h
-END
-ne2k_isa.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ne2k_isa.c
-END
-cs89x0.txt
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/cs89x0.txt
-END
-tg3.c
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tg3.c
-END
-myri10ge.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/myri10ge.c
-END
 tulip.c
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tulip.c
-END
-cs89x0.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/cs89x0.c
-END
-tlan.c
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tlan.c
 END
 tg3.h
 K 25
@@ -393,23 +249,11 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ipoib.c
 END
-ne.c
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ne.c
-END
-cs89x0.h
+ns8390.c
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/cs89x0.h
-END
-tlan.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tlan.h
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ns8390.c
 END
 atl1e.c
 K 25
@@ -423,29 +267,41 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/wlan_compat.h
 END
+ns8390.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ns8390.h
+END
 atl1e.h
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/atl1e.h
 END
-dmfe.c
+via-velocity.c
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/dmfe.c
-END
-prism2.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/prism2.c
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/via-velocity.c
 END
 etherfabric.c
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/etherfabric.c
+END
+via-velocity.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/via-velocity.h
+END
+3c509-eisa.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c509-eisa.c
 END
 etherfabric.h
 K 25
@@ -465,17 +321,35 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/rtl8139.c
 END
+sis900.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sis900.c
+END
+skge.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/skge.c
+END
 r8169.c
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/r8169.c
 END
-eepro100.c
+sis900.h
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/eepro100.c
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sis900.h
+END
+skge.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/skge.h
 END
 r8169.h
 K 25
@@ -489,45 +363,171 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/p80211hdr.h
 END
-prism2_plx.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/prism2_plx.c
-END
-virtio-net.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/virtio-net.c
-END
-eepro100.h
+sundance.c
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/eepro100.h
-END
-myri10ge_mcp.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/myri10ge_mcp.h
-END
-legacy.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/legacy.c
-END
-virtio-net.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/virtio-net.h
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/sundance.c
 END
 3c529.c
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c529.c
+END
+prism2_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/prism2_pci.c
+END
+3c5x9.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c5x9.c
+END
+etherfabric_nic.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/etherfabric_nic.h
+END
+ns83820.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ns83820.c
+END
+pnic_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/pnic_api.h
+END
+tulip.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tulip.txt
+END
+hfa384x.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/hfa384x.h
+END
+ne2k_isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ne2k_isa.c
+END
+cs89x0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/cs89x0.txt
+END
+myri10ge.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/myri10ge.c
+END
+3c515.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c515.txt
+END
+cs89x0.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/cs89x0.c
+END
+tlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tlan.c
+END
+3c515.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c515.c
+END
+ne.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ne.c
+END
+forcedeth.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/forcedeth.c
+END
+cs89x0.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/cs89x0.h
+END
+tlan.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/tlan.h
+END
+3c595.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c595.c
+END
+forcedeth.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/forcedeth.h
+END
+eepro.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/eepro.c
+END
+bnx2_fw.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/bnx2_fw.h
+END
+dmfe.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/dmfe.c
+END
+depca.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/depca.c
+END
+prism2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/prism2.c
+END
+3c595.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/3c595.h
 END

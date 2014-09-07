@@ -3,6 +3,72 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib
 END
+aff_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/aff_db.h
+END
+afflib.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib.mak
+END
+vnode_evd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evd.cpp
+END
+vnode_evf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evf.cpp
+END
+vnode_evd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evd.h
+END
+evf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/evf_test.c
+END
+afflib_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib_util.cpp
+END
+vnode_evf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evf.h
+END
+afflib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib.cpp
+END
+vnode_raw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_raw.cpp
+END
+afflib_os.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib_os.cpp
+END
 vnode_afd.cpp
 K 25
 svn:wc:ra_dav:version-url
@@ -110,70 +176,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_split_raw.h
-END
-aff_db.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/aff_db.h
-END
-afflib.mak
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib.mak
-END
-vnode_evd.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evd.cpp
-END
-vnode_evf.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evf.cpp
-END
-vnode_evd.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evd.h
-END
-evf_test.c
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/evf_test.c
-END
-afflib_util.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib_util.cpp
-END
-vnode_evf.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_evf.h
-END
-afflib.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib.cpp
-END
-vnode_raw.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/vnode_raw.cpp
-END
-afflib_os.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/afflib/lib/afflib_os.cpp
 END

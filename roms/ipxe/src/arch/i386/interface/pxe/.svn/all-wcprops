@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe
 END
-pxe_udp.c
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_udp.c
-END
 pxe_preboot.c
 K 25
 svn:wc:ra_dav:version-url
@@ -50,4 +44,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 73
 /svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_loader.c
+END
+pxe_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/roms/ipxe/src/arch/i386/interface/pxe/pxe_udp.c
 END

@@ -3,15 +3,15 @@ svn:wc:ra_dav:version-url
 V 42
 /svn/!svn/ver/23/trunk/roms/openbios/forth
 END
-Kconfig
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/roms/openbios/forth/Kconfig
-END
 build.xml
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/openbios/forth/build.xml
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/roms/openbios/forth/Kconfig
 END

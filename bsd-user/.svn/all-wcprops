@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 31
 /svn/!svn/ver/23/trunk/bsd-user
 END
+errno_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/bsd-user/errno_defs.h
+END
+qemu.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/bsd-user/qemu.h
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/bsd-user/signal.c
+END
+qemu-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/bsd-user/qemu-types.h
+END
 syscall_defs.h
 K 25
 svn:wc:ra_dav:version-url
@@ -56,28 +80,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/23/trunk/bsd-user/mmap.c
-END
-errno_defs.h
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/bsd-user/errno_defs.h
-END
-qemu.h
-K 25
-svn:wc:ra_dav:version-url
-V 38
-/svn/!svn/ver/23/trunk/bsd-user/qemu.h
-END
-signal.c
-K 25
-svn:wc:ra_dav:version-url
-V 40
-/svn/!svn/ver/23/trunk/bsd-user/signal.c
-END
-qemu-types.h
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/bsd-user/qemu-types.h
 END

@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/fcode
 END
-tokens.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/fcode/tokens.fs
-END
-core.fs
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/fcode/core.fs
-END
 1275.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +20,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/fcode/evaluator.fs
+END
+tokens.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/fcode/tokens.fs
+END
+core.fs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/fcode/core.fs
 END

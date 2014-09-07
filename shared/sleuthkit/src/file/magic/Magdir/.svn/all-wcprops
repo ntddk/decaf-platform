@@ -3,41 +3,77 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir
 END
-pbm
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pbm
-END
-netbsd
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/netbsd
-END
-mlssa
+alpha
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mlssa
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/alpha
 END
-olf
+karma
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/olf
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/karma
 END
-amigaos
+teapot
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/amigaos
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/teapot
 END
-gringotts
+mail.news
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/gringotts
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mail.news
+END
+wordprocessors
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/wordprocessors
+END
+cisco
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cisco
+END
+sharc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sharc
+END
+apple
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/apple
+END
+spectrum
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/spectrum
+END
+hp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/hp
+END
+plus5
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/plus5
+END
+scientific
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/scientific
 END
 java
 K 25
@@ -45,11 +81,35 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/java
 END
-sketch
+amanda
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sketch
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/amanda
+END
+octave
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/octave
+END
+xdelta
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xdelta
+END
+printer
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/printer
+END
+parix
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/parix
 END
 mkid
 K 25
@@ -57,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mkid
 END
-allegro
+macintosh
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/allegro
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/macintosh
 END
 riff
 K 25
@@ -105,11 +165,167 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/geos
 END
+flash
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/flash
+END
+dyadic
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/dyadic
+END
+revision
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/revision
+END
+ctags
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ctags
+END
+vmware
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vmware
+END
+ibm370
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ibm370
+END
+mirage
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mirage
+END
+sun
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sun
+END
+pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pdf
+END
+zyxel
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/zyxel
+END
+att3b
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/att3b
+END
+ibm6000
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ibm6000
+END
+mlssa
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mlssa
+END
+varied.out
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/varied.out
+END
+hitachi-sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/hitachi-sh
+END
+xwindows
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xwindows
+END
+pdp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pdp
+END
+sequent
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sequent
+END
+gnu
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/gnu
+END
+blit
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/blit
+END
+timezone
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/timezone
+END
+sniffer
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sniffer
+END
+rpm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/rpm
+END
+clipper
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/clipper
+END
+c-lang
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/c-lang
+END
 basis
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/basis
+END
+esri
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/esri
 END
 vicar
 K 25
@@ -117,23 +333,11 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vicar
 END
-vorbis
+osf1
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vorbis
-END
-project
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/project
-END
-uuencode
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/uuencode
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/osf1
 END
 ti-8x
 K 25
@@ -141,23 +345,35 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ti-8x
 END
-mcrypt
+vxl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vxl
+END
+island
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mcrypt
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/island
 END
-lecter
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lecter
-END
-asterix
+freebsd
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/asterix
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/freebsd
+END
+virtutech
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/virtutech
+END
+netbsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/netbsd
 END
 troff
 K 25
@@ -165,17 +381,29 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/troff
 END
+bsdi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/bsdi
+END
+sketch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sketch
+END
+sgi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sgi
+END
 plan9
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/plan9
-END
-terminfo
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/terminfo
 END
 zilog
 K 25
@@ -189,35 +417,35 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/psion
 END
-blit
+lex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lex
+END
+visx
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/blit
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/visx
 END
-pkgadd
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pkgadd
-END
-motorola
+sendmail
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/motorola
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sendmail
 END
-applix
+typeset
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/applix
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/typeset
 END
-adventure
+adi
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/adventure
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/adi
 END
 maple
 K 25
@@ -225,71 +453,59 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/maple
 END
-human68k
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/human68k
-END
-esri
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/esri
-END
-convex
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/convex
-END
-images
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/images
-END
-sun
+vax
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sun
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vax
 END
-hp
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/hp
-END
-osf1
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/osf1
-END
-tuxedo
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/tuxedo
-END
-editors
+unknown
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/editors
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/unknown
 END
-pdf
+tex
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pdf
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/tex
 END
-interleaf
+netscape
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/interleaf
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/netscape
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/console
+END
+vorbis
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vorbis
+END
+sc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sc
+END
+elf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/elf
+END
+cracklib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cracklib
 END
 sysex
 K 25
@@ -303,59 +519,59 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/intel
 END
-blender
+dact
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/dact
+END
+mcrypt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mcrypt
+END
+lecter
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lecter
+END
+amigaos
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/blender
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/amigaos
 END
-claris
+matroska
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/claris
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/matroska
 END
-animation
+allegro
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/animation
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/allegro
 END
-scientific
+softquad
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/scientific
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/softquad
 END
-bsdi
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/bsdi
-END
-pdp
+cad
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pdp
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cad
 END
-ispell
+pkgadd
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ispell
-END
-visx
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/visx
-END
-gnu
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/gnu
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pkgadd
 END
 ocaml
 K 25
@@ -363,17 +579,17 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ocaml
 END
-mail.news
+compress
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mail.news
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/compress
 END
-rpm
+applix
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/rpm
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/applix
 END
 chord
 K 25
@@ -381,47 +597,83 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/chord
 END
+fsav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/fsav
+END
 audio
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/audio
 END
-commands
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/commands
-END
-pyramid
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pyramid
-END
-pulsar
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pulsar
-END
-vxl
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vxl
-END
-diamond
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/diamond
-END
-dact
+xo65
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/dact
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xo65
+END
+convex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/convex
+END
+sinclair
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sinclair
+END
+database
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/database
+END
+images
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/images
+END
+project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/project
+END
+lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lisp
+END
+tuxedo
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/tuxedo
+END
+mips
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mips
+END
+bout
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/bout
+END
+fcs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/fcs
 END
 varied.script
 K 25
@@ -429,47 +681,29 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/varied.script
 END
-natinst
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/natinst
-END
-varied.out
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/varied.out
-END
-python
+claris
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/python
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/claris
 END
-archive
+asterix
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/archive
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/asterix
 END
-hitachi-sh
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/hitachi-sh
-END
-sgi
+ncr
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sgi
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ncr
 END
-btsnoop
+smalltalk
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/btsnoop
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/smalltalk
 END
 msdos
 K 25
@@ -477,17 +711,23 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/msdos
 END
-macintosh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/macintosh
-END
-lex
+pgp
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lex
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pgp
+END
+nitpicker
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/nitpicker
+END
+ispell
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ispell
 END
 frame
 K 25
@@ -501,233 +741,17 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xenix
 END
-adi
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/adi
-END
-vax
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vax
-END
-linux
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/linux
-END
-fsav
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/fsav
-END
-tex
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/tex
-END
-xo65
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xo65
-END
-acorn
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/acorn
-END
-spectrum
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/spectrum
-END
-elf
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/elf
-END
-lisp
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lisp
-END
-mips
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mips
-END
-citrus
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/citrus
-END
-bout
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/bout
-END
-digital
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/digital
-END
-magic
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/magic
-END
-alliant
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/alliant
-END
-cad
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cad
-END
-psdbms
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/psdbms
-END
-communications
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/communications
-END
-fonts
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/fonts
-END
 sccs
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sccs
 END
-games
+linux
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/games
-END
-revision
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/revision
-END
-modem
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/modem
-END
-sc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sc
-END
-fcs
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/fcs
-END
-encore
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/encore
-END
-virtutech
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/virtutech
-END
-grace
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/grace
-END
-xwindows
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xwindows
-END
-ncr
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ncr
-END
-printer
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/printer
-END
-jpeg
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/jpeg
-END
-pgp
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pgp
-END
-tgif
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/tgif
-END
-timezone
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/timezone
-END
-teapot
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/teapot
-END
-wordprocessors
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/wordprocessors
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/linux
 END
 sql
 K 25
@@ -741,6 +765,12 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mup
 END
+acorn
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/acorn
+END
 os2
 K 25
 svn:wc:ra_dav:version-url
@@ -752,6 +782,132 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/iff
+END
+pulsar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pulsar
+END
+uuencode
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/uuencode
+END
+editors
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/editors
+END
+os9
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/os9
+END
+blender
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/blender
+END
+misctools
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/misctools
+END
+gringotts
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/gringotts
+END
+magic
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/magic
+END
+python
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/python
+END
+terminfo
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/terminfo
+END
+jpeg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/jpeg
+END
+tgif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/tgif
+END
+fonts
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/fonts
+END
+rtf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/rtf
+END
+motorola
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/motorola
+END
+gcc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/gcc
+END
+c64
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/c64
+END
+games
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/games
+END
+human68k
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/human68k
+END
+modem
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/modem
+END
+pyramid
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pyramid
 END
 dump
 K 25
@@ -777,17 +933,23 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/msvc
 END
-dolby
+citrus
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/dolby
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/citrus
 END
-os9
+lif
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/os9
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lif
+END
+diamond
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/diamond
 END
 news
 K 25
@@ -795,59 +957,47 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/news
 END
-ibm6000
+mathematica
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mathematica
+END
+natinst
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ibm6000
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/natinst
 END
-amanda
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/amanda
-END
-octave
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/octave
-END
-xdelta
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/xdelta
-END
-sequent
+archive
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sequent
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/archive
 END
-alpha
+grace
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/alpha
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/grace
 END
-karma
+btsnoop
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/karma
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/btsnoop
 END
-rtf
+psdbms
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/rtf
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/psdbms
 END
-sendmail
+communications
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sendmail
+V 76
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/communications
 END
 gimp
 K 25
@@ -861,71 +1011,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cddb
 END
-gcc
+adventure
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/gcc
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/adventure
 END
-c64
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/c64
-END
-sniffer
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sniffer
-END
-dyadic
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/dyadic
-END
-clipper
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/clipper
-END
-cisco
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cisco
-END
-sharc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sharc
-END
-apple
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/apple
-END
-vmware
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/vmware
-END
-ibm370
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ibm370
-END
-netscape
+commands
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/netscape
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/commands
 END
 sgml
 K 25
@@ -939,132 +1035,6 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/perl
 END
-mirage
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mirage
-END
-plus5
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/plus5
-END
-lif
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/lif
-END
-cracklib
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/cracklib
-END
-freebsd
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/freebsd
-END
-mathematica
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mathematica
-END
-matroska
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/matroska
-END
-parix
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/parix
-END
-mmdf
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mmdf
-END
-smalltalk
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/smalltalk
-END
-softquad
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/softquad
-END
-nitpicker
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/nitpicker
-END
-compress
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/compress
-END
-flash
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/flash
-END
-typeset
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/typeset
-END
-unknown
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/unknown
-END
-c-lang
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/c-lang
-END
-ctags
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/ctags
-END
-console
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/console
-END
-sinclair
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/sinclair
-END
-database
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/database
-END
 vms
 K 25
 svn:wc:ra_dav:version-url
@@ -1077,17 +1047,23 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/filesystems
 END
-island
+interleaf
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/island
+V 71
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/interleaf
 END
-zyxel
+dolby
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/zyxel
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/dolby
+END
+encore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/encore
 END
 apl
 K 25
@@ -1095,15 +1071,39 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/apl
 END
-misctools
+digital
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/digital
+END
+pbm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/pbm
+END
+animation
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/misctools
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/animation
 END
-att3b
+olf
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/att3b
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/olf
+END
+mmdf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/mmdf
+END
+alliant
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/magic/Magdir/alliant
 END

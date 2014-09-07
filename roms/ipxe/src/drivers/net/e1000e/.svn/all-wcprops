@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e
 END
+e1000e_nvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_nvm.h
+END
+e1000e_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_mac.h
+END
+e1000e_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_phy.h
+END
+e1000e_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_regs.h
+END
 e1000e_80003es2lan.c
 K 25
 svn:wc:ra_dav:version-url
@@ -98,28 +122,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_nvm.c
-END
-e1000e_nvm.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_nvm.h
-END
-e1000e_mac.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_mac.h
-END
-e1000e_phy.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_phy.h
-END
-e1000e_regs.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/e1000e/e1000e_regs.h
 END

@@ -3,108 +3,6 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf
 END
-ewf_header2.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_header2.c
-END
-ewf_error2.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_error2.c
-END
-header_values.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/header_values.h
-END
-ewf_volume.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_volume.h
-END
-ewf_crc.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_crc.h
-END
-segment_table.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/segment_table.h
-END
-LICENSE.txt
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/LICENSE.txt
-END
-definitions.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/definitions.h
-END
-ewf_header2.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_header2.h
-END
-ewf_error2.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_error2.h
-END
-ewfexport.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewfexport.c
-END
-ewf_hash.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_hash.c
-END
-ewf_hash.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_hash.h
-END
-ewf_md5hash.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_md5hash.c
-END
-version.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/version.h
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/Makefile
-END
-ewf_compress.c
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_compress.c
-END
 ewfinfo.c
 K 25
 svn:wc:ra_dav:version-url
@@ -356,4 +254,106 @@ K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_section.h
+END
+ewf_header2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_header2.c
+END
+ewf_error2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_error2.c
+END
+header_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/header_values.h
+END
+ewf_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_volume.h
+END
+ewf_crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_crc.h
+END
+segment_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/segment_table.h
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/LICENSE.txt
+END
+definitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/definitions.h
+END
+ewf_header2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_header2.h
+END
+ewf_error2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_error2.h
+END
+ewfexport.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewfexport.c
+END
+ewf_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_hash.c
+END
+ewf_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_hash.h
+END
+ewf_md5hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_md5hash.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/version.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/Makefile
+END
+ewf_compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/libewf/ewf_compress.c
 END

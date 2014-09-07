@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k
 END
-ath5k_desc.c
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_desc.c
-END
-rfgain.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/rfgain.h
-END
-ath5k.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k.c
-END
-ath5k_reset.c
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_reset.c
-END
 base.h
 K 25
 svn:wc:ra_dav:version-url
@@ -122,4 +98,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/rfbuffer.h
+END
+ath5k_desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_desc.c
+END
+rfgain.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/rfgain.h
+END
+ath5k.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k.c
+END
+ath5k_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/roms/ipxe/src/drivers/net/ath5k/ath5k_reset.c
 END

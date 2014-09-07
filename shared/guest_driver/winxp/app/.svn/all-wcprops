@@ -3,30 +3,6 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app
 END
-testdrvIorw.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/testdrvIorw.cpp
-END
-testdrvApp.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/testdrvApp.cpp
-END
-resource.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/resource.h
-END
-makefile
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/makefile
-END
 testdrvApp.vcproj
 K 25
 svn:wc:ra_dav:version-url
@@ -50,4 +26,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/sources
+END
+testdrvIorw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/testdrvIorw.cpp
+END
+testdrvApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/testdrvApp.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/resource.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/guest_driver/winxp/app/makefile
 END

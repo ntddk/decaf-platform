@@ -26,6 +26,12 @@ xchu87@gmail.com
 
 14c6c976-5609-92b9-2f94-3eb32e7087df
 
+min_apitracer
+dir
+
+hookapitests
+dir
+
 callbacktests
 dir
 
@@ -36,11 +42,5 @@ unpacker
 dir
 
 keylogger
-dir
-
-min_apitracer
-dir
-
-hookapitests
 dir
 

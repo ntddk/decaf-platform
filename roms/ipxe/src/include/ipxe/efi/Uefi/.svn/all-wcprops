@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Uefi
 END
-UefiInternalFormRepresentation.h
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Uefi/UefiInternalFormRepresentation.h
-END
 UefiSpec.h
 K 25
 svn:wc:ra_dav:version-url
@@ -38,4 +32,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 73
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Uefi/UefiBaseType.h
+END
+UefiInternalFormRepresentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Uefi/UefiInternalFormRepresentation.h
 END

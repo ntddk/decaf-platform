@@ -3,6 +3,48 @@ svn:wc:ra_dav:version-url
 V 45
 /svn/!svn/ver/23/trunk/roms/openbios/packages
 END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/packages/build.xml
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/packages/nvram.c
+END
+bootinfo-loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/openbios/packages/bootinfo-loader.c
+END
+packages.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/packages/packages.h
+END
+mac-parts.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/packages/mac-parts.c
+END
+pc-parts.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/packages/pc-parts.c
+END
+deblocker.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/packages/deblocker.c
+END
 sun-parts.c
 K 25
 svn:wc:ra_dav:version-url
@@ -62,46 +104,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/23/trunk/roms/openbios/packages/cmdline.c
-END
-build.xml
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/openbios/packages/build.xml
-END
-nvram.c
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/openbios/packages/nvram.c
-END
-bootinfo-loader.c
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/openbios/packages/bootinfo-loader.c
-END
-packages.h
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/openbios/packages/packages.h
-END
-mac-parts.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/packages/mac-parts.c
-END
-pc-parts.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/openbios/packages/pc-parts.c
-END
-deblocker.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/packages/deblocker.c
 END

@@ -3,6 +3,54 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio
 END
+sprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/sprintf.c
+END
+vfscanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/vfscanf.c
+END
+vsnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/vsnprintf.c
+END
+scanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/scanf.c
+END
+puts.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/puts.c
+END
+vfprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/vfprintf.c
+END
+fscanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/fscanf.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/printf.c
+END
 vsscanf.c
 K 25
 svn:wc:ra_dav:version-url
@@ -56,52 +104,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/stdchnls.c
-END
-sprintf.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/sprintf.c
-END
-vfscanf.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/vfscanf.c
-END
-vsnprintf.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/vsnprintf.c
-END
-scanf.c
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/scanf.c
-END
-puts.c
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/puts.c
-END
-vfprintf.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/vfprintf.c
-END
-fscanf.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/fscanf.c
-END
-printf.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/stdio/printf.c
 END

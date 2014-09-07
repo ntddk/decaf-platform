@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include
 END
-stddef.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stddef.h
-END
 limits.h
 K 25
 svn:wc:ra_dav:version-url
@@ -68,4 +62,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/string.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/SLOF/lib/libc/include/stddef.h
 END

@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs
 END
-bibliography
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/bibliography
-END
-help-when-broken-into
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/help-when-broken-into
-END
-README
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/README
-END
 additional-resources
 K 25
 svn:wc:ra_dav:version-url
@@ -44,4 +26,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 69
 /svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/help-recovering-file
+END
+bibliography
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/bibliography
+END
+help-when-broken-into
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/help-when-broken-into
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/shared/sleuthkit/tct.docs/README
 END

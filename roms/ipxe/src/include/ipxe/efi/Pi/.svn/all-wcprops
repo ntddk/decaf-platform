@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi
 END
-PiHob.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiHob.h
-END
-PiBootMode.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiBootMode.h
-END
-PiMultiPhase.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiMultiPhase.h
-END
 PiFirmwareFile.h
 K 25
 svn:wc:ra_dav:version-url
@@ -56,4 +38,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiFirmwareVolume.h
+END
+PiHob.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiHob.h
+END
+PiBootMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiBootMode.h
+END
+PiMultiPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/roms/ipxe/src/include/ipxe/efi/Pi/PiMultiPhase.h
 END

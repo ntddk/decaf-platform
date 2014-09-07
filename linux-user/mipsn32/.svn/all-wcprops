@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/!svn/ver/23/trunk/linux-user/mipsn32
 END
-target_signal.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/linux-user/mipsn32/target_signal.h
-END
 termbits.h
 K 25
 svn:wc:ra_dav:version-url
@@ -26,4 +20,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/!svn/ver/23/trunk/linux-user/mipsn32/syscall.h
+END
+target_signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/linux-user/mipsn32/target_signal.h
 END

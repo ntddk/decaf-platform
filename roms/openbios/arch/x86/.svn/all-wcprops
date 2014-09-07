@@ -3,6 +3,54 @@ svn:wc:ra_dav:version-url
 V 45
 /svn/!svn/ver/23/trunk/roms/openbios/arch/x86
 END
+init.fs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/init.fs
+END
+sys_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/sys_info.c
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/context.h
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/exception.c
+END
+linux_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/linux_load.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/Kconfig
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/segment.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/console.c
+END
 boot.c
 K 25
 svn:wc:ra_dav:version-url
@@ -98,52 +146,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/!svn/ver/23/trunk/roms/openbios/arch/x86/plainboot.c
-END
-init.fs
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/init.fs
-END
-sys_info.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/sys_info.c
-END
-context.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/context.h
-END
-exception.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/exception.c
-END
-linux_load.c
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/linux_load.c
-END
-Kconfig
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/Kconfig
-END
-segment.c
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/segment.c
-END
-console.c
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/openbios/arch/x86/console.c
 END

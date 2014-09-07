@@ -3,6 +3,42 @@ svn:wc:ra_dav:version-url
 V 37
 /svn/!svn/ver/232/trunk/shared/llconf
 END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/shared/llconf/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/shared/llconf/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/shared/llconf/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/shared/llconf/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/231/trunk/shared/llconf/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/shared/llconf/Makefile.in
+END
 llconf.pc.in
 K 25
 svn:wc:ra_dav:version-url
@@ -98,40 +134,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/!svn/ver/23/trunk/shared/llconf/README.llconf
-END
-NEWS
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/!svn/ver/23/trunk/shared/llconf/NEWS
-END
-aclocal.m4
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/shared/llconf/aclocal.m4
-END
-install-sh
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/23/trunk/shared/llconf/install-sh
-END
-mkinstalldirs
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/!svn/ver/23/trunk/shared/llconf/mkinstalldirs
-END
-configure
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/svn/!svn/ver/231/trunk/shared/llconf/configure
-END
-Makefile.in
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/shared/llconf/Makefile.in
 END

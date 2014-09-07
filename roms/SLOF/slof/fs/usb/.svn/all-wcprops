@@ -3,24 +3,6 @@ svn:wc:ra_dav:version-url
 V 44
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb
 END
-usb-keyboard.fs
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-keyboard.fs
-END
-usb-ohci.fs
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-ohci.fs
-END
-usb-storage-wrapper.fs
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-storage-wrapper.fs
-END
 usb-storage.fs
 K 25
 svn:wc:ra_dav:version-url
@@ -68,4 +50,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-storage-support.fs
+END
+usb-keyboard.fs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-keyboard.fs
+END
+usb-ohci.fs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-ohci.fs
+END
+usb-storage-wrapper.fs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/SLOF/slof/fs/usb/usb-storage-wrapper.fs
 END

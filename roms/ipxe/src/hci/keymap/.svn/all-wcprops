@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/!svn/ver/23/trunk/roms/ipxe/src/hci/keymap
 END
+keymap_cf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/keymap/keymap_cf.c
+END
 keymap_al.c
 K 25
 svn:wc:ra_dav:version-url
@@ -188,10 +194,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/23/trunk/roms/ipxe/src/hci/keymap/keymap_ru.c
-END
-keymap_cf.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/ipxe/src/hci/keymap/keymap_cf.c
 END

@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 36
 /svn/!svn/ver/23/trunk/target-xtensa
 END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/target-xtensa/cpu.h
+END
+op_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/target-xtensa/op_helper.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/target-xtensa/translate.c
+END
 helper.c
 K 25
 svn:wc:ra_dav:version-url
@@ -38,22 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/target-xtensa/helpers.h
-END
-cpu.h
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/svn/!svn/ver/23/trunk/target-xtensa/cpu.h
-END
-op_helper.c
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/target-xtensa/op_helper.c
-END
-translate.c
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/target-xtensa/translate.c
 END

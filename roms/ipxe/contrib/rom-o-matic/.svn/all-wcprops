@@ -3,6 +3,30 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic
 END
+customize-flags.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/customize-flags.php
+END
+flag-table.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/flag-table.php
+END
+build.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/build.php
+END
+utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/utils.php
+END
 top.php
 K 25
 svn:wc:ra_dav:version-url
@@ -38,28 +62,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/index.php
-END
-customize-flags.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/customize-flags.php
-END
-flag-table.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/flag-table.php
-END
-build.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/build.php
-END
-utils.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/roms/ipxe/contrib/rom-o-matic/utils.php
 END

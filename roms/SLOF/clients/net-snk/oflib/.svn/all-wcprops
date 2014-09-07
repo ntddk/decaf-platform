@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/oflib
 END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/oflib/Makefile
-END
 entry.S
 K 25
 svn:wc:ra_dav:version-url
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/oflib/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/roms/SLOF/clients/net-snk/oflib/Makefile
 END

@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 39
 /svn/!svn/ver/23/trunk/target-unicore32
 END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/target-unicore32/helper.c
+END
 helper.h
 K 25
 svn:wc:ra_dav:version-url
@@ -26,10 +32,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/!svn/ver/23/trunk/target-unicore32/translate.c
-END
-helper.c
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/!svn/ver/23/trunk/target-unicore32/helper.c
 END

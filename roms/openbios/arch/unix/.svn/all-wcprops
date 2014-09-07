@@ -3,18 +3,6 @@ svn:wc:ra_dav:version-url
 V 46
 /svn/!svn/ver/23/trunk/roms/openbios/arch/unix
 END
-Kconfig
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/Kconfig
-END
-plugins.c
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/plugins.c
-END
 unix.c
 K 25
 svn:wc:ra_dav:version-url
@@ -56,4 +44,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/!svn/ver/23/trunk/roms/openbios/arch/unix/build.xml
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/Kconfig
+END
+plugins.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/roms/openbios/arch/unix/plugins.c
 END

@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/src
 END
+fsmagic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/src/fsmagic.c
+END
+softmagic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/src/softmagic.c
+END
 funcs.c
 K 25
 svn:wc:ra_dav:version-url
@@ -116,16 +128,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/src/names.h
-END
-fsmagic.c
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/src/fsmagic.c
-END
-softmagic.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/shared/sleuthkit/src/file/src/softmagic.c
 END

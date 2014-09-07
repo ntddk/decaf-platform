@@ -3,6 +3,24 @@ svn:wc:ra_dav:version-url
 V 30
 /svn/!svn/ver/23/trunk/gdb-xml
 END
+power-fpu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/gdb-xml/power-fpu.xml
+END
+arm-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/gdb-xml/arm-core.xml
+END
+arm-vfp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/gdb-xml/arm-vfp.xml
+END
 arm-vfp3.xml
 K 25
 svn:wc:ra_dav:version-url
@@ -50,22 +68,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 45
 /svn/!svn/ver/23/trunk/gdb-xml/power-core.xml
-END
-power-fpu.xml
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/23/trunk/gdb-xml/power-fpu.xml
-END
-arm-core.xml
-K 25
-svn:wc:ra_dav:version-url
-V 43
-/svn/!svn/ver/23/trunk/gdb-xml/arm-core.xml
-END
-arm-vfp.xml
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/svn/!svn/ver/23/trunk/gdb-xml/arm-vfp.xml
 END

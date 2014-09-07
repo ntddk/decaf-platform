@@ -3,89 +3,23 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader
 END
-README
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/README
-END
-ErrorCodes.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/ErrorCodes.h
-END
-TraceReaderBinARM.h
+TraceReaderBinX86.h
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinARM.h
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinX86.h
 END
-TraceReaderBinX86V41.h
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinX86V41.h
-END
-TraceProcessorX86CPUState.h
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86CPUState.h
-END
-libdisarm_print.c
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print.c
-END
-libdisarm_args.c
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_args.c
-END
-MapFileProcessor.h
+libdisarm_parser.h
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessor.h
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_parser.h
 END
-TraceReaderStringX86.h
+TraceProcessorX86TaintSummary.h
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderStringX86.h
-END
-parseBAPOutput.py
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/parseBAPOutput.py
-END
-MemoryBuilder.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MemoryBuilder.h
-END
-Taint.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/Taint.h
-END
-libdisarm_print.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print.h
-END
-TraceProcessorARMMemory.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMMemory.cpp
+V 85
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86TaintSummary.h
 END
 libdisarm_args.h
 K 25
@@ -99,155 +33,47 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/ChildPiper.h
 END
-libdisarm_print_cpp.h
+TraceProcessorX86Verify.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print_cpp.h
+V 81
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Verify.cpp
 END
-libdisarm_endian.h
+host.s
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_endian.h
+V 60
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/host.s
 END
-TraceConverterARM.h
+TraceProcessorX86Memory.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterARM.h
+V 81
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Memory.cpp
 END
-TRInstructionARM.h
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TRInstructionARM.h
-END
-TraceConverterX86V41.h
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86V41.h
-END
-X86CPUState.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/X86CPUState.h
-END
-SymbolMap.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/SymbolMap.cpp
-END
-.cproject
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/.cproject
-END
-BAPHelper.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/BAPHelper.h
-END
-opcode_tables.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/opcode_tables.h
-END
-HelperFunctions.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/HelperFunctions.cpp
-END
-MapFileProcessorDalvik.cpp
+TraceProcessorARMTaint.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessorDalvik.cpp
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMTaint.cpp
 END
-BAPHelperDefs.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/BAPHelperDefs.h
-END
-TraceReaderBinX86V41.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinX86V41.cpp
-END
-TraceProcessorX86CPUState.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86CPUState.cpp
-END
-MapFileProcessor.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessor.cpp
-END
-finddiff.py
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/finddiff.py
-END
-MemoryBuilder.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MemoryBuilder.cpp
-END
-runtests.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/runtests.sh
-END
-DalvikOpcodeTable.h
+TraceConverterX86.h
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/DalvikOpcodeTable.h
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86.h
 END
-ChildPiper.cpp
+RebuiltPage.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/ChildPiper.cpp
+V 69
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/RebuiltPage.cpp
 END
-INSTALL
+TraceProcessorARM.h
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/INSTALL
-END
-TraceConverterX86V41.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86V41.cpp
-END
-LibOpcodesWrapper_ARM.h
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/LibOpcodesWrapper_ARM.h
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/Makefile
+V 73
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARM.h
 END
 History.h
 K 25
@@ -261,11 +87,23 @@ svn:wc:ra_dav:version-url
 V 87
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86InterruptLinux.h
 END
-setupVerifyDefs
+trace_x86.h
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/setupVerifyDefs
+V 65
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/trace_x86.h
+END
+SymbolMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/SymbolMap.h
+END
+TraceReaderBinX86V41.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinX86V41.cpp
 END
 libdasm.c
 K 25
@@ -273,17 +111,11 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdasm.c
 END
-syscalltable_linux_2_6.h
+MapFileProcessor.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/syscalltable_linux_2_6.h
-END
-MapFileProcessorDalvik.h
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessorDalvik.h
+V 74
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessor.cpp
 END
 HelperFunctions.h
 K 25
@@ -291,11 +123,11 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/HelperFunctions.h
 END
-libdisarm_macros.h
+TraceReaderBinARM.h
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_macros.h
+V 73
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinARM.h
 END
 TraceReaderBinX86.cpp
 K 25
@@ -309,11 +141,11 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdasm.h
 END
-libdisarm_parser.c
+TraceProcessorX86CPUState.h
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_parser.c
+V 81
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86CPUState.h
 END
 TraceProcessorX86TaintSummary.cpp
 K 25
@@ -333,23 +165,47 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/trace_reader_cpp.doxy
 END
+MemoryBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MemoryBuilder.h
+END
+Taint.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/Taint.h
+END
 TraceReader.h
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReader.h
 END
-libdisarm_parser.h
+TraceProcessorARMMemory.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_parser.h
+V 81
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMMemory.cpp
 END
-libdasm_part2.h
+TraceConverterX86V41.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdasm_part2.h
+V 78
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86V41.cpp
+END
+TraceConverterARM.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterARM.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/Makefile
 END
 TraceConverterX86.cpp
 K 25
@@ -357,17 +213,11 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86.cpp
 END
-host.s
+TraceProcessorX86Functions.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/host.s
-END
-TraceProcessorARMTaint.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMTaint.cpp
+V 84
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Functions.cpp
 END
 TraceProcessorX86Verify.h
 K 25
@@ -381,131 +231,11 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_types.h
 END
-TraceProcessorX86TraceCompressor.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86TraceCompressor.cpp
-END
-TraceProcessorX86InterruptLinux.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86InterruptLinux.cpp
-END
-TraceProcessorX86Functions.h
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Functions.h
-END
-trace_x86_v41.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/trace_x86_v41.h
-END
 TraceProcessorX86Memory.h
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Memory.h
-END
-RebuiltPage.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/RebuiltPage.h
-END
-TraceProcessorX86.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86.h
-END
-TraceReaderBinARM.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinARM.cpp
-END
-TraceReaderStringX86.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderStringX86.cpp
-END
-main.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/main.cpp
-END
-libdisarm_print_cpp.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print_cpp.cpp
-END
-TraceReaderBinX86.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinX86.h
-END
-TraceConverterARM.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterARM.cpp
-END
-TraceProcessorX86TaintSummary.h
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86TaintSummary.h
-END
-TraceProcessorX86Verify.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Verify.cpp
-END
-TraceProcessorARMMemory.h
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMMemory.h
-END
-TraceProcessorX86Functions.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Functions.cpp
-END
-Common.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/Common.h
-END
-TraceProcessorX86Memory.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Memory.cpp
-END
-TraceConverterX86.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86.h
-END
-BAPHelper.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/BAPHelper.cpp
 END
 TRInstructionX86.h
 K 25
@@ -513,17 +243,257 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TRInstructionX86.h
 END
-RebuiltPage.cpp
+TraceProcessorX86TraceCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86TraceCompressor.h
+END
+BAPHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/BAPHelper.h
+END
+opcode_tables.h
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/RebuiltPage.cpp
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/opcode_tables.h
 END
-TraceProcessorARM.h
+HelperFunctions.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARM.h
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/HelperFunctions.cpp
+END
+RebuiltPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/RebuiltPage.h
+END
+BAPHelperDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/BAPHelperDefs.h
+END
+TraceReaderBinARM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinARM.cpp
+END
+libdisarm_disarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_disarm.h
+END
+syscalltable_linux_2_6.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/syscalltable_linux_2_6.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/README
+END
+MapFileProcessorDalvik.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessorDalvik.h
+END
+finddiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/finddiff.py
+END
+runtests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/runtests.sh
+END
+TraceReaderBinX86V41.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderBinX86V41.h
+END
+DalvikOpcodeTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/DalvikOpcodeTable.h
+END
+MapFileProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessor.h
+END
+TraceReaderStringX86.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderStringX86.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/INSTALL
+END
+TraceConverterARM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterARM.cpp
+END
+LibOpcodesWrapper_ARM.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/LibOpcodesWrapper_ARM.h
+END
+libdisarm_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_endian.h
+END
+TraceProcessorARMMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMMemory.h
+END
+TRInstructionARM.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TRInstructionARM.h
+END
+TraceConverterX86V41.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceConverterX86V41.h
+END
+TraceProcessorX86TraceCompressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86TraceCompressor.cpp
+END
+TraceProcessorX86Functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86Functions.h
+END
+BAPHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/BAPHelper.cpp
+END
+setupVerifyDefs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/setupVerifyDefs
+END
+MapFileProcessorDalvik.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MapFileProcessorDalvik.cpp
+END
+TraceReaderStringX86.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceReaderStringX86.cpp
+END
+libdisarm_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print.c
+END
+ChildPiper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/ChildPiper.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/main.cpp
+END
+parseBAPOutput.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/parseBAPOutput.py
+END
+libdisarm_print.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print.h
+END
+libdasm_part2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdasm_part2.h
+END
+libdisarm_print_cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print_cpp.h
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/Common.h
+END
+TraceProcessorX86InterruptLinux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86InterruptLinux.cpp
+END
+trace_x86_v41.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/trace_x86_v41.h
+END
+X86CPUState.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/X86CPUState.h
+END
+SymbolMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/SymbolMap.cpp
 END
 TraceProcessorARMTaint.h
 K 25
@@ -531,27 +501,57 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorARMTaint.h
 END
-TraceProcessorX86TraceCompressor.h
+.cproject
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86TraceCompressor.h
+V 63
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/.cproject
 END
-trace_x86.h
+TraceProcessorX86.h
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/trace_x86.h
+V 73
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86.h
 END
-SymbolMap.h
+ErrorCodes.h
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/SymbolMap.h
+V 66
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/ErrorCodes.h
 END
-libdisarm_disarm.h
+TraceProcessorX86CPUState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/TraceProcessorX86CPUState.cpp
+END
+MemoryBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/MemoryBuilder.cpp
+END
+libdisarm_macros.h
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_disarm.h
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_macros.h
+END
+libdisarm_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_parser.c
+END
+libdisarm_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_args.c
+END
+libdisarm_print_cpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/plugins/tracecap/trace_reader/libdisarm_print_cpp.cpp
 END

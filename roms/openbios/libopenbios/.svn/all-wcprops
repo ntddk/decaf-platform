@@ -3,60 +3,6 @@ svn:wc:ra_dav:version-url
 V 48
 /svn/!svn/ver/23/trunk/roms/openbios/libopenbios
 END
-font_8x8.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/font_8x8.c
-END
-build.xml
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/build.xml
-END
-bootinfo_load.c
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/bootinfo_load.c
-END
-client.c
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/client.c
-END
-fcode_load.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/fcode_load.c
-END
-load.c
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/load.c
-END
-linuxbios.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/linuxbios.h
-END
-elf_info.c
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/elf_info.c
-END
-forth_load.c
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/forth_load.c
-END
 linuxbios_info.c
 K 25
 svn:wc:ra_dav:version-url
@@ -140,4 +86,58 @@ K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/23/trunk/roms/openbios/libopenbios/ofmem_common.c
+END
+font_8x8.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/font_8x8.c
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/build.xml
+END
+bootinfo_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/bootinfo_load.c
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/client.c
+END
+fcode_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/fcode_load.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/load.c
+END
+linuxbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/linuxbios.h
+END
+elf_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/elf_info.c
+END
+forth_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/roms/openbios/libopenbios/forth_load.c
 END
