@@ -1,7 +1,7 @@
-tsc2005.o: /home/paul/decaf-platform-read-only/hw/tsc2005.c \
- /home/paul/decaf-platform-read-only/hw/hw.h qemu-common.h compiler.h \
- config-host.h /usr/include/glib-2.0/glib.h \
- /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
+tsc2005.o: /home/paul/decaf-platform/hw/tsc2005.c \
+ /home/paul/decaf-platform/hw/hw.h qemu-common.h compiler.h config-host.h \
+ /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
+ /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
  /usr/include/glib-2.0/glib/gmacros.h \
  /usr/include/glib-2.0/glib/gversionmacros.h \
@@ -64,15 +64,14 @@ tsc2005.o: /home/paul/decaf-platform-read-only/hw/tsc2005.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h ioport.h qemu-common.h iorange.h \
- /home/paul/decaf-platform-read-only/hw/irq.h qemu-timer.h main-loop.h \
- notify.h qemu-queue.h qemu-barrier.h console.h qemu-char.h qemu-option.h \
- qdict.h qobject.h qlist.h qemu-config.h qstring.h qerror.h qemu-error.h \
- error.h monitor.h block.h qemu-aio.h qemu-coroutine.h \
- /home/paul/decaf-platform-read-only/hw/devices.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ ioport.h qemu-common.h iorange.h /home/paul/decaf-platform/hw/irq.h \
+ qemu-timer.h main-loop.h notify.h qemu-queue.h qemu-barrier.h console.h \
+ qemu-char.h qemu-option.h qdict.h qobject.h qlist.h qemu-config.h \
+ qstring.h qerror.h qemu-error.h error.h monitor.h block.h qemu-aio.h \
+ qemu-coroutine.h /home/paul/decaf-platform/hw/devices.h
 
-/home/paul/decaf-platform-read-only/hw/hw.h:
+/home/paul/decaf-platform/hw/hw.h:
 
 qemu-common.h:
 
@@ -238,7 +237,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -250,7 +249,7 @@ qemu-common.h:
 
 iorange.h:
 
-/home/paul/decaf-platform-read-only/hw/irq.h:
+/home/paul/decaf-platform/hw/irq.h:
 
 qemu-timer.h:
 
@@ -292,4 +291,4 @@ qemu-aio.h:
 
 qemu-coroutine.h:
 
-/home/paul/decaf-platform-read-only/hw/devices.h:
+/home/paul/decaf-platform/hw/devices.h:

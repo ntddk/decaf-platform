@@ -1,5 +1,5 @@
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qmp-marshal.o: \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qmp-marshal.c \
+/home/paul/decaf-platform/qapi-generated/qga-qmp-marshal.o: \
+ /home/paul/decaf-platform/qapi-generated/qga-qmp-marshal.c \
  qemu-objects.h qobject.h qint.h qfloat.h qbool.h qstring.h qdict.h \
  qlist.h qemu-queue.h qemu-barrier.h qemu-common.h compiler.h \
  config-host.h /usr/include/glib-2.0/glib.h \
@@ -66,16 +66,16 @@
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qjson.h qapi/qmp-core.h qobject.h qdict.h error.h \
- qapi/qapi-visit-core.h qapi/qapi-types-core.h qemu-common.h monitor.h \
- qemu-char.h qemu-option.h qemu-config.h main-loop.h qerror.h \
- qemu-error.h error.h block.h qemu-aio.h qemu-coroutine.h \
- qapi/qmp-output-visitor.h qapi/qapi-visit-core.h \
- qapi/qmp-input-visitor.h qapi/qapi-dealloc-visitor.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-visit.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qmp-commands.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qjson.h qapi/qmp-core.h qobject.h qdict.h error.h qapi/qapi-visit-core.h \
+ qapi/qapi-types-core.h qemu-common.h monitor.h qemu-char.h qemu-option.h \
+ qemu-config.h main-loop.h qerror.h qemu-error.h error.h block.h \
+ qemu-aio.h qemu-coroutine.h qapi/qmp-output-visitor.h \
+ qapi/qapi-visit-core.h qapi/qmp-input-visitor.h \
+ qapi/qapi-dealloc-visitor.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qapi-types.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qapi-visit.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qmp-commands.h
 
 qemu-objects.h:
 
@@ -261,7 +261,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -313,8 +313,8 @@ qapi/qmp-input-visitor.h:
 
 qapi/qapi-dealloc-visitor.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.h:
+/home/paul/decaf-platform/qapi-generated/qga-qapi-types.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-visit.h:
+/home/paul/decaf-platform/qapi-generated/qga-qapi-visit.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qmp-commands.h:
+/home/paul/decaf-platform/qapi-generated/qga-qmp-commands.h:

@@ -65,10 +65,10 @@ qga/guest-agent-commands.o: qga/guest-agent-commands.c \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qga/guest-agent-core.h \
  qapi/qmp-core.h qobject.h qdict.h qobject.h qlist.h qemu-queue.h \
  qemu-barrier.h qemu-common.h compiler.h config-host.h qemu-os-posix.h \
- osdep.h bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h error.h qemu-common.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qmp-commands.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.h \
+ osdep.h bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h \
+ module.h error.h qemu-common.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qmp-commands.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qapi-types.h \
  qapi/qapi-types-core.h monitor.h qemu-char.h qemu-option.h qdict.h \
  qemu-config.h qstring.h main-loop.h qerror.h qemu-error.h error.h \
  block.h qemu-aio.h qemu-coroutine.h qerror.h qemu-queue.h
@@ -253,7 +253,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -263,9 +263,9 @@ error.h:
 
 qemu-common.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qmp-commands.h:
+/home/paul/decaf-platform/qapi-generated/qga-qmp-commands.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.h:
+/home/paul/decaf-platform/qapi-generated/qga-qapi-types.h:
 
 qapi/qapi-types-core.h:
 

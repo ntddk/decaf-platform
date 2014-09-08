@@ -63,16 +63,15 @@ savevm.o: savevm.c config-host.h qemu-common.h compiler.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h hw/hw.h qemu-common.h ioport.h qemu-common.h \
- iorange.h hw/irq.h hw/qdev.h hw/hw.h qemu-queue.h qemu-barrier.h \
- qemu-char.h qemu-queue.h qemu-option.h qdict.h qobject.h qlist.h \
- qemu-config.h qstring.h main-loop.h qemu-option.h net.h qemu-queue.h \
- qdict.h qemu-option.h net/queue.h monitor.h qemu-char.h qerror.h \
- qstring.h qemu-error.h error.h block.h qemu-aio.h qemu-coroutine.h \
- qobject.h sysemu.h qemu-timer.h main-loop.h notify.h qapi-types.h \
- qapi/qapi-types-core.h error.h monitor.h audio/audio.h migration.h \
- qemu_socket.h cpus.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ hw/hw.h qemu-common.h ioport.h qemu-common.h iorange.h hw/irq.h \
+ hw/qdev.h hw/hw.h qemu-queue.h qemu-barrier.h qemu-char.h qemu-queue.h \
+ qemu-option.h qdict.h qobject.h qlist.h qemu-config.h qstring.h \
+ main-loop.h qemu-option.h net.h qemu-queue.h qdict.h qemu-option.h \
+ net/queue.h monitor.h qemu-char.h qerror.h qstring.h qemu-error.h \
+ error.h block.h qemu-aio.h qemu-coroutine.h qobject.h sysemu.h \
+ qemu-timer.h main-loop.h notify.h qapi-types.h qapi/qapi-types-core.h \
+ error.h monitor.h audio/audio.h migration.h qemu_socket.h cpus.h
 
 config-host.h:
 
@@ -238,7 +237,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

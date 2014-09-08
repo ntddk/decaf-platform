@@ -1,1 +1,1 @@
-/home/paul/decaf-platform-read-only/Makefile.hw
+/home/paul/decaf-platform/Makefile.hw

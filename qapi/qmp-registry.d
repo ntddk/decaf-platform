@@ -64,8 +64,8 @@ qapi/qmp-registry.o: qapi/qmp-registry.c qapi/qmp-core.h qobject.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h error.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ error.h
 
 qapi/qmp-core.h:
 
@@ -245,7 +245,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

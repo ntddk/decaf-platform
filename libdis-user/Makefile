@@ -1,1 +1,1 @@
-/home/paul/decaf-platform-read-only/Makefile.dis
+/home/paul/decaf-platform/Makefile.dis

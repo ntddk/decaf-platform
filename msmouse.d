@@ -1,7 +1,7 @@
-msmouse.o: /home/paul/decaf-platform-read-only/hw/msmouse.c \
- /home/paul/decaf-platform-read-only/hw/../qemu-common.h \
- /home/paul/decaf-platform-read-only/hw/../compiler.h \
- /home/paul/decaf-platform-read-only/hw/../config-host.h \
+msmouse.o: /home/paul/decaf-platform/hw/msmouse.c \
+ /home/paul/decaf-platform/hw/../qemu-common.h \
+ /home/paul/decaf-platform/hw/../compiler.h \
+ /home/paul/decaf-platform/hw/../config-host.h \
  /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
  /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
@@ -66,39 +66,39 @@ msmouse.o: /home/paul/decaf-platform-read-only/hw/msmouse.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-os-posix.h \
- /home/paul/decaf-platform-read-only/hw/../osdep.h \
- /home/paul/decaf-platform-read-only/hw/../bswap.h \
- /home/paul/decaf-platform-read-only/fpu/softfloat.h config-host.h \
- /home/paul/decaf-platform-read-only/hw/../module.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-char.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-common.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-queue.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-barrier.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-option.h \
- /home/paul/decaf-platform-read-only/hw/../qdict.h \
- /home/paul/decaf-platform-read-only/hw/../qobject.h \
- /home/paul/decaf-platform-read-only/hw/../qlist.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-config.h \
- /home/paul/decaf-platform-read-only/hw/../qstring.h \
- /home/paul/decaf-platform-read-only/hw/../main-loop.h \
- /home/paul/decaf-platform-read-only/hw/../console.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-char.h \
- /home/paul/decaf-platform-read-only/hw/../notify.h \
- /home/paul/decaf-platform-read-only/hw/../qerror.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-error.h \
- /home/paul/decaf-platform-read-only/hw/../error.h \
- /home/paul/decaf-platform-read-only/hw/../monitor.h \
- /home/paul/decaf-platform-read-only/hw/../block.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-aio.h \
- /home/paul/decaf-platform-read-only/hw/../qemu-coroutine.h \
- /home/paul/decaf-platform-read-only/hw/msmouse.h
+ /home/paul/decaf-platform/hw/../qemu-os-posix.h \
+ /home/paul/decaf-platform/hw/../osdep.h \
+ /home/paul/decaf-platform/hw/../bswap.h \
+ /home/paul/decaf-platform/fpu/softfloat.h config-host.h \
+ /home/paul/decaf-platform/hw/../module.h \
+ /home/paul/decaf-platform/hw/../qemu-char.h \
+ /home/paul/decaf-platform/hw/../qemu-common.h \
+ /home/paul/decaf-platform/hw/../qemu-queue.h \
+ /home/paul/decaf-platform/hw/../qemu-barrier.h \
+ /home/paul/decaf-platform/hw/../qemu-option.h \
+ /home/paul/decaf-platform/hw/../qdict.h \
+ /home/paul/decaf-platform/hw/../qobject.h \
+ /home/paul/decaf-platform/hw/../qlist.h \
+ /home/paul/decaf-platform/hw/../qemu-config.h \
+ /home/paul/decaf-platform/hw/../qstring.h \
+ /home/paul/decaf-platform/hw/../main-loop.h \
+ /home/paul/decaf-platform/hw/../console.h \
+ /home/paul/decaf-platform/hw/../qemu-char.h \
+ /home/paul/decaf-platform/hw/../notify.h \
+ /home/paul/decaf-platform/hw/../qerror.h \
+ /home/paul/decaf-platform/hw/../qemu-error.h \
+ /home/paul/decaf-platform/hw/../error.h \
+ /home/paul/decaf-platform/hw/../monitor.h \
+ /home/paul/decaf-platform/hw/../block.h \
+ /home/paul/decaf-platform/hw/../qemu-aio.h \
+ /home/paul/decaf-platform/hw/../qemu-coroutine.h \
+ /home/paul/decaf-platform/hw/msmouse.h
 
-/home/paul/decaf-platform-read-only/hw/../qemu-common.h:
+/home/paul/decaf-platform/hw/../qemu-common.h:
 
-/home/paul/decaf-platform-read-only/hw/../compiler.h:
+/home/paul/decaf-platform/hw/../compiler.h:
 
-/home/paul/decaf-platform-read-only/hw/../config-host.h:
+/home/paul/decaf-platform/hw/../config-host.h:
 
 /usr/include/glib-2.0/glib.h:
 
@@ -252,58 +252,58 @@ msmouse.o: /home/paul/decaf-platform-read-only/hw/msmouse.c \
 
 /usr/include/glib-2.0/glib/deprecated/gthread.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-os-posix.h:
+/home/paul/decaf-platform/hw/../qemu-os-posix.h:
 
-/home/paul/decaf-platform-read-only/hw/../osdep.h:
+/home/paul/decaf-platform/hw/../osdep.h:
 
-/home/paul/decaf-platform-read-only/hw/../bswap.h:
+/home/paul/decaf-platform/hw/../bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
-/home/paul/decaf-platform-read-only/hw/../module.h:
+/home/paul/decaf-platform/hw/../module.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-char.h:
+/home/paul/decaf-platform/hw/../qemu-char.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-common.h:
+/home/paul/decaf-platform/hw/../qemu-common.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-queue.h:
+/home/paul/decaf-platform/hw/../qemu-queue.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-barrier.h:
+/home/paul/decaf-platform/hw/../qemu-barrier.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-option.h:
+/home/paul/decaf-platform/hw/../qemu-option.h:
 
-/home/paul/decaf-platform-read-only/hw/../qdict.h:
+/home/paul/decaf-platform/hw/../qdict.h:
 
-/home/paul/decaf-platform-read-only/hw/../qobject.h:
+/home/paul/decaf-platform/hw/../qobject.h:
 
-/home/paul/decaf-platform-read-only/hw/../qlist.h:
+/home/paul/decaf-platform/hw/../qlist.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-config.h:
+/home/paul/decaf-platform/hw/../qemu-config.h:
 
-/home/paul/decaf-platform-read-only/hw/../qstring.h:
+/home/paul/decaf-platform/hw/../qstring.h:
 
-/home/paul/decaf-platform-read-only/hw/../main-loop.h:
+/home/paul/decaf-platform/hw/../main-loop.h:
 
-/home/paul/decaf-platform-read-only/hw/../console.h:
+/home/paul/decaf-platform/hw/../console.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-char.h:
+/home/paul/decaf-platform/hw/../qemu-char.h:
 
-/home/paul/decaf-platform-read-only/hw/../notify.h:
+/home/paul/decaf-platform/hw/../notify.h:
 
-/home/paul/decaf-platform-read-only/hw/../qerror.h:
+/home/paul/decaf-platform/hw/../qerror.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-error.h:
+/home/paul/decaf-platform/hw/../qemu-error.h:
 
-/home/paul/decaf-platform-read-only/hw/../error.h:
+/home/paul/decaf-platform/hw/../error.h:
 
-/home/paul/decaf-platform-read-only/hw/../monitor.h:
+/home/paul/decaf-platform/hw/../monitor.h:
 
-/home/paul/decaf-platform-read-only/hw/../block.h:
+/home/paul/decaf-platform/hw/../block.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-aio.h:
+/home/paul/decaf-platform/hw/../qemu-aio.h:
 
-/home/paul/decaf-platform-read-only/hw/../qemu-coroutine.h:
+/home/paul/decaf-platform/hw/../qemu-coroutine.h:
 
-/home/paul/decaf-platform-read-only/hw/msmouse.h:
+/home/paul/decaf-platform/hw/msmouse.h:

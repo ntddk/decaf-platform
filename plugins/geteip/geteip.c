@@ -16,19 +16,33 @@ uint32_t target_cr3;
 
 static DECAF_Handle check_eip_handle;
 
-
 static void geteip_block_begin_callback(DECAF_Callback_Params* params)
 {
-//	DECAF_read_register(eip_reg, &eip);
-	if(params->ib.env->cr[3]==target_cr3)
+	if(params->bb.env->cr[3]==target_cr3)
 	{
-		DECAF_printf("EIP 0x%08x \n",params->ib.env->eip);
-//		
+		//See target-1386/DECAF_target.h
+		uint32_t eip,eax;
+		eip = cpu_single_env->eip;
+		eax = cpu_single_env->regs[R_EAX];
+
+		//if(params->bb.env->eip != eip)
+		//	DECAF_printf("something wrong!");
+
+		DECAF_printf("Reading EIP from CPUX86State(it is internal of DECAF_read_register).....\n");
+		DECAF_printf("EIP    = 0x%08x \n",eip);
+
+		DECAF_printf("Reading EAX from CPUX86State(it is internal of DECAF_read_register).....\n");
+    		DECAF_printf("EAX    = 0x%08x \n",eax);
+
+		DECAF_printf("Reading EIP from DECAF_Callback_Params..................................\n");
+		DECAF_printf("EIP    = 0x%08x \n",params->bb.env->eip);
+
+		DECAF_printf("Reading EFLAGS from DECAF_Callback_Params...............................\n");
+		DECAF_printf("EFLAGS = 0x%08x \n",params->bb.env->eflags);
 	}
 }
 
-
-//check EIP tainted
+//check EIP tainted or not
 //support for tainted eip check. Only eip of indirect branch is included. Both source eip and target eip can be recorded. now ,only support x86 platform.
 static void check_eip(DECAF_Callback_Params* params)
 {
@@ -62,6 +76,12 @@ void do_monitor_proc(Monitor* mon, const QDict* qdict)
 static int geteip_init(void)
 {
 	DECAF_printf("Hello World\n");
+
+// Callbacks registration
+
+	// taint checking routine are not implemented for now.
+	check_eip_handle = DECAF_register_callback(DECAF_EIP_CHECK_CB, check_eip, NULL);
+	DECAF_printf("register eip check callback\n");
 
 	//register for process create and process remove events
 	processbegin_handle = VMI_register_callback(VMI_CREATEPROC_CB, &geteip_loadmainmodule_callback, NULL);
@@ -106,8 +126,6 @@ plugin_interface_t* init_plugin(void)
 	geteip_interface.mon_cmds = geteip_term_cmds;
 	geteip_interface.plugin_cleanup = &geteip_cleanup;
 
-	check_eip_handle = DECAF_register_callback(DECAF_EIP_CHECK_CB, check_eip, NULL);
-	DECAF_printf("register eip check callback\n");
 	geteip_init();
 
 //

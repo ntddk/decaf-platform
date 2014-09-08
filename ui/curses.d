@@ -63,11 +63,11 @@ ui/curses.o: ui/curses.c qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h console.h qemu-char.h qemu-common.h qemu-queue.h \
- qemu-barrier.h qemu-option.h qdict.h qobject.h qlist.h qemu-config.h \
- qstring.h main-loop.h notify.h qerror.h qemu-error.h error.h monitor.h \
- block.h qemu-aio.h qemu-coroutine.h sysemu.h qemu-timer.h qapi-types.h \
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ console.h qemu-char.h qemu-common.h qemu-queue.h qemu-barrier.h \
+ qemu-option.h qdict.h qobject.h qlist.h qemu-config.h qstring.h \
+ main-loop.h notify.h qerror.h qemu-error.h error.h monitor.h block.h \
+ qemu-aio.h qemu-coroutine.h sysemu.h qemu-timer.h qapi-types.h \
  qapi/qapi-types-core.h error.h monitor.h ui/curses_keys.h ui/keymaps.h
 
 qemu-common.h:
@@ -234,7 +234,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

@@ -64,10 +64,10 @@ qemu-ga.o: qemu-ga.c /usr/include/glib-2.0/glib.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu_socket.h \
  qemu-option.h qemu-queue.h qemu-barrier.h qdict.h qobject.h qlist.h \
  qemu-common.h compiler.h config-host.h qemu-os-posix.h osdep.h bswap.h \
- /home/paul/decaf-platform-read-only/fpu/softfloat.h config-host.h \
- module.h json-streamer.h json-lexer.h qstring.h json-parser.h error.h \
- qint.h qjson.h qga/guest-agent-core.h qapi/qmp-core.h qobject.h qdict.h \
- error.h qemu-common.h qerror.h qemu-error.h error_int.h
+ /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ json-streamer.h json-lexer.h qstring.h json-parser.h error.h qint.h \
+ qjson.h qga/guest-agent-core.h qapi/qmp-core.h qobject.h qdict.h error.h \
+ qemu-common.h qerror.h qemu-error.h error_int.h
 
 /usr/include/glib-2.0/glib.h:
 
@@ -247,7 +247,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

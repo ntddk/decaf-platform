@@ -1,9 +1,8 @@
-xen-stub.o: /home/paul/decaf-platform-read-only/xen-stub.c \
- /home/paul/decaf-platform-read-only/qemu-common.h \
- /home/paul/decaf-platform-read-only/compiler.h \
- /home/paul/decaf-platform-read-only/config-host.h \
- /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
- /usr/include/glib-2.0/glib/gtypes.h \
+xen-stub.o: /home/paul/decaf-platform/xen-stub.c \
+ /home/paul/decaf-platform/qemu-common.h \
+ /home/paul/decaf-platform/compiler.h \
+ /home/paul/decaf-platform/config-host.h /usr/include/glib-2.0/glib.h \
+ /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
  /usr/include/glib-2.0/glib/gmacros.h \
  /usr/include/glib-2.0/glib/gversionmacros.h \
@@ -66,36 +65,31 @@ xen-stub.o: /home/paul/decaf-platform-read-only/xen-stub.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h \
- /home/paul/decaf-platform-read-only/qemu-os-posix.h \
- /home/paul/decaf-platform-read-only/target-mips/cpu.h \
- /home/paul/decaf-platform-read-only/config.h config-target.h \
- /home/paul/decaf-platform-read-only/qemu-common.h \
- /home/paul/decaf-platform-read-only/target-mips/mips-defs.h \
- /home/paul/decaf-platform-read-only/cpu-defs.h \
- /home/paul/decaf-platform-read-only/config.h \
- /home/paul/decaf-platform-read-only/osdep.h \
- /home/paul/decaf-platform-read-only/qemu-queue.h \
- /home/paul/decaf-platform-read-only/qemu-barrier.h \
- /home/paul/decaf-platform-read-only/targphys.h \
- /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- /home/paul/decaf-platform-read-only/config-host.h \
- /home/paul/decaf-platform-read-only/cpu-all.h \
- /home/paul/decaf-platform-read-only/qemu-tls.h \
- /home/paul/decaf-platform-read-only/cpu-common.h \
- /home/paul/decaf-platform-read-only/bswap.h \
- /home/paul/decaf-platform-read-only/exec-all.h \
- /home/paul/decaf-platform-read-only/qemu-log.h \
- /home/paul/decaf-platform-read-only/qemu-lock.h \
- /home/paul/decaf-platform-read-only/softmmu_defs.h \
- /home/paul/decaf-platform-read-only/softmmu_header.h \
- /home/paul/decaf-platform-read-only/module.h \
- /home/paul/decaf-platform-read-only/hw/xen.h
+ /home/paul/decaf-platform/qemu-os-posix.h \
+ /home/paul/decaf-platform/target-mips/cpu.h \
+ /home/paul/decaf-platform/config.h config-target.h \
+ /home/paul/decaf-platform/qemu-common.h \
+ /home/paul/decaf-platform/target-mips/mips-defs.h \
+ /home/paul/decaf-platform/cpu-defs.h /home/paul/decaf-platform/config.h \
+ /home/paul/decaf-platform/osdep.h /home/paul/decaf-platform/qemu-queue.h \
+ /home/paul/decaf-platform/qemu-barrier.h \
+ /home/paul/decaf-platform/targphys.h \
+ /home/paul/decaf-platform/fpu/softfloat.h \
+ /home/paul/decaf-platform/config-host.h \
+ /home/paul/decaf-platform/cpu-all.h /home/paul/decaf-platform/qemu-tls.h \
+ /home/paul/decaf-platform/cpu-common.h /home/paul/decaf-platform/bswap.h \
+ /home/paul/decaf-platform/exec-all.h \
+ /home/paul/decaf-platform/qemu-log.h \
+ /home/paul/decaf-platform/qemu-lock.h \
+ /home/paul/decaf-platform/softmmu_defs.h \
+ /home/paul/decaf-platform/softmmu_header.h \
+ /home/paul/decaf-platform/module.h /home/paul/decaf-platform/hw/xen.h
 
-/home/paul/decaf-platform-read-only/qemu-common.h:
+/home/paul/decaf-platform/qemu-common.h:
 
-/home/paul/decaf-platform-read-only/compiler.h:
+/home/paul/decaf-platform/compiler.h:
 
-/home/paul/decaf-platform-read-only/config-host.h:
+/home/paul/decaf-platform/config-host.h:
 
 /usr/include/glib-2.0/glib.h:
 
@@ -249,52 +243,52 @@ xen-stub.o: /home/paul/decaf-platform-read-only/xen-stub.c \
 
 /usr/include/glib-2.0/glib/deprecated/gthread.h:
 
-/home/paul/decaf-platform-read-only/qemu-os-posix.h:
+/home/paul/decaf-platform/qemu-os-posix.h:
 
-/home/paul/decaf-platform-read-only/target-mips/cpu.h:
+/home/paul/decaf-platform/target-mips/cpu.h:
 
-/home/paul/decaf-platform-read-only/config.h:
+/home/paul/decaf-platform/config.h:
 
 config-target.h:
 
-/home/paul/decaf-platform-read-only/qemu-common.h:
+/home/paul/decaf-platform/qemu-common.h:
 
-/home/paul/decaf-platform-read-only/target-mips/mips-defs.h:
+/home/paul/decaf-platform/target-mips/mips-defs.h:
 
-/home/paul/decaf-platform-read-only/cpu-defs.h:
+/home/paul/decaf-platform/cpu-defs.h:
 
-/home/paul/decaf-platform-read-only/config.h:
+/home/paul/decaf-platform/config.h:
 
-/home/paul/decaf-platform-read-only/osdep.h:
+/home/paul/decaf-platform/osdep.h:
 
-/home/paul/decaf-platform-read-only/qemu-queue.h:
+/home/paul/decaf-platform/qemu-queue.h:
 
-/home/paul/decaf-platform-read-only/qemu-barrier.h:
+/home/paul/decaf-platform/qemu-barrier.h:
 
-/home/paul/decaf-platform-read-only/targphys.h:
+/home/paul/decaf-platform/targphys.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
-/home/paul/decaf-platform-read-only/config-host.h:
+/home/paul/decaf-platform/config-host.h:
 
-/home/paul/decaf-platform-read-only/cpu-all.h:
+/home/paul/decaf-platform/cpu-all.h:
 
-/home/paul/decaf-platform-read-only/qemu-tls.h:
+/home/paul/decaf-platform/qemu-tls.h:
 
-/home/paul/decaf-platform-read-only/cpu-common.h:
+/home/paul/decaf-platform/cpu-common.h:
 
-/home/paul/decaf-platform-read-only/bswap.h:
+/home/paul/decaf-platform/bswap.h:
 
-/home/paul/decaf-platform-read-only/exec-all.h:
+/home/paul/decaf-platform/exec-all.h:
 
-/home/paul/decaf-platform-read-only/qemu-log.h:
+/home/paul/decaf-platform/qemu-log.h:
 
-/home/paul/decaf-platform-read-only/qemu-lock.h:
+/home/paul/decaf-platform/qemu-lock.h:
 
-/home/paul/decaf-platform-read-only/softmmu_defs.h:
+/home/paul/decaf-platform/softmmu_defs.h:
 
-/home/paul/decaf-platform-read-only/softmmu_header.h:
+/home/paul/decaf-platform/softmmu_header.h:
 
-/home/paul/decaf-platform-read-only/module.h:
+/home/paul/decaf-platform/module.h:
 
-/home/paul/decaf-platform-read-only/hw/xen.h:
+/home/paul/decaf-platform/hw/xen.h:

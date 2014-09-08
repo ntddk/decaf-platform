@@ -63,14 +63,13 @@ net.o: net.c net.h qemu-queue.h qemu-barrier.h qemu-common.h compiler.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qdict.h qobject.h qlist.h qemu-option.h \
- net/queue.h qemu-common.h net/tap.h qemu-option.h net/socket.h net.h \
- net/dump.h net/slirp.h qdict.h net/vde.h net/util.h monitor.h \
- qemu-char.h qemu-config.h qstring.h main-loop.h qerror.h qemu-error.h \
- error.h block.h qemu-aio.h qemu-coroutine.h qemu_socket.h hw/qdev.h \
- hw/hw.h ioport.h qemu-common.h iorange.h hw/irq.h qemu-queue.h \
- qemu-char.h iov.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qdict.h qobject.h qlist.h qemu-option.h net/queue.h qemu-common.h \
+ net/tap.h qemu-option.h net/socket.h net.h net/dump.h net/slirp.h \
+ qdict.h net/vde.h net/util.h monitor.h qemu-char.h qemu-config.h \
+ qstring.h main-loop.h qerror.h qemu-error.h error.h block.h qemu-aio.h \
+ qemu-coroutine.h qemu_socket.h hw/qdev.h hw/hw.h ioport.h qemu-common.h \
+ iorange.h hw/irq.h qemu-queue.h qemu-char.h iov.h
 
 net.h:
 
@@ -242,7 +241,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

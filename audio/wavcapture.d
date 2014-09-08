@@ -63,12 +63,11 @@ audio/wavcapture.o: audio/wavcapture.c hw/hw.h qemu-common.h compiler.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h ioport.h qemu-common.h iorange.h hw/irq.h \
- monitor.h qemu-char.h qemu-queue.h qemu-barrier.h qemu-option.h qdict.h \
- qobject.h qlist.h qemu-config.h qstring.h main-loop.h qerror.h \
- qemu-error.h error.h block.h qemu-aio.h qemu-coroutine.h audio/audio.h \
- qemu-queue.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ ioport.h qemu-common.h iorange.h hw/irq.h monitor.h qemu-char.h \
+ qemu-queue.h qemu-barrier.h qemu-option.h qdict.h qobject.h qlist.h \
+ qemu-config.h qstring.h main-loop.h qerror.h qemu-error.h error.h \
+ block.h qemu-aio.h qemu-coroutine.h audio/audio.h qemu-queue.h
 
 hw/hw.h:
 
@@ -236,7 +235,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

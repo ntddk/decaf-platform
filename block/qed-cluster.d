@@ -64,12 +64,11 @@ block/qed-cluster.o: block/qed-cluster.c block/qed.h block_int.h block.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu-char.h qemu-queue.h qemu-barrier.h \
- qemu-option.h qdict.h qobject.h qlist.h qemu-config.h qstring.h \
- main-loop.h qemu-coroutine.h qemu-timer.h notify.h qapi-types.h \
- qapi/qapi-types-core.h qemu-common.h error.h monitor.h qerror.h \
- qemu-error.h error.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu-char.h qemu-queue.h qemu-barrier.h qemu-option.h qdict.h qobject.h \
+ qlist.h qemu-config.h qstring.h main-loop.h qemu-coroutine.h \
+ qemu-timer.h notify.h qapi-types.h qapi/qapi-types-core.h qemu-common.h \
+ error.h monitor.h qerror.h qemu-error.h error.h
 
 block/qed.h:
 
@@ -243,7 +242,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

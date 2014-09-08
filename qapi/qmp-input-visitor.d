@@ -64,12 +64,12 @@ qapi/qmp-input-visitor.o: qapi/qmp-input-visitor.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h error.h monitor.h qemu-common.h qemu-char.h \
- qemu-queue.h qemu-barrier.h qemu-option.h qdict.h qobject.h qlist.h \
- qemu-config.h qstring.h main-loop.h qerror.h qemu-error.h error.h \
- block.h qemu-aio.h qemu-coroutine.h qobject.h qemu-queue.h \
- qemu-objects.h qint.h qfloat.h qbool.h qjson.h qerror.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ error.h monitor.h qemu-common.h qemu-char.h qemu-queue.h qemu-barrier.h \
+ qemu-option.h qdict.h qobject.h qlist.h qemu-config.h qstring.h \
+ main-loop.h qerror.h qemu-error.h error.h block.h qemu-aio.h \
+ qemu-coroutine.h qobject.h qemu-queue.h qemu-objects.h qint.h qfloat.h \
+ qbool.h qjson.h qerror.h
 
 qapi/qmp-input-visitor.h:
 
@@ -241,7 +241,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

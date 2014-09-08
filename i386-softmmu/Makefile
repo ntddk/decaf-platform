@@ -1,1 +1,1 @@
-/home/paul/decaf-platform-read-only/Makefile.target
+/home/paul/decaf-platform/Makefile.target

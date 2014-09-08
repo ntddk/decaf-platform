@@ -63,26 +63,26 @@ slirp/socket.o: slirp/socket.c qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h /home/paul/decaf-platform-read-only/slirp/slirp.h \
- /home/paul/decaf-platform-read-only/slirp/slirp_config.h \
- /home/paul/decaf-platform-read-only/slirp/debug.h qemu-queue.h \
- qemu-barrier.h /home/paul/decaf-platform-read-only/slirp/libslirp.h \
- /home/paul/decaf-platform-read-only/slirp/ip.h \
- /home/paul/decaf-platform-read-only/slirp/tcp.h \
- /home/paul/decaf-platform-read-only/slirp/tcp_var.h \
- /home/paul/decaf-platform-read-only/slirp/tcpip.h \
- /home/paul/decaf-platform-read-only/slirp/tcp_timer.h \
- /home/paul/decaf-platform-read-only/slirp/udp.h \
- /home/paul/decaf-platform-read-only/slirp/ip_icmp.h \
- /home/paul/decaf-platform-read-only/slirp/mbuf.h \
- /home/paul/decaf-platform-read-only/slirp/sbuf.h \
- /home/paul/decaf-platform-read-only/slirp/socket.h \
- /home/paul/decaf-platform-read-only/slirp/if.h \
- /home/paul/decaf-platform-read-only/slirp/main.h \
- /home/paul/decaf-platform-read-only/slirp/misc.h \
- /home/paul/decaf-platform-read-only/slirp/bootp.h \
- /home/paul/decaf-platform-read-only/slirp/tftp.h slirp/ip_icmp.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ /home/paul/decaf-platform/slirp/slirp.h \
+ /home/paul/decaf-platform/slirp/slirp_config.h \
+ /home/paul/decaf-platform/slirp/debug.h qemu-queue.h qemu-barrier.h \
+ /home/paul/decaf-platform/slirp/libslirp.h \
+ /home/paul/decaf-platform/slirp/ip.h \
+ /home/paul/decaf-platform/slirp/tcp.h \
+ /home/paul/decaf-platform/slirp/tcp_var.h \
+ /home/paul/decaf-platform/slirp/tcpip.h \
+ /home/paul/decaf-platform/slirp/tcp_timer.h \
+ /home/paul/decaf-platform/slirp/udp.h \
+ /home/paul/decaf-platform/slirp/ip_icmp.h \
+ /home/paul/decaf-platform/slirp/mbuf.h \
+ /home/paul/decaf-platform/slirp/sbuf.h \
+ /home/paul/decaf-platform/slirp/socket.h \
+ /home/paul/decaf-platform/slirp/if.h \
+ /home/paul/decaf-platform/slirp/main.h \
+ /home/paul/decaf-platform/slirp/misc.h \
+ /home/paul/decaf-platform/slirp/bootp.h \
+ /home/paul/decaf-platform/slirp/tftp.h slirp/ip_icmp.h
 
 qemu-common.h:
 
@@ -248,52 +248,52 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
 module.h:
 
-/home/paul/decaf-platform-read-only/slirp/slirp.h:
+/home/paul/decaf-platform/slirp/slirp.h:
 
-/home/paul/decaf-platform-read-only/slirp/slirp_config.h:
+/home/paul/decaf-platform/slirp/slirp_config.h:
 
-/home/paul/decaf-platform-read-only/slirp/debug.h:
+/home/paul/decaf-platform/slirp/debug.h:
 
 qemu-queue.h:
 
 qemu-barrier.h:
 
-/home/paul/decaf-platform-read-only/slirp/libslirp.h:
+/home/paul/decaf-platform/slirp/libslirp.h:
 
-/home/paul/decaf-platform-read-only/slirp/ip.h:
+/home/paul/decaf-platform/slirp/ip.h:
 
-/home/paul/decaf-platform-read-only/slirp/tcp.h:
+/home/paul/decaf-platform/slirp/tcp.h:
 
-/home/paul/decaf-platform-read-only/slirp/tcp_var.h:
+/home/paul/decaf-platform/slirp/tcp_var.h:
 
-/home/paul/decaf-platform-read-only/slirp/tcpip.h:
+/home/paul/decaf-platform/slirp/tcpip.h:
 
-/home/paul/decaf-platform-read-only/slirp/tcp_timer.h:
+/home/paul/decaf-platform/slirp/tcp_timer.h:
 
-/home/paul/decaf-platform-read-only/slirp/udp.h:
+/home/paul/decaf-platform/slirp/udp.h:
 
-/home/paul/decaf-platform-read-only/slirp/ip_icmp.h:
+/home/paul/decaf-platform/slirp/ip_icmp.h:
 
-/home/paul/decaf-platform-read-only/slirp/mbuf.h:
+/home/paul/decaf-platform/slirp/mbuf.h:
 
-/home/paul/decaf-platform-read-only/slirp/sbuf.h:
+/home/paul/decaf-platform/slirp/sbuf.h:
 
-/home/paul/decaf-platform-read-only/slirp/socket.h:
+/home/paul/decaf-platform/slirp/socket.h:
 
-/home/paul/decaf-platform-read-only/slirp/if.h:
+/home/paul/decaf-platform/slirp/if.h:
 
-/home/paul/decaf-platform-read-only/slirp/main.h:
+/home/paul/decaf-platform/slirp/main.h:
 
-/home/paul/decaf-platform-read-only/slirp/misc.h:
+/home/paul/decaf-platform/slirp/misc.h:
 
-/home/paul/decaf-platform-read-only/slirp/bootp.h:
+/home/paul/decaf-platform/slirp/bootp.h:
 
-/home/paul/decaf-platform-read-only/slirp/tftp.h:
+/home/paul/decaf-platform/slirp/tftp.h:
 
 slirp/ip_icmp.h:

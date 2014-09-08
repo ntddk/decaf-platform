@@ -63,10 +63,10 @@ qemu-option.o: qemu-option.c qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu-error.h qemu-objects.h qobject.h qint.h \
- qfloat.h qbool.h qstring.h qdict.h qlist.h qemu-queue.h qemu-barrier.h \
- qjson.h qemu-option.h qerror.h error.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu-error.h qemu-objects.h qobject.h qint.h qfloat.h qbool.h qstring.h \
+ qdict.h qlist.h qemu-queue.h qemu-barrier.h qjson.h qemu-option.h \
+ qerror.h error.h
 
 qemu-common.h:
 
@@ -232,7 +232,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

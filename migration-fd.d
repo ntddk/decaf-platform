@@ -63,12 +63,12 @@ migration-fd.o: migration-fd.c qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu_socket.h qemu-option.h qemu-queue.h \
- qemu-barrier.h qdict.h qobject.h qlist.h migration.h notify.h error.h \
- monitor.h qemu-char.h qemu-config.h qstring.h main-loop.h qerror.h \
- qemu-error.h block.h qemu-aio.h qemu-coroutine.h buffered_file.h hw/hw.h \
- qemu-common.h ioport.h qemu-common.h iorange.h hw/irq.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu_socket.h qemu-option.h qemu-queue.h qemu-barrier.h qdict.h \
+ qobject.h qlist.h migration.h notify.h error.h monitor.h qemu-char.h \
+ qemu-config.h qstring.h main-loop.h qerror.h qemu-error.h block.h \
+ qemu-aio.h qemu-coroutine.h buffered_file.h hw/hw.h qemu-common.h \
+ ioport.h qemu-common.h iorange.h hw/irq.h
 
 qemu-common.h:
 
@@ -234,7 +234,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

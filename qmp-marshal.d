@@ -64,10 +64,10 @@ qmp-marshal.o: qmp-marshal.c qemu-objects.h qobject.h qint.h qfloat.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qjson.h qapi/qmp-core.h qobject.h qdict.h error.h \
- compiler.h qapi/qapi-visit-core.h qapi/qapi-types-core.h qemu-common.h \
- monitor.h qemu-common.h qemu-char.h qemu-queue.h qemu-option.h qdict.h \
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qjson.h qapi/qmp-core.h qobject.h qdict.h error.h compiler.h \
+ qapi/qapi-visit-core.h qapi/qapi-types-core.h qemu-common.h monitor.h \
+ qemu-common.h qemu-char.h qemu-queue.h qemu-option.h qdict.h \
  qemu-config.h qobject.h qstring.h main-loop.h qerror.h qemu-error.h \
  error.h block.h qemu-aio.h qemu-coroutine.h qapi/qmp-output-visitor.h \
  qapi/qapi-visit-core.h qapi/qmp-input-visitor.h \
@@ -258,7 +258,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

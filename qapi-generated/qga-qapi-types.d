@@ -1,5 +1,5 @@
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.o: \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.c \
+/home/paul/decaf-platform/qapi-generated/qga-qapi-types.o: \
+ /home/paul/decaf-platform/qapi-generated/qga-qapi-types.c \
  qapi/qapi-dealloc-visitor.h qapi/qapi-visit-core.h \
  qapi/qapi-types-core.h qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
@@ -66,13 +66,13 @@
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h error.h monitor.h qemu-common.h qemu-char.h \
- qemu-queue.h qemu-barrier.h qemu-option.h qdict.h qobject.h qlist.h \
- qemu-config.h qstring.h main-loop.h qerror.h qemu-error.h error.h \
- block.h qemu-aio.h qemu-coroutine.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.h \
- /home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-visit.h \
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ error.h monitor.h qemu-common.h qemu-char.h qemu-queue.h qemu-barrier.h \
+ qemu-option.h qdict.h qobject.h qlist.h qemu-config.h qstring.h \
+ main-loop.h qerror.h qemu-error.h error.h block.h qemu-aio.h \
+ qemu-coroutine.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qapi-types.h \
+ /home/paul/decaf-platform/qapi-generated/qga-qapi-visit.h \
  qapi/qapi-visit-core.h
 
 qapi/qapi-dealloc-visitor.h:
@@ -245,7 +245,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -289,8 +289,8 @@ qemu-aio.h:
 
 qemu-coroutine.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-types.h:
+/home/paul/decaf-platform/qapi-generated/qga-qapi-types.h:
 
-/home/paul/decaf-platform-read-only/qapi-generated/qga-qapi-visit.h:
+/home/paul/decaf-platform/qapi-generated/qga-qapi-visit.h:
 
 qapi/qapi-visit-core.h:

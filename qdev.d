@@ -1,4 +1,4 @@
-qdev.o: /home/paul/decaf-platform-read-only/hw/qdev.c net.h qemu-queue.h \
+qdev.o: /home/paul/decaf-platform/hw/qdev.c net.h qemu-queue.h \
  qemu-barrier.h qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
  /usr/include/glib-2.0/glib/gtypes.h \
@@ -64,14 +64,13 @@ qdev.o: /home/paul/decaf-platform-read-only/hw/qdev.c net.h qemu-queue.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qdict.h qobject.h qlist.h qemu-option.h \
- net/queue.h qemu-common.h /home/paul/decaf-platform-read-only/hw/qdev.h \
- /home/paul/decaf-platform-read-only/hw/hw.h ioport.h iorange.h \
- /home/paul/decaf-platform-read-only/hw/irq.h qemu-queue.h qemu-char.h \
- qemu-config.h qstring.h main-loop.h qemu-option.h sysemu.h qemu-timer.h \
- notify.h qapi-types.h qapi/qapi-types-core.h error.h monitor.h \
- qemu-char.h qerror.h qemu-error.h error.h block.h qemu-aio.h \
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qdict.h qobject.h qlist.h qemu-option.h net/queue.h qemu-common.h \
+ /home/paul/decaf-platform/hw/qdev.h /home/paul/decaf-platform/hw/hw.h \
+ ioport.h iorange.h /home/paul/decaf-platform/hw/irq.h qemu-queue.h \
+ qemu-char.h qemu-config.h qstring.h main-loop.h qemu-option.h sysemu.h \
+ qemu-timer.h notify.h qapi-types.h qapi/qapi-types-core.h error.h \
+ monitor.h qemu-char.h qerror.h qemu-error.h error.h block.h qemu-aio.h \
  qemu-coroutine.h
 
 net.h:
@@ -244,7 +243,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -262,15 +261,15 @@ net/queue.h:
 
 qemu-common.h:
 
-/home/paul/decaf-platform-read-only/hw/qdev.h:
+/home/paul/decaf-platform/hw/qdev.h:
 
-/home/paul/decaf-platform-read-only/hw/hw.h:
+/home/paul/decaf-platform/hw/hw.h:
 
 ioport.h:
 
 iorange.h:
 
-/home/paul/decaf-platform-read-only/hw/irq.h:
+/home/paul/decaf-platform/hw/irq.h:
 
 qemu-queue.h:
 

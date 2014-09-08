@@ -1,5 +1,5 @@
-ssi-sd.o: /home/paul/decaf-platform-read-only/hw/ssi-sd.c blockdev.h \
- block.h qemu-aio.h qemu-common.h compiler.h config-host.h \
+ssi-sd.o: /home/paul/decaf-platform/hw/ssi-sd.c blockdev.h block.h \
+ qemu-aio.h qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
  /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
@@ -64,15 +64,13 @@ ssi-sd.o: /home/paul/decaf-platform-read-only/hw/ssi-sd.c blockdev.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu-char.h qemu-queue.h qemu-barrier.h \
- qemu-option.h qdict.h qobject.h qlist.h qemu-config.h qstring.h \
- main-loop.h qemu-coroutine.h \
- /home/paul/decaf-platform-read-only/hw/ssi.h \
- /home/paul/decaf-platform-read-only/hw/qdev.h \
- /home/paul/decaf-platform-read-only/hw/hw.h qemu-common.h ioport.h \
- iorange.h /home/paul/decaf-platform-read-only/hw/irq.h qemu-queue.h \
- qemu-char.h qemu-option.h /home/paul/decaf-platform-read-only/hw/sd.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu-char.h qemu-queue.h qemu-barrier.h qemu-option.h qdict.h qobject.h \
+ qlist.h qemu-config.h qstring.h main-loop.h qemu-coroutine.h \
+ /home/paul/decaf-platform/hw/ssi.h /home/paul/decaf-platform/hw/qdev.h \
+ /home/paul/decaf-platform/hw/hw.h qemu-common.h ioport.h iorange.h \
+ /home/paul/decaf-platform/hw/irq.h qemu-queue.h qemu-char.h \
+ qemu-option.h /home/paul/decaf-platform/hw/sd.h
 
 blockdev.h:
 
@@ -244,7 +242,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -272,11 +270,11 @@ main-loop.h:
 
 qemu-coroutine.h:
 
-/home/paul/decaf-platform-read-only/hw/ssi.h:
+/home/paul/decaf-platform/hw/ssi.h:
 
-/home/paul/decaf-platform-read-only/hw/qdev.h:
+/home/paul/decaf-platform/hw/qdev.h:
 
-/home/paul/decaf-platform-read-only/hw/hw.h:
+/home/paul/decaf-platform/hw/hw.h:
 
 qemu-common.h:
 
@@ -284,7 +282,7 @@ ioport.h:
 
 iorange.h:
 
-/home/paul/decaf-platform-read-only/hw/irq.h:
+/home/paul/decaf-platform/hw/irq.h:
 
 qemu-queue.h:
 
@@ -292,4 +290,4 @@ qemu-char.h:
 
 qemu-option.h:
 
-/home/paul/decaf-platform-read-only/hw/sd.h:
+/home/paul/decaf-platform/hw/sd.h:

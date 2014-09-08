@@ -63,7 +63,7 @@ ui/vnc-enc-tight.o: ui/vnc-enc-tight.c config-host.h qemu-common.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h module.h \
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h module.h \
  /usr/include/libpng12/png.h /usr/include/libpng12/pngconf.h bswap.h \
  qint.h qobject.h ui/vnc.h qemu-queue.h qemu-barrier.h console.h \
  qemu-char.h qemu-common.h qemu-queue.h qemu-option.h qdict.h qlist.h \
@@ -239,7 +239,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 module.h:
 

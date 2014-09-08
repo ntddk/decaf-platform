@@ -64,9 +64,9 @@ qjson.o: qjson.c json-lexer.h qstring.h qobject.h qlist.h qemu-queue.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h json-parser.h error.h json-streamer.h qjson.h \
- qint.h qbool.h qfloat.h qdict.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ json-parser.h error.h json-streamer.h qjson.h qint.h qbool.h qfloat.h \
+ qdict.h
 
 json-lexer.h:
 
@@ -244,7 +244,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

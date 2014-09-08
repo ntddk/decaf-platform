@@ -1,7 +1,7 @@
-lm832x.o: /home/paul/decaf-platform-read-only/hw/lm832x.c \
- /home/paul/decaf-platform-read-only/hw/hw.h qemu-common.h compiler.h \
- config-host.h /usr/include/glib-2.0/glib.h \
- /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
+lm832x.o: /home/paul/decaf-platform/hw/lm832x.c \
+ /home/paul/decaf-platform/hw/hw.h qemu-common.h compiler.h config-host.h \
+ /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
+ /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
  /usr/include/glib-2.0/glib/gmacros.h \
  /usr/include/glib-2.0/glib/gversionmacros.h \
@@ -64,17 +64,15 @@ lm832x.o: /home/paul/decaf-platform-read-only/hw/lm832x.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h ioport.h qemu-common.h iorange.h \
- /home/paul/decaf-platform-read-only/hw/irq.h \
- /home/paul/decaf-platform-read-only/hw/i2c.h \
- /home/paul/decaf-platform-read-only/hw/qdev.h qemu-queue.h \
- qemu-barrier.h qemu-char.h qemu-queue.h qemu-option.h qdict.h qobject.h \
- qlist.h qemu-config.h qstring.h main-loop.h qemu-option.h qemu-timer.h \
- notify.h console.h qemu-char.h qerror.h qemu-error.h error.h monitor.h \
- block.h qemu-aio.h qemu-coroutine.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ ioport.h qemu-common.h iorange.h /home/paul/decaf-platform/hw/irq.h \
+ /home/paul/decaf-platform/hw/i2c.h /home/paul/decaf-platform/hw/qdev.h \
+ qemu-queue.h qemu-barrier.h qemu-char.h qemu-queue.h qemu-option.h \
+ qdict.h qobject.h qlist.h qemu-config.h qstring.h main-loop.h \
+ qemu-option.h qemu-timer.h notify.h console.h qemu-char.h qerror.h \
+ qemu-error.h error.h monitor.h block.h qemu-aio.h qemu-coroutine.h
 
-/home/paul/decaf-platform-read-only/hw/hw.h:
+/home/paul/decaf-platform/hw/hw.h:
 
 qemu-common.h:
 
@@ -240,7 +238,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -252,11 +250,11 @@ qemu-common.h:
 
 iorange.h:
 
-/home/paul/decaf-platform-read-only/hw/irq.h:
+/home/paul/decaf-platform/hw/irq.h:
 
-/home/paul/decaf-platform-read-only/hw/i2c.h:
+/home/paul/decaf-platform/hw/i2c.h:
 
-/home/paul/decaf-platform-read-only/hw/qdev.h:
+/home/paul/decaf-platform/hw/qdev.h:
 
 qemu-queue.h:
 

@@ -7,5 +7,5 @@
 #define PRECISE_EFLAGS
 #define PLUGIN_TRACECAP
 #define MEM_CHECK
-#define DECAF_HOME "/home/paul/decaf-platform-read-only"
-#define PLUGIN_PATH "/home/paul/decaf-platform-read-only/plugins/min_apitracer"
+#define DECAF_HOME "/home/paul/decaf-platform"
+#define PLUGIN_PATH "/home/paul/decaf-platform/plugins/min_apitracer"

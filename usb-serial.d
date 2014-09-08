@@ -1,5 +1,5 @@
-usb-serial.o: /home/paul/decaf-platform-read-only/hw/usb-serial.c \
- qemu-common.h compiler.h config-host.h /usr/include/glib-2.0/glib.h \
+usb-serial.o: /home/paul/decaf-platform/hw/usb-serial.c qemu-common.h \
+ compiler.h config-host.h /usr/include/glib-2.0/glib.h \
  /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
  /usr/include/glib-2.0/glib/gmacros.h \
@@ -63,15 +63,14 @@ usb-serial.o: /home/paul/decaf-platform-read-only/hw/usb-serial.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu-error.h \
- /home/paul/decaf-platform-read-only/hw/usb.h block.h qemu-aio.h \
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu-error.h /home/paul/decaf-platform/hw/usb.h block.h qemu-aio.h \
  qemu-common.h qemu-char.h qemu-queue.h qemu-barrier.h qemu-option.h \
  qdict.h qobject.h qlist.h qemu-config.h qstring.h main-loop.h \
- qemu-coroutine.h /home/paul/decaf-platform-read-only/hw/qdev.h \
- /home/paul/decaf-platform-read-only/hw/hw.h ioport.h iorange.h \
- /home/paul/decaf-platform-read-only/hw/irq.h qemu-queue.h qemu-char.h \
- qemu-option.h /home/paul/decaf-platform-read-only/hw/usb-desc.h
+ qemu-coroutine.h /home/paul/decaf-platform/hw/qdev.h \
+ /home/paul/decaf-platform/hw/hw.h ioport.h iorange.h \
+ /home/paul/decaf-platform/hw/irq.h qemu-queue.h qemu-char.h \
+ qemu-option.h /home/paul/decaf-platform/hw/usb-desc.h
 
 qemu-common.h:
 
@@ -237,7 +236,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -245,7 +244,7 @@ module.h:
 
 qemu-error.h:
 
-/home/paul/decaf-platform-read-only/hw/usb.h:
+/home/paul/decaf-platform/hw/usb.h:
 
 block.h:
 
@@ -275,15 +274,15 @@ main-loop.h:
 
 qemu-coroutine.h:
 
-/home/paul/decaf-platform-read-only/hw/qdev.h:
+/home/paul/decaf-platform/hw/qdev.h:
 
-/home/paul/decaf-platform-read-only/hw/hw.h:
+/home/paul/decaf-platform/hw/hw.h:
 
 ioport.h:
 
 iorange.h:
 
-/home/paul/decaf-platform-read-only/hw/irq.h:
+/home/paul/decaf-platform/hw/irq.h:
 
 qemu-queue.h:
 
@@ -291,4 +290,4 @@ qemu-char.h:
 
 qemu-option.h:
 
-/home/paul/decaf-platform-read-only/hw/usb-desc.h:
+/home/paul/decaf-platform/hw/usb-desc.h:

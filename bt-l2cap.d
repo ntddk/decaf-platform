@@ -1,5 +1,5 @@
-bt-l2cap.o: /home/paul/decaf-platform-read-only/hw/bt-l2cap.c \
- qemu-common.h compiler.h config-host.h /usr/include/glib-2.0/glib.h \
+bt-l2cap.o: /home/paul/decaf-platform/hw/bt-l2cap.c qemu-common.h \
+ compiler.h config-host.h /usr/include/glib-2.0/glib.h \
  /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
  /usr/include/glib-2.0/glib/gmacros.h \
@@ -63,9 +63,9 @@ bt-l2cap.o: /home/paul/decaf-platform-read-only/hw/bt-l2cap.c \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu-timer.h qemu-common.h main-loop.h notify.h \
- qemu-queue.h qemu-barrier.h /home/paul/decaf-platform-read-only/hw/bt.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu-timer.h qemu-common.h main-loop.h notify.h qemu-queue.h \
+ qemu-barrier.h /home/paul/decaf-platform/hw/bt.h
 
 qemu-common.h:
 
@@ -231,7 +231,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
@@ -249,4 +249,4 @@ qemu-queue.h:
 
 qemu-barrier.h:
 
-/home/paul/decaf-platform-read-only/hw/bt.h:
+/home/paul/decaf-platform/hw/bt.h:

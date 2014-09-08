@@ -63,10 +63,9 @@ net/dump.o: net/dump.c net/dump.h net.h qemu-queue.h qemu-barrier.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qdict.h qobject.h qlist.h qemu-option.h \
- net/queue.h qemu-common.h qemu-error.h qemu-log.h qemu-timer.h \
- main-loop.h notify.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qdict.h qobject.h qlist.h qemu-option.h net/queue.h qemu-common.h \
+ qemu-error.h qemu-log.h qemu-timer.h main-loop.h notify.h
 
 net/dump.h:
 
@@ -240,7 +239,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

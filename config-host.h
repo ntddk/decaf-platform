@@ -34,7 +34,7 @@
 #define CONFIG_UUID 1
 #define QEMU_VERSION "1.0"
 #define QEMU_PKGVERSION ""
-#define SRC_PATH "/home/paul/decaf-platform-read-only"
+#define SRC_PATH "/home/paul/decaf-platform"
 #define CONFIG_SDL 1
 #define CONFIG_CURSES 1
 #define CONFIG_ATFILE 1

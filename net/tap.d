@@ -63,13 +63,13 @@ net/tap.o: net/tap.c net/tap.h qemu-common.h compiler.h config-host.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h qemu-option.h qemu-queue.h qemu-barrier.h qdict.h \
- qobject.h qlist.h qemu-common.h net.h qemu-option.h net/queue.h sysemu.h \
- qemu-timer.h main-loop.h notify.h qapi-types.h qapi/qapi-types-core.h \
- error.h monitor.h qemu-char.h qemu-config.h qstring.h qerror.h \
- qemu-error.h error.h block.h qemu-aio.h qemu-coroutine.h qemu-char.h \
- qemu-error.h net/tap-linux.h hw/vhost_net.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h \
+ qemu-option.h qemu-queue.h qemu-barrier.h qdict.h qobject.h qlist.h \
+ qemu-common.h net.h qemu-option.h net/queue.h sysemu.h qemu-timer.h \
+ main-loop.h notify.h qapi-types.h qapi/qapi-types-core.h error.h \
+ monitor.h qemu-char.h qemu-config.h qstring.h qerror.h qemu-error.h \
+ error.h block.h qemu-aio.h qemu-coroutine.h qemu-char.h qemu-error.h \
+ net/tap-linux.h hw/vhost_net.h
 
 net/tap.h:
 
@@ -237,7 +237,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 

@@ -63,8 +63,7 @@ trace/control.o: trace/control.c trace/control.h qemu-common.h compiler.h \
  /usr/include/glib-2.0/glib/deprecated/gmain.h \
  /usr/include/glib-2.0/glib/deprecated/grel.h \
  /usr/include/glib-2.0/glib/deprecated/gthread.h qemu-os-posix.h osdep.h \
- bswap.h /home/paul/decaf-platform-read-only/fpu/softfloat.h \
- config-host.h module.h
+ bswap.h /home/paul/decaf-platform/fpu/softfloat.h config-host.h module.h
 
 trace/control.h:
 
@@ -232,7 +231,7 @@ osdep.h:
 
 bswap.h:
 
-/home/paul/decaf-platform-read-only/fpu/softfloat.h:
+/home/paul/decaf-platform/fpu/softfloat.h:
 
 config-host.h:
 
