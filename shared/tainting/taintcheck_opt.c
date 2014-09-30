@@ -243,16 +243,15 @@ int taintcheck_chk_hdread(const ram_addr_t paddr,unsigned long vaddr, const int 
 
 #ifdef CONFIG_TCG_TAINT
 
-//
-//the size should be less or equal to 8
-//Return: the bit wise  taint status of memory (vaddr,vaddr+size)
-//the mapping between return value and memory is:
-//Return bytes : 7,6,5,4,3,2,1,0 
-//Mem:          vaddr,vaddr+1,...vaddr+size
-//be carefull when check the taint status of specified byte in memory
-int  taintcheck_check_virtmem(uint32_t vaddr, uint32_t size, uint8_t * taint)
+/// \brief check the taint of a memory buffer given the start virtual address.
+///
+/// \param vaddr the virtual address of the memory buffer
+/// \param size  the memory buffer size
+/// \param taint the output taint array, it must hold at least [size] bytes
+///  \return 0 means success, -1 means failure	
+int  taintcheck_check_virtmem(gva_t vaddr, uint32_t size, uint8_t * taint)
 {
-	uint32_t paddr = 0, offset;
+	gpa_t paddr = 0, offset;
 	uint32_t size1, size2;
 	// uint8_t taint=0;
 	CPUState *env;
@@ -260,12 +259,13 @@ int  taintcheck_check_virtmem(uint32_t vaddr, uint32_t size, uint8_t * taint)
 
 	// AWH - If tainting is disabled, return no taint
 	if (!taint_tracking_enabled) {
-		*taint = 0;
-		return 1;
+		bzero(taint, size);
+		return 0;
 	}
 
 	paddr = DECAF_get_phys_addr(env,vaddr);
-	if(paddr == -1) return 0;
+	if(paddr == -1) return -1;
+
 	offset = vaddr& ~TARGET_PAGE_MASK;
 	if(offset+size > TARGET_PAGE_SIZE) {
 		size1 = TARGET_PAGE_SIZE-offset;
@@ -276,15 +276,57 @@ int  taintcheck_check_virtmem(uint32_t vaddr, uint32_t size, uint8_t * taint)
 	taint_mem_check(paddr, size1, taint);
 	if(size2) {
 		paddr = DECAF_get_phys_addr(env, (vaddr&TARGET_PAGE_MASK) + TARGET_PAGE_SIZE);
-		if(paddr != -1){
-			// taint<<size2*8;
-			//  taint|=taint_mem_check(paddr,size2)>>(8-size2)*8;
-			taint_mem_check(paddr, size2, (uint8_t*)(taint+size1));
-		}
+		if(paddr == -1)
+			return -1;
+	
+		taint_mem_check(paddr, size2, (uint8_t*)(taint+size1));
 	}
 
-	return 1;
+	return 0;
 }
+
+
+/// \brief set taint for a memory buffer given the start virtual address.
+///
+/// \param vaddr the virtual address of the memory buffer
+/// \param size  the memory buffer size
+/// \param taint the taint array, it must hold at least [size] bytes
+/// \return 0 means success, -1 means failure	
+int  taintcheck_taint_virtmem(gva_t vaddr, uint32_t size, uint8_t * taint)
+{
+	gpa_t paddr = 0, offset;
+	uint32_t size1, size2;
+	// uint8_t taint=0;
+	CPUState *env;
+	env = cpu_single_env ? cpu_single_env : first_cpu;
+
+	// AWH - If tainting is disabled, return no taint
+	if (!taint_tracking_enabled) {
+		return 0;
+	}
+
+	paddr = DECAF_get_phys_addr(env,vaddr);
+	if(paddr == -1) return -1;
+
+	offset = vaddr& ~TARGET_PAGE_MASK;
+	if(offset+size > TARGET_PAGE_SIZE) {
+		size1 = TARGET_PAGE_SIZE-offset;
+		size2 = size -size1;
+	} else
+		size1 = size, size2 = 0;
+
+	taint_mem(paddr, size1, taint);
+	if(size2) {
+		paddr = DECAF_get_phys_addr(env, (vaddr&TARGET_PAGE_MASK) + TARGET_PAGE_SIZE);
+		if(paddr == -1)
+			return -1;
+	
+		taint_mem(paddr, size2, (uint8_t*)(taint+size1));
+	}
+
+	return 0;
+}
+
 
 
 void taintcheck_nic_writebuf(const uint32_t addr, const int size, const uint8_t * taint)

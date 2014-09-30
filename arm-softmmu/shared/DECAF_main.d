@@ -115,6 +115,7 @@ shared/DECAF_main.o: /home/paul/decaf-platform/shared/DECAF_main.c \
  /home/paul/decaf-platform/targphys.h \
  /home/paul/decaf-platform/compiler.h \
  /home/paul/decaf-platform/shared/DECAF_callback.h \
+ /home/paul/decaf-platform/shared/procmod.h \
  /home/paul/decaf-platform/shared/tainting/taint_memory.h \
  /home/paul/decaf-platform/shared/DECAF_types.h \
  /home/paul/decaf-platform/shared/tainting/taintcheck_opt.h \
@@ -407,6 +408,8 @@ config-target.h:
 /home/paul/decaf-platform/compiler.h:
 
 /home/paul/decaf-platform/shared/DECAF_callback.h:
+
+/home/paul/decaf-platform/shared/procmod.h:
 
 /home/paul/decaf-platform/shared/tainting/taint_memory.h:
 

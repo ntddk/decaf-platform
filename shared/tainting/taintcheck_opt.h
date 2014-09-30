@@ -96,7 +96,9 @@ static inline void taint_mem_check(uint32_t addr, uint32_t size, uint8_t * taint
 
 uint64_t taintcheck_memory_check(uint32_t addr, int size);
 
-int taintcheck_check_virtmem(uint32_t vaddr, uint32_t size,uint8_t *taint);
+int taintcheck_check_virtmem(gva_t vaddr, uint32_t size,uint8_t *taint);
+
+int  taintcheck_taint_virtmem(gva_t vaddr, uint32_t size, uint8_t * taint);
 
 void taintcheck_nic_writebuf(const uint32_t addr, const int size, const uint8_t * taint);
 

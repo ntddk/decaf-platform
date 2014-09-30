@@ -94,11 +94,15 @@ module* VMI_find_module_by_key(const char *key);
 
 int VMI_create_process(process *proc);
 int VMI_remove_process(uint32_t pid);
-
+int VMI_update_name(uint32_t pid, char *name);
+int VMI_remove_all();
 int VMI_insert_module(uint32_t pid, uint32_t base, module *mod);
 int VMI_remove_module(uint32_t pid, uint32_t base);
-
+int VMI_dipatch_lmm(process *proc);
+int VMI_dispatch_lm(module * m,process *proc, gva_t base);
 extern "C" void VMI_init();
+extern "C" int procmod_init();
+extern "C" void handle_guest_message(const char *message);
 #endif /* VMI_H_ */
 
 //#endif /*CONFIG_VMI_ENABLE*/

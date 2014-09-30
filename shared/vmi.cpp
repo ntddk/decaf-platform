@@ -264,6 +264,7 @@ int VMI_unregister_callback(VMI_callback_type_t cb_type, DECAF_Handle handle)
 
 int VMI_create_process(process *proc)
 {
+	
 	VMI_Callback_Params params;
 	params.cp.cr3 = proc->cr3;
 	params.cp.pid = proc->pid;
@@ -273,6 +274,7 @@ int VMI_create_process(process *proc)
     if (iter != process_pid_map.end()){
     	// Found an existing process with the same pid
     	// We force to remove that one.
+    //	monitor_printf(default_mon, "remove process pid %d", proc->pid);
     	VMI_remove_process(proc->pid);
     }
 
@@ -281,7 +283,8 @@ int VMI_create_process(process *proc)
     if (iter2 != process_map.end()) {
     	// Found an existing process with the same CR3
     	// We force to remove that process
-    	VMI_remove_process(iter2->second->pid);
+    //	monitor_printf(default_mon, "removing due to cr3 0x%08x\n", proc->cr3);
+    		VMI_remove_process(iter2->second->pid);
     }
 
    	process_pid_map[proc->pid] = proc;
@@ -399,9 +402,38 @@ int VMI_remove_module(uint32_t pid, uint32_t base)
 	return 0;
 }
 
+int VMI_update_name(uint32_t pid, char *name)
+{
+	monitor_printf(default_mon,"updating name : not implemented\n");
+}
+int VMI_remove_all()
+{
+	monitor_printf(default_mon,"remove all not implemented\n");
+}
 
+int VMI_dipatch_lmm(process *proc)
+{
 
+	VMI_Callback_Params params;
+	params.cp.cr3 = proc->cr3;
+	params.cp.pid = proc->pid;
+	params.cp.name = proc->name;
 
+	SimpleCallback_dispatch(&VMI_callbacks[VMI_CREATEPROC_CB], &params);
+
+	return 0;
+}
+int VMI_dispatch_lm(module * m, process *p, gva_t base)
+{
+  VMI_Callback_Params params;
+  params.lm.pid = p->pid;
+  params.lm.base = base;
+  params.lm.name = m->name;
+  params.lm.size = m->size;
+  params.lm.full_name = m->fullname;
+    params.lm.cr3 = p->cr3;
+        SimpleCallback_dispatch(&VMI_callbacks[VMI_LOADMODULE_CB], &params);
+}
 
 void VMI_init()
 {

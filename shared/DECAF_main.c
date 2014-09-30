@@ -31,6 +31,7 @@
 #include "shared/DECAF_callback_to_QEMU.h"
 #include "shared/hookapi.h"
 #include "DECAF_target.h"
+#include "procmod.h"
 #ifdef CONFIG_TCG_TAINT
 #include "tainting/taint_memory.h"
 #include "tainting/taintcheck_opt.h"
@@ -518,7 +519,9 @@ void DECAF_init(void) {
 	DECAF_vm_compress_init();
 	function_map_init();
 	init_hookapi();
-#ifdef CONFIG_VMI_ENABLE
+#ifndef CONFIG_VMI_ENABLE
+	procmod_init();
+#else
 	VMI_init();
 #endif
 }
@@ -527,7 +530,9 @@ void DECAF_init(void) {
  * NIC related functions
  */
 static void DECAF_virtdev_write_data(void *opaque, uint32_t addr, uint32_t val) {
-#if 0
+
+
+
 	static char syslogline[GUEST_MESSAGE_LEN];
 	static int pos = 0;
 
@@ -536,13 +541,14 @@ static void DECAF_virtdev_write_data(void *opaque, uint32_t addr, uint32_t val) 
 
 	if ((syslogline[pos++] = (char) val) == 0) {
 #ifndef CONFIG_VMI_ENABLE
+		
 		handle_guest_message(syslogline);
 		fprintf(guestlog, "%s", syslogline);
 		fflush(guestlog);
 #endif
 		pos = 0;
 	}
-#endif
+
 }
 
 void DECAF_virtdev_init(void) {

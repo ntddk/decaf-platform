@@ -85,8 +85,25 @@ BYTE *recon_file_data_raw = 0;
 /* Timer to check for proc exits */
 static QEMUTimer *recon_timer = NULL;
 
-
 unordered_map < uint32_t, pair<module *, uint32_t> > phys_module_map;
+
+
+
+static const char * dll_modules_list[] = {
+	"ntdll.dll", "kernel32.dll", "ntoskrnl.exe", "hal.dll", "win32k.sys", "ndis.sys", "user32.dll", "advapi32.dll", "psapi.dll", "shell.dll", "ws2_32.dll",
+};
+
+static bool should_extract_symbol(const char *module_name)
+{
+	for (int i=0; i<sizeof(dll_modules_list)/sizeof(const char *); i++) {
+		if (!strcasecmp(module_name, dll_modules_list[i]))
+			return true;
+
+	}
+	return false;
+}
+
+
 
 
 static inline int is_page_resolved(process *proc, uint32_t page_num)
@@ -404,11 +421,17 @@ static void extract_export_table(IMAGE_NT_HEADERS *nth, uint32_t cr3, uint32_t b
 		if(index >= ied.NumberOfFunctions)
 			continue;
 
-		DECAF_read_mem(_env, base + name_addrs[i], sizeof(name)-1, name);
+		if(DECAF_read_mem(_env, base + name_addrs[i], sizeof(name)-1, name) < 0)
+			goto done;
+
 		name[127] = 0;
 		funcmap_insert_function(mod->name, name, func_addrs[index]);
+/*		if(!strcasecmp(mod->name, "kernel32.dll"))
+			monitor_printf(default_mon, 
+				"i=%d name=%s index=%d func=%08x\n", i, name, index, func_addrs[index]); */
+
 	}
-	//monitor_printf(default_mon, "%s: Total exports = %d, %d\n", mod->fullname, ied.NumberOfFunctions, ied.NumberOfNames);
+	monitor_printf(default_mon, "%s: Total exports = %d, %d\n", mod->fullname, ied.NumberOfFunctions, ied.NumberOfNames);
 
 	mod->symbols_extracted = true;
 
@@ -428,6 +451,11 @@ done:
 static void extract_PE_info(uint32_t cr3, uint32_t base, module *mod, CPUState *_env)
 {
 	IMAGE_NT_HEADERS nth;
+
+	if (!should_extract_symbol(mod->name)) {
+		mod->symbols_extracted = true; //just set it to be true, so we don't extract it.
+		return;
+	}
 
 	if (get_IMAGE_NT_HEADERS(cr3, base, &nth, _env) < 0)
 		return;
@@ -489,6 +517,7 @@ static void tlb_call_back(DECAF_Callback_Params *temp)
 	}
 
 	if (proc ) {
+		
 		if (!is_page_resolved(proc, vaddr)) {
 			get_new_modules(ourenv, proc, vaddr);
 
@@ -500,6 +529,7 @@ static void tlb_call_back(DECAF_Callback_Params *temp)
 
 		}
 		retrieve_missing_symbols(proc, ourenv);
+	
 	}
 }
 

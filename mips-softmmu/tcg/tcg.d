@@ -101,6 +101,9 @@ tcg/tcg.o: /home/paul/decaf-platform/tcg/tcg.c \
  /home/paul/decaf-platform/qdict.h /home/paul/decaf-platform/qobject.h \
  /home/paul/decaf-platform/qlist.h \
  /home/paul/decaf-platform/shared/DECAF_types.h \
+ /home/paul/decaf-platform/shared/DECAF_callback_to_QEMU.h \
+ /home/paul/decaf-platform/shared/DECAF_callback_common.h \
+ /home/paul/decaf-platform/shared/DECAF_types.h \
  /home/paul/decaf-platform/tcg/i386/../../softmmu_defs.h
 
 /home/paul/decaf-platform/config.h:
@@ -344,6 +347,12 @@ config-target.h:
 /home/paul/decaf-platform/qobject.h:
 
 /home/paul/decaf-platform/qlist.h:
+
+/home/paul/decaf-platform/shared/DECAF_types.h:
+
+/home/paul/decaf-platform/shared/DECAF_callback_to_QEMU.h:
+
+/home/paul/decaf-platform/shared/DECAF_callback_common.h:
 
 /home/paul/decaf-platform/shared/DECAF_types.h:
 
