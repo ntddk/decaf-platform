@@ -6855,6 +6855,25 @@ static target_ulong disas_insn(DisasContext *s, target_ulong pc_start)
         }
         break;
     case 0xcc: /* int3 */
+        /* Aravind:
+         * We are within an interrupt. We fire opcode specific callback. 
+         * NOTE the exception that for int, this callback is triggered on insn_begin.
+         */
+        if(DECAF_is_callback_needed(DECAF_OPCODE_RANGE_CB) &&
+                DECAF_is_callback_needed_for_opcode(b)) {
+            TCGv t_cur_pc, t_next_pc, t_opcode;
+
+            t_cur_pc = tcg_const_ptr(cur_pc);
+            t_next_pc = tcg_temp_new_ptr();
+            tcg_gen_ld_tl(t_next_pc, cpu_env, offsetof(CPUState, eip));
+            t_opcode = tcg_const_i32(b);
+            gen_helper_DECAF_invoke_opcode_range_callback(cpu_env, t_cur_pc, t_next_pc, t_opcode);
+
+            tcg_temp_free(t_cur_pc);
+            tcg_temp_free(t_next_pc);
+            tcg_temp_free_i32(t_opcode);
+        }
+
         gen_interrupt(s, EXCP03_INT3, pc_start - s->cs_base, s->pc - s->cs_base);
         break;
     case 0xcd: /* int N */
@@ -6862,6 +6881,25 @@ static target_ulong disas_insn(DisasContext *s, target_ulong pc_start)
         if (s->vm86 && s->iopl != 3) {
             gen_exception(s, EXCP0D_GPF, pc_start - s->cs_base);
         } else {
+            /* Aravind:
+             * We are within an interrupt. We fire opcode specific callback. 
+             * NOTE the exception that for int, this callback is triggered on insn_begin.
+             */
+            if(DECAF_is_callback_needed(DECAF_OPCODE_RANGE_CB) &&
+                    DECAF_is_callback_needed_for_opcode(b)) {
+                TCGv t_cur_pc, t_next_pc, t_opcode;
+
+                t_cur_pc = tcg_const_ptr(cur_pc);
+                t_next_pc = tcg_temp_new_ptr();
+                tcg_gen_ld_tl(t_next_pc, cpu_env, offsetof(CPUState, eip));
+                t_opcode = tcg_const_i32(b);
+                gen_helper_DECAF_invoke_opcode_range_callback(cpu_env, t_cur_pc, t_next_pc, t_opcode);
+
+                tcg_temp_free(t_cur_pc);
+                tcg_temp_free(t_next_pc);
+                tcg_temp_free_i32(t_opcode);
+            }
+
             gen_interrupt(s, val, pc_start - s->cs_base, s->pc - s->cs_base);
         }
         break;
